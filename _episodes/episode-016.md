@@ -197,6 +197,23 @@ audio_files:
       channels: 2
       sample_rate: '48000'
       bit_depth: 0
+- file_name: ZOOM0004_Jan10.WAV
+  mic_owner: Room Backup
+  file_path: "/Volumes/HARRY/Yoshi 2 Podcast/Zoom-Q2N/ZOOM0004_Jan10.WAV"
+  metadata:
+    file_size: 1.34GB
+    created_at: '1980-01-01 00:00:00'
+    modified_at: '2025-01-10 22:12:28'
+    format: wav
+    duration: 1h23m34s
+    bit_rate: 2304 kb/s
+    recording_date:
+    recording_time:
+    audio:
+      codec: pcm_s24le
+      channels: 2
+      sample_rate: '48000'
+      bit_depth: 24
 transcript_file: episode-016-transcript.md
 ---
 Ninth episode with Yoshi, Christian and Harry.
