@@ -5,14 +5,24 @@ require 'json'
 require 'time'
 
 def extract_metadata_from_file(path)
-  return nil unless File.exist?(path)
+  return { error: "File does not exist: #{path}" } unless File.exist?(path)
   
   begin
-    json_output = `ffprobe -v quiet -show_format -show_streams -print_format json "#{path}"`
-    return nil if json_output.empty?
+    command = "ffprobe -v quiet -show_format -show_streams -print_format json \"#{path}\""
+    json_output = `#{command}`
+    
+    if json_output.empty?
+      return { error: "ffprobe command returned no output", command: command }
+    end
 
     data = JSON.parse(json_output)
-    return nil unless data['format'] && data['streams']
+    unless data['format'] && data['streams']
+      return { 
+        error: "ffprobe output missing format or streams data",
+        command: command,
+        output: json_output
+      }
+    end
     
     # Get file stats
     file_stats = File.stat(path)
@@ -70,8 +80,10 @@ def extract_metadata_from_file(path)
     
     metadata
   rescue => e
-    puts "Error processing #{path}: #{e.message}"
-    nil
+    return { 
+      error: "Error processing #{path}: #{e.message}",
+      command: command
+    }
   end
 end
 
@@ -125,34 +137,48 @@ def process_episode_file(file_path)
     # Process video files
     if data['video_files']
       data['video_files'].map! do |video|
-        next video unless video['file_path']
-        
-        metadata = extract_metadata_from_file(video['file_path'])
-        if metadata
-          puts "Found metadata for #{video['file_path']}"
-          modified = true
-          video.merge!('metadata' => metadata)
-        else
-          puts "No metadata found for #{video['file_path']}"
-          video
+        if video['file_path']
+          metadata = extract_metadata_from_file(video['file_path'])
+          if metadata&.key?(:error)
+            puts "\nError processing #{video['file_path']}:"
+            puts "  #{metadata[:error]}"
+            if metadata[:command]
+              puts "  Command used: #{metadata[:command]}"
+            end
+            if metadata[:output]
+              puts "  Command output: #{metadata[:output]}"
+            end
+          elsif metadata
+            puts "Found metadata for #{video['file_path']}"
+            modified = true
+            video.merge!('metadata' => metadata)
+          end
         end
+        video
       end
     end
     
     # Process audio files
     if data['audio_files']
       data['audio_files'].map! do |audio|
-        next audio unless audio['file_path']
-        
-        metadata = extract_metadata_from_file(audio['file_path'])
-        if metadata
-          puts "Found metadata for #{audio['file_path']}"
-          modified = true
-          audio.merge!('metadata' => metadata)
-        else
-          puts "No metadata found for #{audio['file_path']}"
-          audio
+        if audio['file_path']
+          metadata = extract_metadata_from_file(audio['file_path'])
+          if metadata&.key?(:error)
+            puts "\nError processing #{audio['file_path']}:"
+            puts "  #{metadata[:error]}"
+            if metadata[:command]
+              puts "  Command used: #{metadata[:command]}"
+            end
+            if metadata[:output]
+              puts "  Command output: #{metadata[:output]}"
+            end
+          elsif metadata
+            puts "Found metadata for #{audio['file_path']}"
+            modified = true
+            audio.merge!('metadata' => metadata)
+          end
         end
+        audio
       end
     end
     

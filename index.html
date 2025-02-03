@@ -8,7 +8,7 @@ title: Yoshi Podcast Episodes
   
   {% assign episodes = site.episodes | sort: "title" %}
   {% for episode in episodes %}
-    {% assign video = episode.video_files | where_exp: "item", "item.description contains 'Camcorder'" | first %}
+    {% assign video = episode.video_files | first %}
     <div class="episode-card">
       <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
       

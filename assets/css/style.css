@@ -245,20 +245,47 @@ nav a {
 }
 
 .file-info {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  text-align: left;
   margin-bottom: 0.5rem;
 }
 
-.file-info strong {
-  color: #333;
+.file-path-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.25rem;
 }
 
-.file-info .filename {
-  color: #666;
+.filename {
+  font-family: 'Courier New', Courier, monospace;
   font-size: 0.9rem;
-  font-family: monospace;
+  color: #666;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.copy-buttons {
+  display: flex;
+  gap: 0.25rem;
+  flex-shrink: 0;
+}
+
+.copy-btn {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.copy-btn:hover {
+  background: #e5e5e5;
+}
+
+.copy-btn i {
+  color: #666;
 }
 
 /* Footer */

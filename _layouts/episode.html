@@ -7,7 +7,7 @@ layout: default
     <h1>{{ page.title }}</h1>
     
     <!-- Key Episode Metadata -->
-    {% assign video = page.video_files | where_exp: "item", "item.description contains 'Camcorder'" | first %}
+    {% assign video = page.video_files | first %}
     {% if video.metadata %}
     <div class="episode-metadata">
       <div class="key-metadata">
@@ -42,7 +42,17 @@ layout: default
       <div class="media-file">
         <div class="file-info">
           <strong>{{ video.description }}</strong>
-          <span class="filename">{{ video.file_name }}</span>
+          <div class="file-path-container">
+            <span class="filename" title="{{ video.file_path }}">{{ video.file_path }}</span>
+            <div class="copy-buttons">
+              <button class="copy-btn" data-copy-type="folder" data-path="{{ video.file_path | split: '/' | pop | join: '/' }}" title="Copy folder path">
+                <i class="fas fa-folder"></i>
+              </button>
+              <button class="copy-btn" data-copy-type="file" data-path="{{ video.file_path }}" title="Copy file path">
+                <i class="fas fa-file"></i>
+              </button>
+            </div>
+          </div>
         </div>
         {% if video.metadata %}
         <details class="technical-details">
@@ -131,7 +141,17 @@ layout: default
       <div class="media-file">
         <div class="file-info">
           <strong>{{ audio.mic_owner }}'s Mic</strong>
-          <span class="filename">{{ audio.file_name }}</span>
+          <div class="file-path-container">
+            <span class="filename" title="{{ audio.file_path }}">{{ audio.file_path }}</span>
+            <div class="copy-buttons">
+              <button class="copy-btn" data-copy-type="folder" data-path="{{ audio.file_path | split: '/' | pop | join: '/' }}" title="Copy folder path">
+                <i class="fas fa-folder"></i>
+              </button>
+              <button class="copy-btn" data-copy-type="file" data-path="{{ audio.file_path }}" title="Copy file path">
+                <i class="fas fa-file"></i>
+              </button>
+            </div>
+          </div>
         </div>
         {% if audio.metadata %}
         <details class="technical-details">
@@ -201,6 +221,8 @@ layout: default
 
 </div>
 
+<div class="toast-container"></div>
+
 <style>
 .episode-metadata {
   margin: 1rem 0;
@@ -242,6 +264,33 @@ layout: default
   color: #666;
 }
 
+.file-path-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.copy-buttons {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.copy-btn {
+  background: #f9f9f9;
+  border: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: #eee;
+}
+
+.copy-btn i {
+  color: #666;
+}
+
 .technical-details {
   margin-top: 0.5rem;
   border-top: 1px solid #eee;
@@ -276,4 +325,75 @@ layout: default
 .metadata-group p {
   margin: 0.25rem 0;
 }
+
+.toast-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.toast {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 4px;
+  margin: 8px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: all 0.3s ease;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.toast i {
+  color: #4CAF50;
+}
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const toastContainer = document.querySelector('.toast-container');
+
+  function showToast(message) {
+    const toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.innerHTML = `
+      <i class="fas fa-check-circle"></i>
+      ${message}
+    `;
+    toastContainer.appendChild(toast);
+    
+    // Trigger reflow to enable animation
+    toast.offsetHeight;
+    toast.classList.add('show');
+    
+    setTimeout(() => {
+      toast.classList.remove('show');
+      setTimeout(() => {
+        toastContainer.removeChild(toast);
+      }, 300);
+    }, 2000);
+  }
+
+  document.querySelectorAll('.copy-btn').forEach(button => {
+    button.addEventListener('click', function() {
+      const path = this.dataset.path;
+      const type = this.dataset.copyType;
+      navigator.clipboard.writeText(path).then(() => {
+        const message = type === 'folder' 
+          ? `Folder path copied to clipboard: ${path}`
+          : `File path copied to clipboard: ${path}`;
+        showToast(message);
+      });
+    });
+  });
+});
+</script>
