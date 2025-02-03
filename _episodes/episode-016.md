@@ -220,3 +220,5 @@ Ninth episode with Yoshi, Christian and Harry.
 
 We ran out of space on the first Zoom SSD and lost some in the middle. Later we switch to a second SSD. Will need the camcorder audio for the middle of this episode.
 
+Note check the Zoom files are in the right order!
+
