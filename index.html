@@ -1,22 +1,62 @@
 ---
 layout: default
-title: "Podcast Episodes"
+title: Yoshi Podcast Episodes
 ---
 
-<div class="episodes-list">
-  <h2>All Episodes</h2>
+<div class="episodes">
+  <h1>Episodes</h1>
   
   {% assign sorted_episodes = site.episodes | sort: 'date' | reverse %}
-  
   {% for episode in sorted_episodes %}
-    <article class="episode-preview">
-      <h3>
-        <a href="{{ episode.url | relative_url }}">{{ episode.short_title }}</a>
-      </h3>
-      <p class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</p>
+    <div class="episode-summary">
+      <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+      <p class="episode-metadata">
+        <strong>Recorded:</strong> {{ episode.date | date: "%B %d, %Y" }} at {{ episode.time }} ({{ episode.duration }})
+      </p>
       {% if episode.description %}
-        <p class="episode-description">{{ episode.description | strip_html | truncate: 150 }}</p>
+        <p class="description">{{ episode.description }}</p>
       {% endif %}
-    </article>
+    </div>
   {% endfor %}
 </div>
+
+<style>
+.episodes {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.episode-summary {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.episode-summary:last-child {
+  border-bottom: none;
+}
+
+.episode-summary h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.episode-summary h2 a {
+  color: #2c5282;
+  text-decoration: none;
+}
+
+.episode-summary h2 a:hover {
+  text-decoration: underline;
+}
+
+.episode-metadata {
+  color: #4a5568;
+  margin: 0.5rem 0;
+}
+
+.description {
+  color: #4a5568;
+  margin: 0.5rem 0 0 0;
+}
+</style>

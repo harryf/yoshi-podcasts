@@ -1,101 +1,253 @@
----
-layout: default
----
-<article class="episode">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Episode 001 - Yoshi and Harry 1-on-1 - Round 1 | Yoshi Podcasts</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Episode 001 - Yoshi and Harry 1-on-1 - Round 1 | Yoshi Podcasts</title>
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Episode 001 - Yoshi and Harry 1-on-1 - Round 1" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Yoshi and Harry 1-on-1 first time" />
+<meta property="og:description" content="Yoshi and Harry 1-on-1 first time" />
+<link rel="canonical" href="http://localhost:4000/episodes/episode-001/" />
+<meta property="og:url" content="http://localhost:4000/episodes/episode-001/" />
+<meta property="og:site_name" content="Yoshi Podcasts" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-11-22T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Episode 001 - Yoshi and Harry 1-on-1 - Round 1" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-11-22T00:00:00+01:00","datePublished":"2024-11-22T00:00:00+01:00","description":"Yoshi and Harry 1-on-1 first time","headline":"Episode 001 - Yoshi and Harry 1-on-1 - Round 1","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/episodes/episode-001/"},"url":"http://localhost:4000/episodes/episode-001/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+<body>
   <header>
-    <h1>{{ page.title }}</h1>
+    <h1><a href="/">Yoshi Podcasts</a></h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+  <main>
+    <article class="episode">
+  <header>
+    <h1>Episode 001 - Yoshi and Harry 1-on-1 - Round 1</h1>
     <div class="episode-metadata">
       <p>
-        <strong>Recorded:</strong> {{ page.date | date: "%B %d, %Y" }} at {{ page.time }} ({{ page.duration }})
+        <strong>Recorded:</strong> November 22, 2024 at 18:26 (1h33m5s)
       </p>
     </div>
   </header>
 
-  {% if page.description %}
+  
   <section class="episode-description">
-    <p>{{ page.description }}</p>
+    <p>Yoshi and Harry 1-on-1 first time</p>
   </section>
-  {% endif %}
+  
 
   <section class="media-files">
-    {% if page.video_files %}
+    
     <h3>Video Files</h3>
     <ul class="video-list">
-      {% for video in page.video_files %}
+      
         <li>
-          <strong>{{ video.file_name }}</strong>
-          {% if video.description %}<br>
-          <span class="description">{{ video.description }}</span>{% endif %}
+          <strong>C0037.mp4</strong>
+          <br>
+          <span class="description">Full room camera - Camcorder</span>
           <div class="path-info">
             <div>
-              <span class="path-copy" onclick="copyPath('{{ video.file_path | split: video.file_name | first }}')">
-                📁 Directory: {{ video.file_path | split: video.file_name | first }}
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Camcorder/')">
+                📁 Directory: /Volumes/T7/Yoshi Podcast/Camcorder/
               </span>
             </div>
             <div>
-              <span class="path-copy" onclick="copyPath('{{ video.file_path }}')">
-                📄 Full path: {{ video.file_path }}
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Camcorder/C0037.mp4')">
+                📄 Full path: /Volumes/T7/Yoshi Podcast/Camcorder/C0037.mp4
               </span>
             </div>
           </div>
           <br>
-          <button onclick="openLocalFile('{{ video.file_path | uri_escape }}')" class="file-link">View Video</button>
+          <button onclick="openLocalFile('/Volumes/T7/Yoshi%20Podcast/Camcorder/C0037.mp4')" class="file-link">View Video</button>
           <div class="media-metadata">
-            {% media_metadata video.file_path %}
+            <div class="media-metadata">
+<div class="metadata-section">
+<h4>Recording Info</h4>
+<p><strong>Recorded:</strong> November 22, 2024 at 06:26 PM</p>
+<p><strong>Duration:</strong> 1h33m5s</p>
+<p><strong>Device:</strong> Video Media Handler</p>
+</div>
+<div class="metadata-section">
+<h4>Technical Details</h4>
+<p><strong>Video:</strong></p>
+<ul>
+<li>Resolution: 3840x2160</li>
+<li>Frame Rate: 25 fps</li>
+<li>Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</li>
+</ul>
+<p><strong>Audio:</strong></p>
+<ul>
+<li>Sample Rate: 48000 Hz</li>
+<li>Channels: 2</li>
+<li>Codec: PCM signed 16-bit big-endian</li>
+</ul>
+<p><strong>File Size:</strong> 37.45 GB</p>
+<p><strong>Format:</strong> QuickTime / MOV</p>
+</div>
+</div>
           </div>
         </li>
-      {% endfor %}
+      
     </ul>
-    {% endif %}
+    
 
-    {% if page.audio_files %}
+    
     <h3>Audio Files</h3>
     <ul class="audio-list">
-      {% for audio in page.audio_files %}
+      
         <li>
-          <strong>{{ audio.file_name }}</strong>
-          {% if audio.mic_owner %}<br>
-          <span class="mic-owner">Mic Owner: {{ audio.mic_owner }}</span>{% endif %}
+          <strong>ZOOM0028_Tr1.WAV</strong>
+          <br>
+          <span class="mic-owner">Mic Owner: Yoshi</span>
           <div class="path-info">
             <div>
-              <span class="path-copy" onclick="copyPath('{{ audio.file_path | split: audio.file_name | first }}')">
-                📁 Directory: {{ audio.file_path | split: audio.file_name | first }}
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/')">
+                📁 Directory: /Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/
               </span>
             </div>
             <div>
-              <span class="path-copy" onclick="copyPath('{{ audio.file_path }}')">
-                📄 Full path: {{ audio.file_path }}
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/ZOOM0028_Tr1.WAV')">
+                📄 Full path: /Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/ZOOM0028_Tr1.WAV
               </span>
             </div>
           </div>
           <br>
-          <button onclick="openLocalFile('{{ audio.file_path | uri_escape }}')" class="file-link">Play Audio</button>
+          <button onclick="openLocalFile('/Volumes/T7/Yoshi%20Podcast/Zoom/ZOOM0028/ZOOM0028_Tr1.WAV')" class="file-link">Play Audio</button>
           <div class="media-metadata">
-            {% media_metadata audio.file_path %}
+            <div class="media-metadata">
+<div class="metadata-section">
+<h4>Recording Info</h4>
+<p><strong>Recorded:</strong> November 22, 2024 at 09:16 PM</p>
+<p><strong>Duration:</strong> 1h31m46s</p>
+<p><strong>Device:</strong> ZOOM Handy Recorder H6</p>
+</div>
+<div class="metadata-section">
+<h4>Technical Details</h4>
+<p><strong>Audio:</strong></p>
+<ul>
+<li>Sample Rate: 44100 Hz</li>
+<li>Channels: 1</li>
+<li>Codec: PCM signed 16-bit little-endian</li>
+</ul>
+<p><strong>File Size:</strong> 463.16 MB</p>
+<p><strong>Format:</strong> WAV / WAVE (Waveform Audio)</p>
+</div>
+</div>
           </div>
         </li>
-      {% endfor %}
+      
+        <li>
+          <strong>ZOOM0028_Tr2.WAV</strong>
+          <br>
+          <span class="mic-owner">Mic Owner: Harry</span>
+          <div class="path-info">
+            <div>
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/')">
+                📁 Directory: /Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/
+              </span>
+            </div>
+            <div>
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/ZOOM0028_Tr2.WAV')">
+                📄 Full path: /Volumes/T7/Yoshi Podcast/Zoom/ZOOM0028/ZOOM0028_Tr2.WAV
+              </span>
+            </div>
+          </div>
+          <br>
+          <button onclick="openLocalFile('/Volumes/T7/Yoshi%20Podcast/Zoom/ZOOM0028/ZOOM0028_Tr2.WAV')" class="file-link">Play Audio</button>
+          <div class="media-metadata">
+            <div class="media-metadata">
+<div class="metadata-section">
+<h4>Recording Info</h4>
+<p><strong>Recorded:</strong> November 22, 2024 at 09:16 PM</p>
+<p><strong>Duration:</strong> 1h31m46s</p>
+<p><strong>Device:</strong> ZOOM Handy Recorder H6</p>
+</div>
+<div class="metadata-section">
+<h4>Technical Details</h4>
+<p><strong>Audio:</strong></p>
+<ul>
+<li>Sample Rate: 44100 Hz</li>
+<li>Channels: 1</li>
+<li>Codec: PCM signed 16-bit little-endian</li>
+</ul>
+<p><strong>File Size:</strong> 463.16 MB</p>
+<p><strong>Format:</strong> WAV / WAVE (Waveform Audio)</p>
+</div>
+</div>
+          </div>
+        </li>
+      
+        <li>
+          <strong>C0037.mp3</strong>
+          <br>
+          <span class="mic-owner">Mic Owner: Room</span>
+          <div class="path-info">
+            <div>
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Camcorder/')">
+                📁 Directory: /Volumes/T7/Yoshi Podcast/Camcorder/
+              </span>
+            </div>
+            <div>
+              <span class="path-copy" onclick="copyPath('/Volumes/T7/Yoshi Podcast/Camcorder/C0037.mp3')">
+                📄 Full path: /Volumes/T7/Yoshi Podcast/Camcorder/C0037.mp3
+              </span>
+            </div>
+          </div>
+          <br>
+          <button onclick="openLocalFile('/Volumes/T7/Yoshi%20Podcast/Camcorder/C0037.mp3')" class="file-link">Play Audio</button>
+          <div class="media-metadata">
+            <div class="media-metadata">
+<div class="metadata-section">
+<h4>Recording Info</h4>
+<p><strong>Duration:</strong> 1h33m5s</p>
+<p><strong>Device:</strong> Unknown device</p>
+</div>
+<div class="metadata-section">
+<h4>Technical Details</h4>
+<p><strong>Audio:</strong></p>
+<ul>
+<li>Sample Rate: 48000 Hz</li>
+<li>Channels: 2</li>
+<li>Codec: MP3 (MPEG audio layer 3)</li>
+</ul>
+<p><strong>File Size:</strong> 117.58 MB</p>
+<p><strong>Format:</strong> MP2/3 (MPEG audio layer 2/3)</p>
+</div>
+</div>
+          </div>
+        </li>
+      
     </ul>
-    {% endif %}
+    
   </section>
 
-  {% if page.content != "" %}
+  
   <section class="episode-notes">
     <h2>Episode Notes</h2>
     <div class="notes-content">
-      {{ page.content | markdownify }}
+      <p>This episode is Yoshi and Harry getting to know each other.</p>
+
     </div>
   </section>
-  {% endif %}
+  
 
   <section class="transcript">
     <h3>Transcript</h3>
-    {% if page.transcript_file %}
-      {% capture transcript_path %}{{ site.baseurl }}/_transcripts/{{ page.transcript_file }}{% endcapture %}
-      <a href="{{ transcript_path }}" class="transcript-link">View Transcript</a>
-    {% else %}
-      <p>No transcript available.</p>
-    {% endif %}
+    
+      
+      <a href="/_transcripts/episode-001-transcript.md" class="transcript-link">View Transcript</a>
+    
   </section>
 </article>
 
@@ -358,3 +510,10 @@ function showCopySuccess() {
   }, 2000);
 }
 </script>
+
+  </main>
+  <footer>
+    <p>&copy; 2025 Yoshi Podcasts</p>
+  </footer>
+</body>
+</html>
