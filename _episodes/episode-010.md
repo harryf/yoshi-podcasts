@@ -96,7 +96,7 @@ audio_files:
       sample_rate: '44100'
       bit_depth: 16
 - file_name: ZOOM0039_Tr2.WAV
-  mic_owner: Harry
+  mic_owner: Ben
   file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0039/ZOOM0039_Tr2.WAV"
   metadata:
     file_size: 449.34MB
