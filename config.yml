@@ -1,0 +1,24 @@
+title: "Yoshi Podcasts"
+description: "Local Jekyll site for planning and tracking podcast episodes"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  episodes:
+    output: true
+    permalink: /episodes/:title/
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/

@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Podcast Episodes"
+---
+
+<div class="episodes-list">
+  <h2>All Episodes</h2>
+  
+  {% assign sorted_episodes = site.episodes | sort: 'date' | reverse %}
+  
+  {% for episode in sorted_episodes %}
+    <article class="episode-preview">
+      <h3>
+        <a href="{{ episode.url | relative_url }}">{{ episode.short_title }}</a>
+      </h3>
+      <p class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</p>
+      {% if episode.description %}
+        <p class="episode-description">{{ episode.description | strip_html | truncate: 150 }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>

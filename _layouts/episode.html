@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<article class="episode">
+  <header>
+    <h2>{{ page.short_title }}</h2>
+    <p class="episode-date"><strong>Date of Recording:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+  </header>
+
+  {% if page.description %}
+  <section class="episode-description">
+    {{ page.description | markdownify }}
+  </section>
+  {% endif %}
+
+  <section class="media-files">
+    <h3>Video Files</h3>
+    {% if page.video_files %}
+      <ul class="video-list">
+        {% for video in page.video_files %}
+          <li>
+            <strong>{{ video.file_name }}</strong>
+            {% if video.description %}<br>
+            <span class="description">{{ video.description }}</span>{% endif %}
+            <br>
+            <a href="file://{{ video.file_path }}" class="file-link">View File</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No video files listed.</p>
+    {% endif %}
+
+    <h3>Audio Files</h3>
+    {% if page.audio_files %}
+      <ul class="audio-list">
+        {% for audio in page.audio_files %}
+          <li>
+            <strong>{{ audio.file_name }}</strong>
+            {% if audio.mic_owner %}<br>
+            <span class="mic-owner">Mic Owner: {{ audio.mic_owner }}</span>{% endif %}
+            <br>
+            <a href="file://{{ audio.file_path }}" class="file-link">Play File</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No audio files listed.</p>
+    {% endif %}
+  </section>
+
+  <section class="transcript">
+    <h3>Transcript</h3>
+    {% if page.transcript_file %}
+      {% capture transcript_path %}{{ site.baseurl }}/_transcripts/{{ page.transcript_file }}{% endcapture %}
+      <a href="{{ transcript_path }}" class="transcript-link">View Transcript</a>
+    {% else %}
+      <p>No transcript available.</p>
+    {% endif %}
+  </section>
+</article>
