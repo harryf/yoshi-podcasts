@@ -10,7 +10,7 @@ title: Yoshi Podcast Episodes
   {% for episode in episodes %}
     {% assign video = episode.video_files | first %}
     <div class="episode-card">
-      <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+      <h2><a href="{{ episode.url | relative_url }}">{{ episode.title }}</a></h2>
       
       {% if video.metadata %}
       <div class="episode-metadata">
