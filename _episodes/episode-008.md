@@ -31,6 +31,29 @@ video_files:
       channels: 2
       sample_rate: '48000'
       bit_depth: 16
+- file_name: IMG_1458.MOV
+  description: Yoshi (Christian's iPhone)
+  file_path: "/Volumes/T7/Yoshi Podcast/Christians iPhone/IMG_1458.MOV"
+  metadata:
+    file_size: 3.87GB
+    created_at: '2024-11-29 20:10:55'
+    modified_at: '2024-11-29 16:57:46'
+    format: mov,mp4,m4a,3gp,3g2,mj2
+    duration: 1h3m1s
+    bit_rate: 8794 kb/s
+    recording_date: '2024-11-29'
+    recording_time: '15:57:47'
+    video:
+      codec: hevc
+      width: 1920
+      height: 1080
+      frame_rate: 30
+      bit_depth:
+    audio:
+      codec: aac
+      channels: 2
+      sample_rate: '44100'
+      bit_depth: 0
 - file_name: IMG_1309.MOV
   description: Harry & Christian (Harry's iPhone)
   file_path: "/Volumes/T7/Yoshi Podcast/Harrys iPhone/IMG_1309.MOV"
