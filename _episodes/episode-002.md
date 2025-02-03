@@ -1,7 +1,7 @@
 ---
 layout: episode
-title: Episode 002 - Yoshi and Harry 1-on-1 - Round 2
-short_title: Yoshi and Harry 1-on-1 - Round 2
+title: Episode 002 - Second episode with Yoshi and Harry
+short_title: Second episode with Yoshi and Harry
 date: '2024-11-22'
 time: '20:51'
 duration: 1h5m37s
@@ -85,6 +85,6 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-002-transcript.md
 ---
-This episode is Yoshi and Harry getting to know each other on the same day as episode 001.
+Second episode with Yoshi and Harry.
 
 Note the first 10m44s of C0039.mp4 are missing the audio until Harry switches it on.

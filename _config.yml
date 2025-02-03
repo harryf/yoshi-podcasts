@@ -19,6 +19,10 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
+  - private
+  - ignored
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
   - vendor
   - .git/

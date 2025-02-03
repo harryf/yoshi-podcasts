@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 001 - Yoshi and Harry 1-on-1 - Round 1
-short_title: Yoshi and Harry 1-on-1 - Round 1
+title: Episode 001 - First episode with Yoshi and Harry
+short_title: First episode with Yoshi and Harry
 date: '2024-11-22'
 time: '18:26'
 duration: 1h33m5s
 permalink: "/episodes/episode-001/"
-description: Yoshi and Harry 1-on-1 first time
+description: First episode with Yoshi and Harry
 video_files:
 - file_name: C0037.mp4
   description: Full room camera - Camcorder
