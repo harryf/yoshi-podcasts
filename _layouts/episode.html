@@ -5,6 +5,7 @@ layout: default
 <div class="episodes-list">
   <header class="episode-header">
     <h1>{{ page.title }}</h1>
+    <a href="{{ "/transcripts/episode-001/" | relative_url }}" class="transcript-link">View Transcript</a>
     
     <!-- Key Episode Metadata -->
     {% assign video = page.video_files | first %}

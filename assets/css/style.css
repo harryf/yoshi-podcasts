@@ -296,3 +296,42 @@ footer {
   color: #666;
   font-size: 0.9rem;
 }
+
+/* Transcript styles */
+.transcript {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.transcript h1 {
+  margin-bottom: 20px;
+}
+
+.transcript .back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  color: #666;
+  text-decoration: none;
+}
+
+.transcript .back-link:hover {
+  text-decoration: underline;
+}
+
+.transcript p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+/* Episode transcript link */
+.transcript-link {
+  display: inline-block;
+  margin-left: 1em;
+  color: #666;
+  text-decoration: none;
+}
+
+.transcript-link:hover {
+  text-decoration: underline;
+}
