@@ -9,54 +9,93 @@ module Jekyll
 
     def generate(site)
       site.collections['episodes'].docs.each do |episode|
-        update_episode_metadata(episode)
+        source_path = episode.relative_path
+        Jekyll.logger.info "Processing episode:", source_path
+        
+        # Only compute metadata if any of the required fields are missing
+        if metadata_missing?(episode)
+          Jekyll.logger.info "Metadata missing, computing from files..."
+          update_episode_metadata(episode, source_path)
+        else
+          Jekyll.logger.info "Metadata already present, skipping:", source_path
+        end
       end
     end
 
     private
 
-    def update_episode_metadata(episode)
+    def metadata_missing?(episode)
+      return true unless episode.data  # Missing data entirely
+      
+      # Check if any required fields are missing or empty
+      required_fields = ['date', 'time', 'duration']
+      required_fields.any? { |field| episode.data[field].nil? || episode.data[field].to_s.empty? }
+    end
+
+    def update_episode_metadata(episode, source_path)
+      return unless episode.data  # Skip if no data
+      return unless episode.data['video_files']  # Skip if no video files
+      
       # First try to get metadata from video files (most accurate)
       video_metadata = nil
       
-      episode.data['video_files']&.each do |video|
+      episode.data['video_files'].each do |video|
+        next unless video && video['file_path']  # Skip if no file path
+        
         if video['file_path'].include?('Camcorder')  # Only use camcorder files
-          video_metadata = extract_metadata_from_file(video['file_path'])
-          break if video_metadata
+          Jekyll.logger.info "Found camcorder file:", video['file_path']
+          
+          # Only try to extract metadata if the file exists
+          if File.exist?(video['file_path'])
+            video_metadata = extract_metadata_from_file(video['file_path'])
+            if video_metadata
+              Jekyll.logger.info "Extracted metadata:", video_metadata.inspect
+              break
+            end
+          else
+            Jekyll.logger.warn "File not found (will use existing metadata if available):", video['file_path']
+          end
         end
       end
       
       if video_metadata
+        Jekyll.logger.info "Updating episode metadata for:", source_path
         # Update the episode data in memory
         episode.data['date'] = video_metadata[:date]
         episode.data['time'] = video_metadata[:time]
         episode.data['duration'] = video_metadata[:duration]
         
-        # Update the actual markdown file
-        update_markdown_file(episode.path, video_metadata)
+        # Update the actual markdown file in the source directory
+        full_source_path = File.join(episode.site.source, source_path)
+        update_markdown_file(full_source_path, video_metadata)
       end
     end
 
     def extract_metadata_from_file(path)
-      return nil unless path && File.exist?(path)
-      
-      json_output = `ffprobe -v quiet -show_format -show_streams -print_format json "#{path}"`
-      return nil if json_output.empty?
-
       begin
+        json_output = `ffprobe -v quiet -show_format -show_streams -print_format json "#{path}"`
+        return nil if json_output.empty?
+
         data = JSON.parse(json_output)
-        creation_time = data['format']['tags']['creation_time'] ||
-                       data['streams']&.find { |s| s['codec_type'] == 'video' }&.dig('tags', 'creation_time')
+        return nil unless data['format'] && data['streams']  # Ensure we have valid data
+        
+        # Try to get creation time from multiple possible locations
+        creation_time = data['format']['tags']&.fetch('creation_time', nil) ||
+                       data['streams']&.find { |s| s['codec_type'] == 'video' }&.dig('tags', 'creation_time') ||
+                       data['format']['tags']&.fetch('date', nil)
+        
+        duration = data['format']['duration'].to_f
         
         if creation_time && creation_time.include?('T')
           time = Time.parse(creation_time)
           {
             date: time.strftime("%Y-%m-%d"),
             time: time.strftime("%H:%M"),
-            duration: format_duration(data['format']['duration'].to_f)
+            duration: format_duration(duration)
           }
         end
-      rescue
+      rescue => e
+        Jekyll.logger.error "Error processing file:", e.message
         nil
       end
     end
@@ -98,6 +137,7 @@ module Jekyll
         
         # Write the updated content back to the file
         File.write(file_path, "---\n#{new_front_matter}---\n#{content_after_front_matter}")
+        Jekyll.logger.info "Successfully updated:", file_path
       end
     end
   end
@@ -172,11 +212,13 @@ module Jekyll
     end
 
     def format_metadata_html(data, path, context)
+      return '' unless data && data['format'] && data['streams']
+      
       format_data = data['format']
       streams = data['streams']
       
-      video_stream = streams.find { |s| s['codec_type'] == 'video' }
-      audio_stream = streams.find { |s| s['codec_type'] == 'audio' }
+      video_stream = streams&.find { |s| s['codec_type'] == 'video' }
+      audio_stream = streams&.find { |s| s['codec_type'] == 'audio' }
       
       creation_time = format_data.dig('tags', 'creation_time') || 
                      video_stream&.dig('tags', 'creation_time') ||
