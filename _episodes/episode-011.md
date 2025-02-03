@@ -78,15 +78,15 @@ video_files:
       sample_rate: '44100'
       bit_depth: 0
 audio_files:
-- file_name: ZOOM0041_Tr1.WAV
+- file_name: ZOOM0040_Tr1.WAV
   mic_owner: Yoshi
-  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0041/ZOOM0041_Tr1.WAV"
+  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0040/ZOOM0040_Tr1.WAV"
   metadata:
-    file_size: 300.57MB
-    created_at: '2024-11-30 17:21:50'
-    modified_at: '2024-11-30 18:21:24'
+    file_size: 438.24MB
+    created_at: '2024-11-30 00:01:50'
+    modified_at: '2024-11-30 01:28:40'
     format: wav
-    duration: 59m33s
+    duration: 1h26m50s
     bit_rate: 706 kb/s
     recording_date:
     recording_time:
@@ -95,15 +95,15 @@ audio_files:
       channels: 1
       sample_rate: '44100'
       bit_depth: 16
-- file_name: ZOOM0041_Tr2.WAV
+- file_name: ZOOM0040_Tr2.WAV
   mic_owner: Harry
-  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0041/ZOOM0041_Tr2.WAV"
+  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0040/ZOOM0040_Tr2.WAV"
   metadata:
-    file_size: 300.57MB
-    created_at: '2024-11-30 17:21:50'
-    modified_at: '2024-11-30 18:21:24'
+    file_size: 438.24MB
+    created_at: '2024-11-30 00:01:50'
+    modified_at: '2024-11-30 01:28:40'
     format: wav
-    duration: 59m33s
+    duration: 1h26m50s
     bit_rate: 706 kb/s
     recording_date:
     recording_time:
@@ -114,13 +114,13 @@ audio_files:
       bit_depth: 16
 - file_name: ZOOM0041_Tr3.WAV
   mic_owner: Christian
-  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0041/ZOOM0041_Tr3.WAV"
+  file_path: "/Volumes/T7/Yoshi Podcast/Zoom/ZOOM0040/ZOOM0040_Tr3.WAV"
   metadata:
-    file_size: 300.57MB
-    created_at: '2024-11-30 17:21:50'
-    modified_at: '2024-11-30 18:21:24'
+    file_size: 438.24MB
+    created_at: '2024-11-30 00:01:50'
+    modified_at: '2024-11-30 01:28:40'
     format: wav
-    duration: 59m33s
+    duration: 1h26m50s
     bit_rate: 706 kb/s
     recording_date:
     recording_time:
