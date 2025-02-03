@@ -41,6 +41,10 @@ nav a {
 /* Episodes list */
 .episodes-list {
   margin-top: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2rem;
 }
 
 .episode-preview {
@@ -114,6 +118,147 @@ nav a {
 .transcript-link {
   color: #2c5282;
   text-decoration: none;
+}
+
+/* Episode Metadata Styles */
+.episode-metadata {
+  margin: 1rem 0;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.key-metadata {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.metadata-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.metadata-item i {
+  color: #444;
+}
+
+/* Technical Details Styles */
+.technical-details {
+  margin-top: 1rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.technical-details summary {
+  cursor: pointer;
+  padding: 0.5rem;
+  color: #444;
+  font-weight: 500;
+}
+
+.technical-details summary:hover {
+  background: #f5f5f5;
+}
+
+.metadata-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+  padding: 1rem;
+}
+
+.metadata-group {
+  padding: 0.5rem;
+}
+
+.metadata-group h4 {
+  color: #333;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #eee;
+}
+
+.metadata-group p {
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #666;
+}
+
+.metadata-group i {
+  width: 1rem;
+  text-align: center;
+  color: #444;
+}
+
+/* Tooltip Styles */
+[title] {
+  position: relative;
+  cursor: help;
+}
+
+/* Episode Card Styles */
+.episode-card {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  transition: box-shadow 0.2s ease;
+}
+
+.episode-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.episode-card h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.episode-card h2 a {
+  color: #333;
+  text-decoration: none;
+}
+
+.episode-card h2 a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+/* Video and Audio Files */
+.video-files,
+.audio-files {
+  margin-bottom: 2rem;
+}
+
+.media-file {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+
+.file-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.file-info strong {
+  color: #333;
+}
+
+.file-info .filename {
+  color: #666;
+  font-size: 0.9rem;
+  font-family: monospace;
 }
 
 /* Footer */
