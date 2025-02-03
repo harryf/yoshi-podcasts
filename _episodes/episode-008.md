@@ -2,9 +2,9 @@
 layout: episode
 title: Episode 008 - Third episode with Yoshi, Christian and Harry
 short_title: Third episode with Yoshi, Christian and Harry
-date: '2024-11-23'
-time: '13:35'
-duration: 1h6m34s
+date: '2024-11-25'
+time: '17:21'
+duration: 1h6m25s
 permalink: "/episodes/episode-008/"
 description: Third episode with Yoshi, Christian and Harry
 video_files:

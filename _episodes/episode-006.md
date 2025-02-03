@@ -2,9 +2,9 @@
 layout: episode
 title: Episode 006 - Second episode with Yoshi, Christian and Harry
 short_title: Second episode with Yoshi, Christian and Harry
-date: '2024-11-23'
-time: '13:35'
-duration: 1h6m34s
+date: '2024-11-24'
+time: '11:31'
+duration: 1h9m24s
 permalink: "/episodes/episode-006/"
 description: Second episode with Yoshi, Christian and Harry
 video_files:

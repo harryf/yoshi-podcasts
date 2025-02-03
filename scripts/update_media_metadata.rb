@@ -182,13 +182,26 @@ def process_episode_file(file_path)
       end
     end
     
-    if modified
+    if modified && data['video_files']&.first&.dig('metadata')
+      first_video = data['video_files'].first['metadata']
+      
+      # Update episode front matter if we have recording date/time
+      if first_video['recording_date'] && first_video['recording_time']
+        data['date'] = first_video['recording_date']
+        data['time'] = first_video['recording_time'].split(':')[0..1].join(':') # HH:MM format
+      end
+      
+      # Update duration if available
+      if first_video['duration']
+        data['duration'] = first_video['duration']
+      end
+      
       # Convert to YAML, ensuring proper formatting
       new_front_matter = data.to_yaml.sub("---\n", '')
       
       # Write the updated content back to the file
       File.write(file_path, "---\n#{new_front_matter}---\n#{content_after_front_matter}")
-      puts "Updated #{file_path}"
+      puts "Updated #{file_path} with metadata from first video file"
     else
       puts "No changes needed for #{file_path}"
     end

@@ -3,8 +3,8 @@ layout: episode
 title: Episode 003 - First episode with Yoshi and Christian
 short_title: First episode with Yoshi and Christian
 date: '2024-11-23'
-time: '13:35'
-duration: 1h6m34s
+time: '08:43'
+duration: 12m48s
 permalink: "/episodes/episode-003/"
 description: First episode with Yoshi and Christian
 video_files:

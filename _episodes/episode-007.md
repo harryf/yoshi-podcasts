@@ -2,9 +2,9 @@
 layout: episode
 title: Episode 007 - Third episode with Yoshi and Harry
 short_title: Third episode with Yoshi and Harry
-date: '2024-11-23'
-time: '13:35'
-duration: 1h6m34s
+date: '2024-11-24'
+time: '13:16'
+duration: 1h9m45s
 permalink: "/episodes/episode-007/"
 description: Third episode with Yoshi and Harry
 video_files:

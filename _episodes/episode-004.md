@@ -3,8 +3,8 @@ layout: episode
 title: Episode 004 - Second episode with Yoshi and Christian
 short_title: Second episode with Yoshi and Christian
 date: '2024-11-23'
-time: '13:35'
-duration: 1h6m34s
+time: '09:58'
+duration: 1h7m16s
 permalink: "/episodes/episode-004/"
 description: Second episode with Yoshi and Christian
 video_files:
