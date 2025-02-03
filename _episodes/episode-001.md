@@ -85,4 +85,4 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-001-transcript.md
 ---
-This episode is Yoshi and Harry getting to know each other.
+This episode is Yoshi and Harry getting to know each other. They hosts discuss a wide range of topics, starting with Yoshi's initial impressions of Switzerland and the approachability of its people. They delve into the world of comedy, reflecting on the pursuit of fame, the integrity of comedians like Bill Burr, and the challenges of the industry. The conversation shifts to conspiracy theories, power structures, and Julian Assange’s role in exposing government secrets. Yoshi shares personal experiences from working in the porn industry, touching on themes of empowerment, loneliness, and the personal stories of performers. They also explore parenting, its impact on personal growth, and the challenges of raising children. They debate the value of therapy versus self-reflection, and discuss the use of AI, like Chat GPT, for personal insights. Finally, they touch on influential public figures like Elon Musk and Kanye West, before wrapping up with a break.

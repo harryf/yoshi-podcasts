@@ -5,27 +5,40 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
+  background: #f8f9fa;
 }
 
 /* Layout */
-header, main, footer {
-  padding: 2rem;
+.container {
   max-width: 800px;
   margin: 0 auto;
+  padding: 2rem;
 }
 
+/* Header */
 header {
   background: #f5f5f5;
   border-bottom: 1px solid #ddd;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+header .container {
+  padding: 0 2rem;
 }
 
 header h1 {
   margin: 0;
+  font-size: 2rem;
 }
 
 header h1 a {
-  color: #333;
+  color: #2d3748;
   text-decoration: none;
+}
+
+header h1 a:hover {
+  color: #2c5282;
 }
 
 nav {
@@ -35,37 +48,74 @@ nav {
 nav a {
   color: #666;
   text-decoration: none;
-  margin-right: 1rem;
+  margin: 0 1rem;
+  padding: 0.5rem 0;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #2c5282;
 }
 
 /* Episodes list */
 .episodes-list {
   margin-top: 2rem;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 2rem;
 }
 
-.episode-preview {
+.episode-card {
   margin-bottom: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.episode-preview h3 {
-  margin: 0;
+.episode-card h2 {
+  margin: 0 0 1rem 0;
 }
 
-.episode-preview a {
-  color: #2c5282;
+.episode-card h2 a {
+  color: #333;
   text-decoration: none;
 }
 
-.episode-date {
+.episode-card h2 a:hover {
+  color: #2c5282;
+}
+
+.episode-metadata {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
   color: #666;
   font-size: 0.9rem;
-  margin: 0.5rem 0;
+}
+
+.key-metadata {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.metadata-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 120px;
+  justify-content: center;
+}
+
+.metadata-item i {
+  color: #999;
+  width: 16px;
+  text-align: center;
+}
+
+.episode-description {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 /* Episode page */
