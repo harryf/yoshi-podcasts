@@ -3,60 +3,91 @@ layout: default
 title: Yoshi Podcast Episodes
 ---
 
-<div class="episodes">
+<div class="episodes-list">
   <h1>Episodes</h1>
   
-  {% assign sorted_episodes = site.episodes | sort: 'date' | reverse %}
-  {% for episode in sorted_episodes %}
-    <div class="episode-summary">
+  {% assign episodes = site.episodes | sort: "title" %}
+  {% for episode in episodes %}
+    {% assign video = episode.video_files | where_exp: "item", "item.description contains 'Camcorder'" | first %}
+    <div class="episode-card">
       <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
-      <p class="episode-metadata">
-        <strong>Recorded:</strong> {{ episode.date | date: "%B %d, %Y" }} at {{ episode.time }} ({{ episode.duration }})
-      </p>
-      {% if episode.description %}
-        <p class="description">{{ episode.description }}</p>
+      
+      {% if video.metadata %}
+      <div class="episode-metadata">
+        <span class="metadata-item" title="Recording Date">
+          <i class="fas fa-calendar"></i>
+          {{ video.metadata.recording_date | date: "%B %-d, %Y" }}
+        </span>
+        <span class="metadata-item" title="Recording Time">
+          <i class="fas fa-clock"></i>
+          {{ video.metadata.recording_time }}
+        </span>
+        <span class="metadata-item" title="Episode Duration">
+          <i class="fas fa-hourglass-half"></i>
+          {{ video.metadata.duration }}
+        </span>
+        <span class="metadata-item" title="File Size">
+          <i class="fas fa-hdd"></i>
+          {{ video.metadata.file_size }}
+        </span>
+      </div>
       {% endif %}
+      
+      <p class="episode-description">{{ episode.description }}</p>
     </div>
   {% endfor %}
 </div>
 
 <style>
-.episodes {
+.episodes-list {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
 }
 
-.episode-summary {
+.episode-card {
   margin-bottom: 2rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #eee;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.episode-summary:last-child {
-  border-bottom: none;
+.episode-card h2 {
+  margin: 0 0 1rem 0;
 }
 
-.episode-summary h2 {
-  margin: 0 0 0.5rem 0;
-}
-
-.episode-summary h2 a {
-  color: #2c5282;
+.episode-card h2 a {
+  color: #333;
   text-decoration: none;
 }
 
-.episode-summary h2 a:hover {
-  text-decoration: underline;
+.episode-card h2 a:hover {
+  color: #2c5282;
 }
 
 .episode-metadata {
-  color: #4a5568;
-  margin: 0.5rem 0;
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 0.9rem;
 }
 
-.description {
-  color: #4a5568;
-  margin: 0.5rem 0 0 0;
+.metadata-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.metadata-item i {
+  color: #999;
+}
+
+.episode-description {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 </style>
