@@ -4,6 +4,54 @@ title: Episode 001 - Transcript
 permalink: "/transcripts/episode-001/"
 ---
 
+# Summary
+
+## 1. Introduction and Setup (00:00:00)
+
+The hosts discuss the setup of the podcast, microphone sensitivity, and technical details.
+
+## 2. First Impressions of Switzerland (00:01:29)
+
+The host shares his first impressions of Switzerland, mentioning a friendly encounter with a local named Hara and his surprise at the approachability of Swiss people.
+
+## 3. Comedy and Fame (00:02:11)
+
+The conversation shifts to comedy, the pursuit of fame, and the challenges of explaining one's background and career in comedy. They discuss the mental health implications of wanting fame.
+
+## 4. Bill Burr and Comedians' Integrity (00:05:03)
+
+They talk about Bill Burr’s generosity and integrity in the comedy world, contrasting him with other comedians who have faced scandals.
+
+## 5. Conspiracy Theories and Power Structures (00:07:49)
+
+The hosts discuss conspiracy theories, power structures, and how powerful people manipulate systems. They mention Julian Assange and his impact on exposing government secrets.
+
+## 6. Porn Industry and Personal Experiences (00:50:02)
+
+The host shares his experiences working in the porn industry, discussing the misconceptions about empowerment, the loneliness of consumers, and the personal stories of performers.
+
+## 7. Parenting and Personal Growth (01:05:01)
+
+The conversation turns to parenting, how it changes people, and the challenges of raising children. They discuss the civilizing effect of having kids and the sacrifices involved.
+
+## 8. Therapy and Self-Reflection (01:17:05)
+
+The hosts debate the value of therapy, with one host expressing skepticism about its effectiveness and preferring self-reflection and other methods of coping.
+
+## 9. AI and Chat GPT (01:22:24)
+
+They discuss the use of AI, specifically Chat GPT, as a tool for self-reflection and therapy, and how it can analyze language patterns to provide insights.
+
+## 10. Elon Musk and Public Figures (01:31:04)
+
+The hosts talk about influential public figures like Elon Musk, Kanye West, and Donald Trump, discussing their impact and the controversies surrounding them.
+
+## 11. Break and Wrap-Up (01:32:53)
+
+The hosts take a break, mentioning the need for a coffee and a restroom break.
+
+# Transcript
+
 [00:00:00] Yeah, it's so cool. You wanted a podium. This is, it's close to it. You're going to make
 
 [00:00:13] a presidential address, but I mean, yeah, these pick up. Wow. Even a bit, even here,
