@@ -1,7 +1,7 @@
 title: "Yoshi Podcasts"
 description: "Local Jekyll site for planning and tracking podcast episodes"
-baseurl: ""
-url: ""
+baseurl: "/yoshi-podcasts"
+url: "https://harryf.github.io"
 
 # Build settings
 markdown: kramdown
