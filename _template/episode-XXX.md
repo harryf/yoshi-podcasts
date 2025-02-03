@@ -15,9 +15,8 @@ video_files:
   description: Yoshi (Christian's iPhone)
   file_path: "/Volumes/T7/Yoshi Podcast/Christians iPhone/IMG_1460.MOV"
 - file_name: IMG_1351.MOV
-+file_name: IMG_1350.MOV
   description: Harry & Christian (Harry's iPhone)
-  file_path: "/Volumes/T7/Yoshi Podcast/Harrys iPhone/IMG_1350.MOV"
+  file_path: "/Volumes/T7/Yoshi Podcast/Harrys iPhone/IMG_1351.MOV"
 audio_files:
 - file_name: ZOOM0040_Tr1.WAV
   mic_owner: Yoshi
