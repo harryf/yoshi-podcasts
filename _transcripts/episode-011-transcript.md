@@ -3,6 +3,139 @@ layout: transcript
 title: Episode 011 - Transcript
 permalink: "/transcripts/episode-011/"
 ---
+# Summary
+
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+Discussion starts with plans for medical checks, upcoming shows, and travel arrangements to Edinburgh and Barcelona.
+
+## 2. Comedy Shows and Payment Discussion (<a href="#00-00-19">00:00:19</a>)
+A conversation about payments for an upcoming comedy show, the format of an over-40s comedy event, and audience expectations.
+
+## 3. Swiss Comedy Audiences (<a href="#00-01-02">00:01:02</a>)
+Discussion about Swiss audiences, how they react to comedy, and differences between expats and locals in their approach to humor.
+
+## 4. Navigation and Public Transport Jokes (<a href="#00-02-06">00:02:06</a>)
+A comedic discussion about tram routes in Switzerland, comparing them to "The Californians" sketch from SNL.
+
+## 5. Criticism and Comedy Culture (<a href="#00-03-12">00:03:12</a>)
+Talking about the importance of feedback in comedy, the harsh but constructive criticism at New York comedy clubs, and experiences dealing with it.
+
+## 6. Generational Differences in Humor and Confidence (<a href="#00-04-06">00:04:06</a>)
+Observations about younger generations, their access to information, and the impact on their confidence and comedic sensibilities.
+
+## 7. Aging, Retirement, and Purpose (<a href="#00-07-03">00:07:03</a>)
+Discussion about aging, work ethic, and the importance of staying active after retirement, with personal anecdotes.
+
+## 8. Therapy and Mental Health in Switzerland (<a href="#00-12-01">00:12:01</a>)
+Exploring the high number of therapists in Switzerland, comparisons with other countries, and societal attitudes toward mental health.
+
+## 9. The Conspiracy of "Arctic Nazis" (<a href="#00-15-21">00:15:21</a>)
+A humorous dive into conspiracy theories about German submarines, hidden Antarctic bases, and UFO technology.
+
+## 10. Comedy in Different Parts of the U.S. (<a href="#00-17-39">00:17:39</a>)
+Reflections on performing in different U.S. states, dealing with different audience expectations, and a story about bombing in Atlantic City.
+
+## 11. The Experience of Bombing on Stage (<a href="#00-18-06">00:18:06</a>)
+A deep dive into the psychology of bombing, lessons learned, and stories of comedians facing difficult crowds.
+
+## 12. Finding Your Comedy Voice (<a href="#00-25-32">00:25:32</a>)
+A discussion on the journey of discovering one's comedic voice and the evolution of a comedy career.
+
+## 13. Dark Humor and Its Role (<a href="#00-31-10">00:31:10</a>)
+Talking about the necessity of dark humor, particularly for those in high-stress professions like medicine and law enforcement.
+
+## 14. Prison Visits and Personal Experiences (<a href="#00-33-33">00:33:33</a>)
+Anecdotes about visiting prisons, interactions with inmates, and reflections on the prison system.
+
+## 15. Stand-up Comedy in Different Cultures (<a href="#00-24-02">00:24:02</a>)
+Stories about performing stand-up in various countries, including Sweden and Switzerland, and the differences in audience reception.
+
+## 16. Closing Thoughts and Final Stories (<a href="#00-36-06">00:36:06</a>)
+Wrapping up the discussion with more reflections on comedy, experiences, and concluding remarks.
+
+---
+
+# Problematic Content Review
+
+## Summary of Topic (<a href="#00-01-20">00:01:20</a>)
+### Sensitivity Rating: 😱😱 (2/5)
+**Issue:** The use of an outdated and offensive term for individuals who are unresponsive in an audience.  
+**Reason:** YouTube may flag content with derogatory language related to disabilities.  
+**Start - End:** <a href="#00-01-20">00:01:20</a> - <a href="#00-01-26">00:01:26</a>  
+
+---
+
+## Summary of Topic (<a href="#00-12-32">00:12:32</a>)
+### Sensitivity Rating: 😱😱😱 (3/5)
+**Issue:** Discussion about Jewish people and psychoanalysis, making broad generalizations.  
+**Reason:** YouTube may flag content that generalizes or stereotypes a particular ethnic or religious group.  
+**Start - End:** <a href="#00-12-32">00:12:32</a> - <a href="#00-12-43">00:12:43</a>  
+
+---
+
+## Summary of Topic (<a href="#00-14-00">00:14:00</a>)
+### Sensitivity Rating: 😱😱😱 (3/5)
+**Issue:** Conversation about an apprenticeship program in a male-dominated environment, with jokes about sexism and misogyny.  
+**Reason:** Could be considered offensive or inappropriate due to the normalization of exclusionary workplace culture.  
+**Start - End:** <a href="#00-14-00">00:14:00</a> - <a href="#00-14-10">00:14:10</a>  
+
+---
+
+## Summary of Topic (<a href="#00-14-49">00:14:49</a>)
+### Sensitivity Rating: 😱😱😱😱 (4/5)
+**Issue:** Reference to Nazi Germany and Argentina, including a joke about Nazis escaping to South America.  
+**Reason:** YouTube has strict policies on hate speech, even in historical contexts. Discussion of Nazi-related topics can be flagged for review.  
+**Start - End:** <a href="#00-14-49">00:14:49</a> - <a href="#00-15-09">00:15:09</a>  
+
+---
+
+## Summary of Topic (<a href="#00-15-21">00:15:21</a>)
+### Sensitivity Rating: 😱😱😱 (3/5)
+**Issue:** Conspiracy theory discussion about "Arctic Nazis" and hidden UFO technology.  
+**Reason:** While humorous, discussions about Nazi conspiracies may lead to demonetization under misinformation policies.  
+**Start - End:** <a href="#00-15-21">00:15:21</a> - <a href="#00-16-47">00:16:47</a>  
+
+---
+
+## Summary of Topic (<a href="#00-18-50">00:18:50</a>)
+### Sensitivity Rating: 😱😱😱😱 (4/5)
+**Issue:** Story about being booed on stage, including a discussion about how to deal with racists by "becoming a bigger racist."  
+**Reason:** Even if meant humorously, this phrasing could be interpreted as endorsing or trivializing racism.  
+**Start - End:** <a href="#00-18-50">00:18:50</a> - <a href="#00-19-01">00:19:01</a>  
+
+---
+
+## Summary of Topic (<a href="#00-20-09">00:20:09</a>)
+### Sensitivity Rating: 😱😱😱😱😱 (5/5)
+**Issue:** Explicit discussion about a comedian's transgender wife, including crude jokes about genitalia.  
+**Reason:** YouTube has strict policies on content that can be perceived as harassment or hate speech toward LGBTQ+ individuals.  
+**Start - End:** <a href="#00-20-09">00:20:09</a> - <a href="#00-20-32">00:20:32</a>  
+
+---
+
+## Summary of Topic (<a href="#00-30-00">00:30:00</a>)
+### Sensitivity Rating: 😱😱😱😱 (4/5)
+**Issue:** Dark humor joke about Sandy Hook and Craigslist listings.  
+**Reason:** YouTube has a strict policy against jokes about mass tragedies, which could lead to immediate demonetization or removal.  
+**Start - End:** <a href="#00-30-00">00:30:00</a> - <a href="#00-30-34">00:30:34</a>  
+
+---
+
+## Summary of Topic (<a href="#00-33-08">00:33:08</a>)
+### Sensitivity Rating: 😱😱😱 (3/5)
+**Issue:** Discussion of dark humor involving ways to kill someone, delivered in a comedic way.  
+**Reason:** Could be flagged under YouTube’s violence and harmful content policies.  
+**Start - End:** <a href="#00-33-08">00:33:08</a> - <a href="#00-33-25">00:33:25</a>  
+
+---
+
+## Summary of Topic (<a href="#00-34-09">00:34:09</a>)
+### Sensitivity Rating: 😱😱😱😱 (4/5)
+**Issue:** Joke about prisons being a "natural habitat" for Black people.  
+**Reason:** YouTube enforces strict rules against racial stereotypes, even if meant ironically.  
+**Start - End:** <a href="#00-34-09">00:34:09</a> - <a href="#00-34-23">00:34:23</a>  
+
+---
 
 # Transcript
 

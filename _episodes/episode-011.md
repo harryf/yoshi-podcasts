@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 011 - Fifth episode with Yoshi, Christian and Harry
+title: Episode 011 - Bombing, Booing, and Finding Your Comedy Voice
 short_title: Fifth episode with Yoshi, Christian and Harry
 date: '2024-11-29'
 time: '21:13'
 duration: 1h27m19s
 permalink: "/episodes/episode-011/"
-description: Fifth episode with Yoshi, Christian and Harry
+description: A deep dive into the highs and lows of stand-up comedy, featuring stories of bombing on stage, adapting to different audiences, and the evolution of a comedian’s voice, with a touch of dark humor and conspiracy theories.
 video_files:
 - file_name: C0050.mp4
   description: Full room camera - Camcorder
@@ -150,3 +150,4 @@ transcript_file: episode-011-transcript.md
 ---
 Fifth episode with Yoshi, Christian and Harry
 
+In this episode, Yoshi, Christian and Harry explore the unpredictable world of stand-up comedy, sharing personal experiences of performing for diverse audiences, dealing with criticism, and discovering their comedic voice. They discuss the differences between Swiss and American comedy crowds, the brutal reality of bombing on stage, and the role of dark humor in high-stress professions. Along the way, they touch on conspiracy theories about Arctic Nazis, the psychology of retirement, and the cultural impact of mental health awareness. Packed with humor, insight, and unexpected tangents, this episode is a must-listen for anyone interested in the art of comedy and the stories behind the laughs.
