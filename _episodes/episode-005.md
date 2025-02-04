@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: Episode 005 - From Japan to Comedy - Yoshi Obayashi on Survival, Identity, and the Underground
+title: Episode 005 - From Japan to Comedy - Yoshi on Survival, Identity, and the Underground
 short_title: First episode with Yoshi, Christian and Harry
 date: '2024-11-23'
 time: '13:35'
