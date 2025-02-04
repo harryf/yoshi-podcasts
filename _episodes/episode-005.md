@@ -6,7 +6,7 @@ date: '2024-11-23'
 time: '13:35'
 duration: 1h6m34s
 permalink: "/episodes/episode-005/"
-description: First episode with Yoshi, Christian and Harry
+description: In this episode, Yoshi shares his journey from a tough childhood in Japan to comedy and the adult industry, reflecting on identity, violence, and survival through humor, while also diving into Japan’s hidden social issues and pop culture critiques.
 video_files:
 - file_name: C0040.mp4
   description: Full room camera - Camcorder
@@ -148,4 +148,4 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-005-transcript.md
 ---
-First episode with Yoshi, Christian and Harry.
+First episode with Yoshi, Christian and Harry. This episode dives into Yoshi's fascinating life story, from his upbringing as a Korean-Japanese outsider in Osaka, navigating intense bullying, family struggles, and encounters with crime, to his unexpected journey into comedy and the adult industry. He reflects on Japan’s hidden social issues, disappearing people phenomenon, and his complex identity. The discussion also touches on war memories, the impact of violence, and how humor became his survival tool. Along the way, Yoshi shares sharp critiques of films like Everything Everywhere All at Once and offers a raw, unfiltered look at his unconventional path.
