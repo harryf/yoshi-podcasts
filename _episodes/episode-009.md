@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 009 - Fourth episode with Yoshi, Christian and Harry
+title: Episode 009 - Bombing, Banking, and Boundary-Pushing Comedy - A Swiss Stage Experience
 short_title: Fourth episode with Yoshi, Christian and Harry
 date: '2024-11-29'
 time: '15:57'
 duration: 1h2m53s
 permalink: "/episodes/episode-009/"
-description: Fourth episode with Yoshi, Christian and Harry
+description: Yoshi, Christian and Harry reflect on their performances in Switzerland, discuss the intersection of money and sex, and explore cultural differences in humor, all while sharing hilarious and thought-provoking insights.
 video_files:
 - file_name: C0048.mp4
   description: Full room camera - Camcorder
@@ -149,4 +149,6 @@ audio_files:
 transcript_file: episode-009-transcript.md
 ---
 Fourth episode with Yoshi, Christian and Harry
+
+In this episode, Yoshi, Christian and Harry dive into the highs and lows of performing comedy in Switzerland, reflecting on cultural differences, audience reactions, and the art of bombing on stage. They explore thought-provoking themes like the connection between money and sex, Switzerland's global financial influence, and the psychology of humor. Along the way, they share personal stories, including encounters with celebrities, reflections on the comedy industry, and the challenge of pushing comedic boundaries. Packed with witty banter and deep insights, this episode is a blend of humor, introspection, and raw storytelling.
 
