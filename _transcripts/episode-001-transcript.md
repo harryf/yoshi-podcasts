@@ -60,6 +60,102 @@ Recounting the first meeting between the podcast hosts, their mutual interests, 
 ## 18. Closing Thoughts and Future Conversations (<a href="#00-28-37">00:28:37</a>)
 Final reflections on the episode, recurring themes, and potential future topics for discussion.
 
+# Potentially Problematic Content in Podcast Episode 001
+
+## 1. Discussion of the Adult Film Industry (<a href="#00-50-02">00:50:02</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+This segment discusses experiences working in the adult film industry, referencing well-known production companies and the desensitization to explicit content. YouTube may flag this for its discussions around adult material, even if non-explicit.
+
+**Start - End:** <a href="#00-50-02">00:50:02</a> - <a href="#00-50-58">00:50:58</a>
+
+---
+
+## 2. Controversial Conspiracy Theories (<a href="#00-09-54">00:09:54</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+Discussion about the Gotthard Tunnel opening ceremony being linked to occult themes and references to World Economic Forum conspiracy theories. This could be flagged for spreading misinformation.
+
+**Start - End:** <a href="#00-09-54">00:09:54</a> - <a href="#00-10-49">00:10:49</a>
+
+---
+
+## 3. Explicit Language and Dark Humor on Pornography (<a href="#00-52-38">00:52:38</a>)
+### Sensitivity: 😱😱😱😱 (4/5)
+**Why it's problematic:**  
+Mentions of consuming explicit material in a joking manner, discussing personal connections to adult industry professionals who have passed away. May violate YouTube's community guidelines on sensitive topics.
+
+**Start - End:** <a href="#00-52-38">00:52:38</a> - <a href="#00-53-40">00:53:40</a>
+
+---
+
+## 4. Historical Figures and Social Media Comparisons (<a href="#00-23-04">00:23:04</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+A segment comparing Hitler to modern podcasters and discussing how he would function in today's social media landscape. This could be flagged for controversial or offensive historical comparisons.
+
+**Start - End:** <a href="#00-23-04">00:23:04</a> - <a href="#00-23-38">00:23:38</a>
+
+---
+
+## 5. Discussion on False Allegations and Discrediting Tactics (<a href="#00-47-37">00:47:37</a>)
+### Sensitivity: 😱😱😱😱 (4/5)
+**Why it's problematic:**  
+Talks about how sexual assault allegations are allegedly used as a tool to discredit people. This could be considered dismissive of real victims and flagged for misinformation or inappropriate framing.
+
+**Start - End:** <a href="#00-47-37">00:47:37</a> - <a href="#00-48-24">00:48:24</a>
+
+---
+
+## 6. Sexual Explicitness in Comedy and Culture (<a href="#00-49-07">00:49:07</a>)
+### Sensitivity: 😱😱😱😱 (4/5)
+**Why it's problematic:**  
+A discussion about BDSM, young people's views on relationships, and sexual taboos, which might be considered too explicit for YouTube guidelines.
+
+**Start - End:** <a href="#00-49-07">00:49:07</a> - <a href="#00-49-35">00:49:35</a>
+
+---
+
+## 7. Julian Assange, WikiLeaks, and Government Criticism (<a href="#00-44-03">00:44:03</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+Talks about WikiLeaks, Julian Assange, and leaked diplomatic cables, which could trigger YouTube's policies on controversial political discussions.
+
+**Start - End:** <a href="#00-44-03">00:44:03</a> - <a href="#00-45-07">00:45:07</a>
+
+---
+
+## 8. Andrew Tate and Viral Controversy (<a href="#00-23-45">00:23:45</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+Mentions of Andrew Tate, his tactics, and his controversial public persona, which could be flagged due to YouTube’s stance on promoting figures with controversial pasts.
+
+**Start - End:** <a href="#00-23-45">00:23:45</a> - <a href="#00-24-09">00:24:09</a>
+
+---
+
+## 9. References to Underage Exploitation Controversy (<a href="#01-01-18">01:01:18</a>)
+### Sensitivity: 😱😱😱😱😱 (5/5)
+**Why it's problematic:**  
+Jokes and references to an online figure allegedly interacting with young people inappropriately. This is highly sensitive and could lead to demonetization or removal.
+
+**Start - End:** <a href="#01-01-18">01:01:18</a> - <a href="#01-01-30">01:01:30</a>
+
+---
+
+## 10. Political Power and Eliminating Structures (<a href="#00-45-40">00:45:40</a>)
+### Sensitivity: 😱😱😱 (3/5)
+**Why it's problematic:**  
+Discussion about bringing down power structures, referencing cyberattacks and leaked intelligence, which might be flagged under YouTube’s policies on extremist content.
+
+**Start - End:** <a href="#00-45-40">00:45:40</a> - <a href="#00-46-07">00:46:07</a>
+
+---
+
+## Conclusion
+These segments contain language, themes, or discussions that might be problematic for YouTube's community guidelines. You may want to consider editing them out, censoring certain words, or rephrasing discussions to ensure compliance.
+
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  Yeah, it's so cool. You wanted a podium. This is, it's close to it. You're going to make
