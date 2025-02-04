@@ -148,5 +148,9 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-013-transcript.md
 ---
-Seventh episode with Yoshi, Christian and Harry
+Seventh episode with Yoshi, Christian and Harry.
+
+Seems like we failed to record sound on the camcorder for this one.
+
+
 
