@@ -6,3 +6,34 @@ layout: default
   <a href="{{ page.permalink | replace: 'transcripts', 'episodes' | relative_url }}" class="back-link">← Back to Episode</a>
   {{ content }}
 </div>
+
+<div id="copy-notification" style="display: none; position: fixed; bottom: 20px; right: 20px; background-color: #333; color: white; padding: 10px 20px; border-radius: 5px; z-index: 1000;">URL copied to clipboard!</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Find all timestamp links
+    const timestampLinks = document.querySelectorAll('a[id^="00-"]');
+    
+    timestampLinks.forEach(link => {
+        link.style.cursor = 'pointer';
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Construct the full URL with the timestamp fragment
+            const fullUrl = window.location.href.split('#')[0] + '#' + link.id;
+            
+            // Copy to clipboard
+            navigator.clipboard.writeText(fullUrl).then(() => {
+                // Show notification
+                const notification = document.getElementById('copy-notification');
+                notification.style.display = 'block';
+                
+                // Hide notification after 2 seconds
+                setTimeout(() => {
+                    notification.style.display = 'none';
+                }, 2000);
+            });
+        });
+    });
+});
+</script>
