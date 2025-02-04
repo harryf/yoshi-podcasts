@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 012 - Sixth episode with Yoshi, Christian and Harry
+title: Episode 012 - Dark Humor, Tech, and the Business of Comedy
 short_title: Sixth episode with Yoshi, Christian and Harry
 date: '2024-11-30'
 time: '14:32'
 duration: 1h56s
 permalink: "/episodes/episode-012/"
-description: Sixth episode with Yoshi, Christian and Harry
+description: This episode dives into dark humor, personal anecdotes, the evolution of standup comedy, and a discussion on how technology, economics, and social media shape both industries and individual careers.
 video_files:
 - file_name: C0051.mp4
   description: Full room camera - Camcorder
@@ -148,5 +148,7 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-012-transcript.md
 ---
-Sixth episode with Yoshi, Christian and Harry
+Sixth episode with Yoshi, Christian and Harry.
+
+In this episode, the Yoshi, Christian and Harry explore a mix of dark humor and deep discussions, covering topics such as shocking personal experiences, childhood trauma, and cultural observations. They delve into economic collapses like Detroit’s downfall, the globalization of software development, and the quality of programmers worldwide. The conversation shifts to the world of standup comedy, debating whether it’s an art or a science, the role of social media in shaping comedic careers, and how data-driven strategies can influence success. The episode closes with reflections on the evolution of audiences and the broader implications of technology and culture on creative industries.
 
