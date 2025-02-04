@@ -6,6 +6,36 @@ permalink: "/transcripts/episode-004/"
 
 # Summary
 
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+The podcast begins with casual banter about being back in Edinburgh, discussing comedians, and the dynamics of comedy scenes around the world.
+
+## 2. Taxi Drivers and Cultural Observations (<a href="#00-01-55">00:01:55</a>)
+The hosts compare taxi drivers across different countries, noting similarities in their personalities and behaviors, and share anecdotes about experiences with taxi drivers in Japan.
+
+## 3. Edinburgh Fringe Festival Experience (<a href="#00-03-06">00:03:06</a>)
+The conversation shifts to the Edinburgh Fringe Festival, where one of the hosts performed his own show, "Adult Content," discussing the challenges and lessons learned from performing at the festival.
+
+## 4. Working in the Adult Industry (<a href="#00-05-37">00:05:37</a>)
+The host shares his experiences working in the adult industry, including his time at a porn shop in Seattle and later as a DVD producer for a porn company, highlighting the complexities and unexpected lessons from the job.
+
+## 5. Comedy Career Beginnings (<a href="#00-22-38">00:22:38</a>)
+The host discusses how he got into comedy in the mid-90s, starting with open mics in Seattle and eventually performing alongside notable comedians like Mitch Hedberg and Jim Norton.
+
+## 6. Transition to Los Angeles (<a href="#00-30-49">00:30:49</a>)
+The host explains his decision to move to Los Angeles after initially planning to move to New York, which was disrupted by the events of 9/11. He also talks about his early days in LA and how he got a job in the porn industry.
+
+## 7. Porn Conventions and Industry Insights (<a href="#00-53-01">00:53:01</a>)
+The host describes attending porn conventions, the evolution of the industry, and how he became a DVD producer for Evil Angel, a major porn production company.
+
+## 8. The Power of Porn DVDs and Networking (<a href="#00-59-02">00:59:02</a>)
+The host shares how distributing porn DVDs led to unexpected opportunities, including networking with comedians and gaining access to high-profile events like "The Tonight Show."
+
+## 9. Reflections on Comedy and Porn (<a href="#01-01-01">01:01:01</a>)
+The host reflects on how his experiences in both comedy and the porn industry shaped his perspective on human nature, desire, and the intersection of sex and money.
+
+## 10. Closing Thoughts and Future Plans (<a href="#01-07-05">01:07:05</a>)
+The podcast wraps up with a teaser for the next part of the conversation, hinting at more stories and insights to come.
+
 
 # Transcript
 
