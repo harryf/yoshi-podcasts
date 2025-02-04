@@ -3,6 +3,6 @@ layout: default
 ---
 <div class="transcript">
   <h1>{{ page.title }}</h1>
-  <a href="{{ "/episodes/episode-001/" | relative_url }}" class="back-link">← Back to Episode</a>
+  <a href="{{ page.permalink | replace: 'transcripts', 'episodes' | relative_url }}" class="back-link">← Back to Episode</a>
   {{ content }}
 </div>
