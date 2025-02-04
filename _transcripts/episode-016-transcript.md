@@ -3,6 +3,113 @@ layout: transcript
 title: Episode 016 - Transcript
 permalink: "/transcripts/episode-016/"
 ---
+# Summary
+
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+The hosts check the recording setup, confirm everything is working, and make a few offhand comments.
+
+## 2. Catching Up Since the Last Episode (<a href="#00-01-36">00:01:36</a>)
+Discussion about what has happened since the previous episode, including personal experiences and reflections.
+
+## 3. Thoughts on Los Angeles and Wildfires (<a href="#00-02-15">00:02:15</a>)
+A discussion on recent events in Los Angeles, including memories of places visited and reflections on wildfires affecting the area.
+
+## 4. The Scale of the Destruction (<a href="#00-03-13">00:03:13</a>)
+The hosts discuss the extent of damage caused by wildfires in Malibu and Pacific Palisades, comparing the affected area to Manhattan.
+
+## 5. Visiting Famous Crime Locations (<a href="#00-04-08">00:04:08</a>)
+One of the hosts shares a story about visiting locations linked to famous crimes and murders in Los Angeles before leaving for Europe.
+
+## 6. Impact of Wildfires on Personal Connections (<a href="#00-05-06">00:05:06</a>)
+Reactions to hearing about homes lost in the fire, including one belonging to a well-known figure in the adult film industry.
+
+## 7. Arson and Political Reactions to the Fires (<a href="#00-07-01">00:07:01</a>)
+Discussion about reports that the fires may have been caused by arson, leading into a broader discussion of political responses to such disasters.
+
+## 8. Historical Wildfire Experiences (<a href="#00-12-08">00:12:08</a>)
+Stories of previous experiences with wildfires and how they were perceived over time, including a comparison to past fires in California.
+
+## 9. Memories of Mount St. Helens Eruption (<a href="#00-14-02">00:14:02</a>)
+A conversation about witnessing the 1980 eruption of Mount St. Helens and the impact it had on the surrounding area.
+
+## 10. Comedy Performance in Ukraine (<a href="#00-16-42">00:16:42</a>)
+The host shares their experience of performing stand-up comedy in Ukraine, the challenges of language barriers, and cultural differences in humor.
+
+## 11. Reflections on the War in Ukraine (<a href="#00-24-06">00:24:06</a>)
+Observations on the ongoing conflict in Ukraine, including a visit to sites with destroyed Russian tanks as a symbol of resistance.
+
+## 12. Challenges of Performing for a Non-English Audience (<a href="#00-20-49">00:20:49</a>)
+Discussion on how different cultures react to humor, and the host's experience of jokes landing differently in Ukraine compared to other places.
+
+## 13. Doug Stanhope’s Visit to Ukraine (<a href="#00-21-48">00:21:48</a>)
+A conversation about comedian Doug Stanhope’s recent visit to Ukraine and his comedy performance.
+
+## 14. Closing Thoughts and Future Plans (<a href="#00-25-26">00:25:26</a>)
+Final reflections on the topics covered in the episode, upcoming events, and personal updates from the hosts.
+
+---
+
+# Problematic Content Review
+
+## Excessive Profanity (<a href="#00:00:43">00:00:43</a>)
+
+**Severity:** 😱😱 (2/5)
+
+**Why it's a problem:** The first part of the transcript contains repeated instances of the word 'shit,' which might be flagged by YouTube for excessive profanity.
+
+**Timestamps:** 00:00:43 - 00:01:14
+
+## Discussion of Wildfires and Arson (<a href="#00:07:01">00:07:01</a>)
+
+**Severity:** 😱😱 (2/5)
+
+**Why it's a problem:** While discussing the Los Angeles wildfires, there is mention of arson and speculation about the cause, which could be seen as spreading unverified claims.
+
+**Timestamps:** 00:07:01 - 00:08:05
+
+## Political Commentary on Fire Response (<a href="#00:08:11">00:08:11</a>)
+
+**Severity:** 😱😱😱 (3/5)
+
+**Why it's a problem:** The discussion turns political, referencing past political decisions regarding fire prevention and controversial remarks by former US President Donald Trump.
+
+**Timestamps:** 00:08:11 - 00:09:56
+
+## Inappropriate Comment about Firefighters (<a href="#00:09:00">00:09:00</a>)
+
+**Severity:** 😱😱😱😱 (4/5)
+
+**Why it's a problem:** A joke about transgender firefighters using a 'backup hose' may be considered offensive and inappropriate under YouTube's hate speech policies.
+
+**Timestamps:** 00:09:00 - 00:09:09
+
+## Joke about War and Ukrainian Women (<a href="#00:18:42">00:18:42</a>)
+
+**Severity:** 😱😱😱😱 (4/5)
+
+**Why it's a problem:** A joke about 'all the single ladies in Kyiv' due to men being at war could be seen as insensitive given the ongoing conflict in Ukraine.
+
+**Timestamps:** 00:18:42 - 00:19:06
+
+## Discussion of Porn Industry (<a href="#00:05:06">00:05:06</a>)
+
+**Severity:** 😱😱😱 (3/5)
+
+**Why it's a problem:** There is an extended discussion about a house famous in the adult film industry burning down, including references to porn history.
+
+**Timestamps:** 00:05:06 - 00:05:45
+
+## Reference to Sexual Assault Conviction (<a href="#00:22:09">00:22:09</a>)
+
+**Severity:** 😱😱😱😱😱 (5/5)
+
+**Why it's a problem:** A comedian is compared to Danny Masterson, a convicted rapist, which could be flagged as inappropriate or offensive.
+
+**Timestamps:** 00:22:09 - 00:22:19
+
+
+---
+
 
 # Transcript
 

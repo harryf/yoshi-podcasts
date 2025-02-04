@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 016 - Ninth episode with Yoshi, Christian and Harry
+title: Episode 016 - Fires, Comedy, and Culture Clashes - A Wild Ride Through LA and Ukraine
 short_title: Ninth episode with Yoshi, Christian and Harry
 date: '2025-01-10'
 time: '18:48'
 duration: 1h22m53s
 permalink: "/episodes/episode-016/"
-description: Ninth episode with Yoshi, Christian and Harry
+description: Yoshi, Christian and Harry dive into reflections on Los Angeles wildfires, visiting famous crime scenes, and the challenges of performing comedy in Ukraine amidst cultural and language barriers.
 video_files:
 - file_name: C0065.mp4
   description: Full room camera - Camcorder
@@ -221,4 +221,6 @@ Ninth episode with Yoshi, Christian and Harry.
 We ran out of space on the first Zoom SSD and lost some in the middle. Later we switch to a second SSD. Will need the camcorder audio for the middle of this episode.
 
 Note check the Zoom files are in the right order!
+
+In this episode, Yoshi, Christian and Harry discuss their recent experiences, from the devastation of the Los Angeles wildfires and memories of past disasters like Mount St. Helens to a deep dive into cultural clashes in comedy. They recount visits to famous crime locations in LA, share thoughts on the unexpected impact of fires on personal connections, and explore the political debates surrounding the causes of such disasters. The episode then shifts to a fascinating look at performing stand-up comedy in Ukraine, detailing the language barriers, audience reactions, and even comparisons to Doug Stanhope’s visit. Wrapping up with reflections on the war in Ukraine and its effects on everyday life, this episode blends humor, history, and thought-provoking discussions.
 
