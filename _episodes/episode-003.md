@@ -6,7 +6,7 @@ date: '2024-11-23'
 time: '08:43'
 duration: 12m48s
 permalink: "/episodes/episode-003/"
-description: First episode with Yoshi and Christian
+description: The episode features Yoshi and Christian discussing their evolving perspectives on theater and comedy, personal experiences with grief, and the transformative impact of performing at the Edinburgh Fringe Festival.
 video_files:
 - file_name: IMG_1437.MOV
   description: Full Room camera (Christian's iPhone)
@@ -85,4 +85,8 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-003-transcript.md
 ---
-First episode with Yoshi and Christian
+First episode with Yoshi and Christian.
+
+In this podcast episode, the speaker reflects on their journey into theater and comedy, sparked by seeing Mark Rylance perform and inspired by Ian McKellen’s insights on emotional expression in acting. They discuss cultural differences in expressing emotions, particularly in Korean culture, and how their perspective on comedy evolved, including a newfound appreciation for Andy Kaufman’s abstract style. The speaker shares their experience performing at the Edinburgh Fringe Festival, describing it as a transformative and creatively inspiring event that helped them cope with personal grief, particularly around the anniversary of their father’s death. They emphasize the importance of respecting the audience, experimenting with comedic styles, and the value of small, intimate performances. The episode concludes with their admiration for the boundless creativity and imagination showcased at the Fringe.
+
+
