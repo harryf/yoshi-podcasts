@@ -72,6 +72,52 @@ The conversation delves into the gender dynamics observed in boarding schools, p
 ## 22. Conclusion and Future Plans (<a href="#01-04-50">01:04:50</a>)
 The podcast wraps up with plans for a future recording, focusing on the speaker’s journey into comedy and their current life in Switzerland.
 
+---
+
+# Potentially Problematic Content in Episode 002
+
+## 1. Comedy Show Title Controversy (<a href="#00-05-24">00:05:24</a>) 😱😱😱😱
+- **Issue:** A comedy show titled "Rape" is mentioned, and the discussion includes how it is perceived in different cultures.
+- **Reason:** The topic of sexual violence is highly sensitive, and YouTube’s policies restrict content that trivializes or jokes about it.
+- **Timestamps:** 00:05:24 - 00:06:29
+
+## 2. Cultural Sensitivity and Language Barriers (<a href="#00-06-29">00:06:29</a>) 😱😱😱
+- **Issue:** Discussion about Japanese pronunciation of certain words that may lead to misunderstandings.
+- **Reason:** The conversation could be perceived as making fun of a cultural or linguistic group.
+- **Timestamps:** 00:06:29 - 00:07:14
+
+## 3. Misogyny and Gender Roles (<a href="#00-12-21">00:12:21</a>) 😱😱😱
+- **Issue:** Discussion on misogyny, traditional gender roles, and how men and women interact in different societal contexts.
+- **Reason:** Some statements may come across as reinforcing negative stereotypes.
+- **Timestamps:** 00:12:21 - 00:13:07
+
+## 4. Pornography and Societal Perceptions (<a href="#00-13-29">00:13:29</a>) 😱😱😱
+- **Issue:** Conversation about pornography’s role in society, including how Playboy magazine was perceived.
+- **Reason:** YouTube may restrict monetization or visibility for explicit discussions of adult content.
+- **Timestamps:** 00:13:29 - 00:14:39
+
+## 5. Transgender Experiences and Hormonal Changes (<a href="#00-19-50">00:19:50</a>) 😱😱😱😱
+- **Issue:** Discussion on transgender individuals and the effects of hormone therapy on behavior.
+- **Reason:** While educational, some parts of the conversation could be misinterpreted or seen as insensitive.
+- **Timestamps:** 00:19:50 - 00:21:16
+
+## 6. Suicide and Coping Mechanisms (<a href="#00-41-12">00:41:12</a>) 😱😱😱😱😱
+- **Issue:** Personal story about a parent’s suicide and how humor is used to cope with it.
+- **Reason:** YouTube has strict guidelines around discussing self-harm and suicide, even in a humorous or personal context.
+- **Timestamps:** 00:41:12 - 00:42:29
+
+## 7. Dark Humor About Death (<a href="#00-42-10">00:42:10</a>) 😱😱😱😱😱
+- **Issue:** Jokes about how a deceased relative’s body was found.
+- **Reason:** This could be disturbing to some listeners and may trigger content restrictions.
+- **Timestamps:** 00:42:10 - 00:43:49
+
+## 8. Extreme Adult Content Discussion (<a href="#00-30-11">00:30:11</a>) 😱😱😱😱😱
+- **Issue:** References to explicit and extreme adult content, including discussions of fetish practices.
+- **Reason:** YouTube has policies restricting content that goes into graphic detail about adult themes.
+- **Timestamps:** 00:30:11 - 00:33:36
+
+---
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  you talk finish talking about I have question for you and now I feel like I'm

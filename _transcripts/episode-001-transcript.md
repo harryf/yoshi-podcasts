@@ -60,6 +60,8 @@ Recounting the first meeting between the podcast hosts, their mutual interests, 
 ## 18. Closing Thoughts and Future Conversations (<a href="#00-28-37">00:28:37</a>)
 Final reflections on the episode, recurring themes, and potential future topics for discussion.
 
+---
+
 # Potentially Problematic Content in Podcast Episode 001
 
 ## 1. Discussion of the Adult Film Industry (<a href="#00-50-02">00:50:02</a>)
@@ -155,6 +157,7 @@ Discussion about bringing down power structures, referencing cyberattacks and le
 ## Conclusion
 These segments contain language, themes, or discussions that might be problematic for YouTube's community guidelines. You may want to consider editing them out, censoring certain words, or rephrasing discussions to ensure compliance.
 
+---
 
 # Transcript
 
