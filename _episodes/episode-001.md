@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 001 - First episode with Yoshi and Harry
+title: Episode 001 - Arriving in Switzerland, Stand-Up, Conspiracies, and the Comedy of Life
 short_title: First episode with Yoshi and Harry
 date: '2024-11-22'
 time: '18:26'
 duration: 1h33m5s
 permalink: "/episodes/episode-001/"
-description: Yoshi and Harry dive into a candid and wide ranging conversation, exploring topics like comedy, fame, conspiracy theories, the porn industry, parenting, therapy, and the impact of influential public figures, all while getting to know each other better.
+description: Yoshi and Harry have a freewheeling conversation about stand-up comedy, cultural observations, conspiracy theories, and the fine line between fame, truth, and absurdity.
 video_files:
 - file_name: C0037.mp4
   description: Full room camera - Camcorder
@@ -85,4 +85,4 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-001-transcript.md
 ---
-This episode is Yoshi and Harry getting to know each other. They hosts discuss a wide range of topics, starting with Yoshi's initial impressions of Switzerland and the approachability of its people. They delve into the world of comedy, reflecting on the pursuit of fame, the integrity of comedians like Bill Burr, and the challenges of the industry. The conversation shifts to conspiracy theories, power structures, and Julian Assange’s role in exposing government secrets. Yoshi shares personal experiences from working in the porn industry, touching on themes of empowerment, loneliness, and the personal stories of performers. They also explore parenting, its impact on personal growth, and the challenges of raising children. They debate the value of therapy versus self-reflection, and discuss the use of AI, like Chat GPT, for personal insights. Finally, they touch on influential public figures like Elon Musk and Kanye West, before wrapping up with a break.
+This episode is Yoshi and Harry getting to know each other. They dive into a wide-ranging conversation covering stand-up comedy, fame, and the mental toll of performing. They discuss their experiences in Switzerland, cultural differences in social interactions, and how comedy legends like Bill Burr navigate success. The discussion also takes a turn into conspiracy theories, the bizarre Gotthard Tunnel opening ceremony, and media manipulation. Other topics include racial identity politics, historical myths, and the philosophy of minding your own business. The episode wraps up with reflections on social media’s impact on modern fame and how their own paths led them to this conversation.
