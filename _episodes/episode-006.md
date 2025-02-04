@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 006 - Second episode with Yoshi, Christian and Harry
+title: Episode 006 - Modern Masculinity, Social Shifts, and the Digital Age: A Raw and Unfiltered Conversation
 short_title: Second episode with Yoshi, Christian and Harry
 date: '2024-11-24'
 time: '11:31'
 duration: 1h9m24s
 permalink: "/episodes/episode-006/"
-description: Second episode with Yoshi, Christian and Harry
+description: This episode delves into modern dating, masculinity, social media influence, cultural trends, Swiss privacy norms, and evolving perceptions of gender and identity, all through a candid and often provocative discussion.
 video_files:
 - file_name: C0041.mp4
   description: Full room camera - Camcorder
@@ -148,5 +148,5 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-006-transcript.md
 ---
-Second episode with Yoshi, Christian and Harry.
+Second episode with Yoshi, Christian and Harry. This episode explores a wide range of topics, from modern dating dynamics and masculinity to the impact of technology on relationships and social interactions. The hosts discuss the rise of the 'incel' phenomenon, the role of social media algorithms in shaping opinions, and how cultural prominence often correlates with societal struggles. They also touch on Swiss privacy culture, celebrity treatment in different countries, and a controversial Facebook group in Zurich. The conversation delves into gender identity debates, personal growth through struggle, and how James Bond films reflect evolving perceptions of masculinity. Throughout, the discussion is raw, opinionated, and filled with candid, sometimes provocative, insights into contemporary social issues.
 
