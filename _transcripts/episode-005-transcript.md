@@ -71,6 +71,48 @@ permalink: "/transcripts/episode-005/"
 - Lack of a clear plan growing up.
 - Continuing to figure things out as an adult.
 
+---
+
+# Sensitive Content Warnings
+
+## Yoshi’s Comedy and Adult Industry Background (<a href="#00-03-47">00:03:47</a>)
+**Sensitivity:** 😱😱😱  
+**Issue:** Discussion of Yoshi's entry into the adult industry may violate YouTube’s monetization policies on explicit content.  
+**Start-End:** 00:03:47 - 00:03:53  
+
+## Bullying and Survival Tactics (<a href="#00-18-38">00:18:38</a>)
+**Sensitivity:** 😱😱😱  
+**Issue:** Graphic descriptions of intense bullying and a violent response involving a weaponized umbrella could be flagged for violence.  
+**Start-End:** 00:18:38 - 00:21:13  
+
+## Family Conflicts and Domestic Violence (<a href="#00-21-52">00:21:52</a>)
+**Sensitivity:** 😱😱😱😱  
+**Issue:** Detailed descriptions of domestic violence, including a parent attempting to stab another, may be considered distressing content.  
+**Start-End:** 00:21:52 - 00:23:07  
+
+## The First “Kidnapping” (<a href="#00-23-07">00:23:07</a>)
+**Sensitivity:** 😱😱😱  
+**Issue:** Description of a parental abduction, which might be flagged as sensitive content involving family trauma.  
+**Start-End:** 00:23:07 - 00:23:35  
+
+## Critique of "Everything Everywhere All at Once" (<a href="#00-32-01">00:32:01</a>)
+**Sensitivity:** 😱😱😱😱😱  
+**Issue:** Highly controversial statements about LGBTQ+ themes in media, Hollywood, and cultural representation. May violate YouTube’s hate speech policies.  
+**Start-End:** 00:32:01 - 00:33:26  
+
+## Hiroshima Survivors and War Memories (<a href="#00-34-00">00:34:00</a>)
+**Sensitivity:** 😱😱😱😱  
+**Issue:** Graphic descriptions of burn victims from Hiroshima, using potentially insensitive language.  
+**Start-End:** 00:34:00 - 00:34:47  
+
+---
+**Recommendations:**
+- If monetization is a concern, consider trimming or rewording flagged sections.
+- Add content warnings where necessary.
+- Be cautious of YouTube's policies on explicit content, violence, and controversial speech.
+
+---
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  then
