@@ -6,6 +6,70 @@ permalink: "/transcripts/episode-005/"
 
 # Summary
 
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+- Opening discussion on the podcast title and format.
+- Initial banter about why Yoshi does certain things.
+
+## 2. Podcast Format and Tone (<a href="#00-02-30">00:02:30</a>)
+- Hosts discuss the conversational style of the podcast.
+- Comparison to an interrogation or a meandering chat.
+
+## 3. Yoshi’s Comedy and Adult Industry Background (<a href="#00-03-47">00:03:47</a>)
+- Early experiences in comedy.
+- His entry into the adult business in Seattle.
+
+## 4. The Mystery of Christian’s Past (<a href="#00-03-53">00:03:53</a>)
+- Speculation about co-host Christian’s hidden background.
+- Discussion of his reputation as the “Beast of Breaker.”
+
+## 5. Yoshi’s Origin Story (<a href="#00-05-23">00:05:23</a>)
+- Born in Japan to Korean parents.
+- Growing up without realizing he was a Korean citizen.
+- Struggles with identity in Japan.
+
+## 6. Korean-Japanese History and Family Background (<a href="#00-08-14">00:08:14</a>)
+- Family’s forced relocation due to Japanese occupation.
+- The social and economic struggles of Korean immigrants in Japan.
+
+## 7. The Cultural Divide Between Korea and Japan (<a href="#00-09-00">00:09:00</a>)
+- Comparing Japan-Korea relations to English-Irish relations.
+- How Korean-Japanese identity is perceived.
+
+## 8. Growing Up in Osaka (<a href="#00-10-21">00:10:21</a>)
+- Childhood experiences in a rough neighborhood.
+- Exposure to violence and crime at an early age.
+
+## 9. Bullying and Survival Tactics (<a href="#00-18-38">00:18:38</a>)
+- Intense school bullying culture in Japan.
+- Learning to fight back with the help of a mobster neighbor.
+
+## 10. Family Conflicts and Domestic Violence (<a href="#00-21-52">00:21:52</a>)
+- Parents constantly fighting.
+- Impact of domestic violence on childhood.
+
+## 11. The First “Kidnapping” (<a href="#00-23-07">00:23:07</a>)
+- Yoshi’s mother suddenly moving him and his brother away.
+- Adjusting to a new life without understanding why.
+
+## 12. Japan’s Vanishing People Phenomenon (<a href="#00-30-27">00:30:27</a>)
+- How people in Japan disappear and change identities.
+- Social acceptance of people restarting their lives.
+
+## 13. Critique of "Everything Everywhere All at Once" (<a href="#00-32-01">00:32:01</a>)
+- Yoshi’s strong opinions on the film’s portrayal of Asian family dynamics.
+- Discussion of unrealistic aspects of the movie.
+
+## 14. Hiroshima Survivors and War Memories (<a href="#00-34-00">00:34:00</a>)
+- Seeing people with burn scars as a child.
+- The impact of WWII on Japanese society.
+
+## 15. Using Comedy as a Coping Mechanism (<a href="#00-35-04">00:35:04</a>)
+- How humor helped him deal with a difficult childhood.
+- Early signs of becoming a comedian.
+
+## 16. Future Aspirations and Life Philosophy (<a href="#00-36-06">00:36:06</a>)
+- Lack of a clear plan growing up.
+- Continuing to figure things out as an adult.
 
 # Transcript
 
