@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 010 - Episode with Yoshi and Ben
+title: Episode 010 - Generations, Social Media, and the Search for Authenticity - A Candid Conversation with Ben
 short_title: Episode with Yoshi and Ben
 date: '2024-11-29'
 time: '17:10'
 duration: 1h29m27s
 permalink: "/episodes/episode-010/"
-description: Episode with Yoshi and Ben
+description: A thought-provoking discussion about generational differences, social media's influence, early exposure to adult content, and the complexities of modern masculinity, featuring Harry's son Ben
 video_files:
 - file_name: C0049.mp4
   description: Full room camera - Camcorder
@@ -137,5 +137,6 @@ Note that this file that comes after on Harry's phone is just random shit;
 
     /Volumes/T7/Yoshi Podcast/Harrys iPhone/IMG_1339.MOV
 
+In this episode, Yoshi sit down with Ben (Harry's son) for an insightful conversation that spans generational divides, reflecting on how Gen Z’s worldview differs from previous generations like Gen X. They explore the impact of social media, the influence of early exposure to adult content, and the blurred lines between fantasy and reality in modern media. Ben shares his perspectives on growing up in Switzerland, the challenges young people face today, and the pressures of materialism, while the hosts delve into their own experiences navigating comedy, masculinity, and shifting cultural norms. The episode offers candid reflections on topics ranging from happiness and personal identity to feminism, social change, and the evolving concept of masculinity in a rapidly changing world.
 
 
