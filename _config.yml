@@ -8,6 +8,13 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-algolia
+
+algolia:
+  application_id: DYFWUPT5NY
+  index_name: yoshi_podcasts
+  search_only_api_key: 9241c9fe7a3d5de5b10cc4bc38891fcc
+  url: "https://harryf.github.io/yoshi-podcasts"
 
 # Collections
 collections:

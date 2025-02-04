@@ -1,0 +1,220 @@
+---
+layout: default
+title: Search
+---
+
+<div class="search-container">
+    <div class="search-box">
+        <div id="searchbox"></div>
+    </div>
+    <div id="hits"></div>
+    <div id="pagination"></div>
+</div>
+
+<script>
+const search = instantsearch({
+    indexName: 'yoshi_podcasts',
+    searchClient: algoliasearch('DYFWUPT5NY', '9241c9fe7a3d5de5b10cc4bc38891fcc'),
+    routing: {
+        router: instantsearch.routers.history({
+            windowTitle({ query }) {
+                const queryString = query ? `Search: ${query}` : 'Search';
+                return queryString;
+            },
+            createURL({ qsModule, routeState, location }) {
+                const urlParts = location.href.match(/^(.*?)\/?(?:\?|$)/);
+                const baseUrl = `${urlParts ? urlParts[1] : ''}`;
+                const queryString = qsModule.stringify(routeState);
+                return `${baseUrl}${queryString ? `?${queryString}` : ''}`;
+            },
+            parseURL({ qsModule, location }) {
+                const queryString = location.search.slice(1);
+                return qsModule.parse(queryString);
+            },
+        }),
+        stateMapping: {
+            stateToRoute(uiState) {
+                const indexUiState = uiState['yoshi_podcasts'] || {};
+                return {
+                    q: indexUiState.query,
+                    page: indexUiState.page,
+                };
+            },
+            routeToState(routeState) {
+                return {
+                    ['yoshi_podcasts']: {
+                        query: routeState.q,
+                        page: routeState.page,
+                    },
+                };
+            },
+        },
+    }
+});
+
+search.addWidgets([
+    instantsearch.widgets.searchBox({
+        container: '#searchbox',
+        placeholder: 'Search for content...',
+        autofocus: true
+    }),
+    instantsearch.widgets.hits({
+        container: '#hits',
+        templates: {
+            empty: 'No results found.',
+            item: (hit) => {
+                // Check if this is a transcript by looking at the URL
+                const isTranscript = hit.url && hit.url.includes('/transcripts/');
+                
+                // Extract timestamp if it exists in the content
+                let timestamp = '';
+                if (isTranscript && hit.content) {
+                    // Try different timestamp formats
+                    let timestampMatch = hit.content.match(/\[<a id="([0-9]{2}-[0-9]{2}-[0-9]{2})">/);
+                    if (!timestampMatch) {
+                        // Try [HH:MM:SS] format
+                        timestampMatch = hit.content.match(/\[([0-9]{2}:[0-9]{2}:[0-9]{2})\]/);
+                        if (timestampMatch) {
+                            // Convert HH:MM:SS to HH-MM-SS format
+                            timestamp = timestampMatch[1].replace(/:/g, '-');
+                        }
+                    } else {
+                        timestamp = timestampMatch[1];
+                    }
+                }
+                
+                return `
+                    <div class="search-result-item${isTranscript ? ' transcript-result' : ''}">
+                        <a href="{{ site.baseurl }}${hit.url}${timestamp ? '#' + timestamp : ''}">
+                            <h3>${instantsearch.highlight({ hit, attribute: 'title' })}</h3>
+                            ${hit.content ? `
+                                <p>${instantsearch.snippet({ hit, attribute: 'content' })}</p>
+                                ${timestamp ? `<span class="timestamp">🕒 ${timestamp.replace(/-/g, ':')}</span>` : ''}
+                            ` : ''}
+                        </a>
+                    </div>
+                `;
+            }
+        }
+    }),
+    instantsearch.widgets.pagination({
+        container: '#pagination'
+    })
+]);
+
+search.start();
+</script>
+
+<style>
+.search-container {
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+.search-box {
+    margin-bottom: 2rem;
+}
+
+#search-input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.search-result-item {
+    margin: 1rem 0;
+    padding: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.search-result-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.search-result-item h3 {
+    margin: 0 0 0.5rem 0;
+    color: #007bff;
+}
+
+.search-result-item p {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.search-result-item:hover {
+    background: #f8f9fa;
+}
+
+.ais-Pagination {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.ais-Pagination-list {
+    display: inline-flex;
+    gap: 4px;
+    list-style: none;
+    padding: 0;
+}
+
+.ais-Pagination-item a {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+}
+
+.ais-Pagination-item--selected a {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.ais-SearchBox {
+    margin-bottom: 2rem;
+}
+
+.ais-SearchBox-form {
+    display: flex;
+}
+
+.ais-SearchBox-input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.ais-SearchBox-submit,
+.ais-SearchBox-reset {
+    display: none;
+}
+
+.ais-Highlight-highlighted,
+.ais-Snippet-highlighted {
+    background: #fff3a0;
+    font-style: normal;
+}
+
+.timestamp {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 2px 6px;
+    background: #f0f0f0;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.transcript-result {
+    border-left: 3px solid #007bff;
+    padding-left: 1rem;
+    margin-left: -1rem;
+}
+</style>

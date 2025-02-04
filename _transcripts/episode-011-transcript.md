@@ -2,6 +2,7 @@
 layout: transcript
 title: Episode 011 - Transcript
 permalink: "/transcripts/episode-011/"
+algolia: true
 ---
 # Summary
 
