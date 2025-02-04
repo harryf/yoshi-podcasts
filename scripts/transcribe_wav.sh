@@ -32,7 +32,7 @@ if [ ! -f "$INPUT_WAV" ]; then
 fi
 
 # Run the transcription command
-/Users/harry/Code/Youtube-Reddit-Videos-Generator/main \
+/Users/harry/Code/yoshi-catalog/whisper.cpp/build/bin/whisper-cli \
     --model /Users/harry/Code/Youtube-Reddit-Videos-Generator/models/ggml-large-v1.bin \
     --file "$INPUT_WAV" \
     --output-srt \

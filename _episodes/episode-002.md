@@ -85,6 +85,8 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-002-transcript.md
 ---
+**Note the first 10m44s of C0039.mp4 are missing the audio until Harry switches it on.**
+
 Second episode with Yoshi and Harry.
 
-Note the first 10m44s of C0039.mp4 are missing the audio until Harry switches it on.
+In this podcast episode, the hosts engage in a wide-ranging conversation that touches on comedy, cultural differences, and personal experiences. They discuss the emotional states of comedians, the impact of trauma, and the challenges of marketing comedy shows across different cultures, particularly in Japan. The conversation also explores societal values, gender roles, and the evolving dynamics of relationships, with insights into how pornography and transgender experiences shape perceptions. Personal stories about family, suicide, and coping mechanisms through humor are shared, alongside reflections on education systems and the influence of boarding schools on social behavior. The episode concludes with a discussion of boxing, Mike Tyson’s legacy, and plans for future recordings.
