@@ -6,7 +6,7 @@ date: '2024-11-22'
 time: '20:51'
 duration: 1h5m37s
 permalink: "/episodes/episode-002/"
-description: Yoshi and Harry 1-on-1 second time
+description: The episode features Yoshi and Harry discussing comedy, cultural differences, personal trauma, and societal values, with insights into their experiences in the entertainment industry and reflections on gender dynamics, education, and coping mechanisms through humor.
 video_files:
 - file_name: C0039.mp4
   description: Full room camera - Camcorder
