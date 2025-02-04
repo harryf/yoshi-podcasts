@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 007 - Third episode with Yoshi and Harry
+title: Episode 007 - Swiss Guards, Medical Trials, and the Dark Side of Banking
 short_title: Third episode with Yoshi and Harry
 date: '2024-11-24'
 time: '13:16'
 duration: 1h9m45s
 permalink: "/episodes/episode-007/"
-description: Third episode with Yoshi and Harry
+description: A wide-ranging discussion covering Swiss mercenaries, military history, the collapse of Credit Suisse, the psychology of video editing, and the blurred lines between cult leadership, comedy, and economic power.
 video_files:
 - file_name: C0043.mp4
   description: Full room camera - Camcorder
@@ -108,5 +108,5 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-007-transcript.md
 ---
-Third episode with Yoshi and Harry
+Third episode with Yoshi and Harry. In this episode, the conversation weaves through a variety of thought-provoking topics, from personal experiences with medical testing and the psychology of video editing to deep dives into Swiss history, military strategy, and the collapse of Credit Suisse. The hosts discuss the evolution of warfare, the philosophy of civilization, and the economics of past and present drug trades, drawing parallels between historical opium wars and modern pharmaceutical scandals. Along the way, they touch on comedy, personal identity, and existential musings about the value of skills and the changing nature of work across generations. The episode is an engaging mix of humor, history, and intellectual curiosity.
 
