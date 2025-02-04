@@ -44,6 +44,56 @@ A humorous discussion on starting a cult, references to Waco, and the characteri
 ## 13. The Changing Nature of Work and Generational Differences (<a href="#00-19-09">00:19:09</a>)
 Comparing the work ethic, interests, and ambitions of different generations, including family anecdotes.
 
+---
+
+# Content Sensitivity Review
+
+Below is a list of segments that may be problematic for YouTube’s guidelines or sensitive to listeners. Each section is rated for sensitivity using 😱 emojis (1-5 scale).
+
+---
+
+## Medical Testing and Spinal Taps (<a href="#00-00-55">00:00:55</a>) 😱😱
+**Why it might be a problem:**  
+- Descriptions of invasive medical procedures (e.g., spinal taps) and discussions about participating in medical tests for money may be flagged as sensitive or disturbing content.  
+**Start-End:** 00:00:55 - 00:02:01  
+
+---
+
+## Warfare, Military Strategy, and World Conflicts (<a href="#00-10-32">00:10:32</a>) 😱😱😱
+**Why it might be a problem:**  
+- Discussion about past and present wars, including references to modern conflicts (Ukraine). YouTube’s policies on war-related content can be strict depending on how topics are framed.  
+**Start-End:** 00:10:32 - 00:16:02  
+
+---
+
+## Conspiracy Theories and Cult Leadership (<a href="#00-18-12">00:18:12</a>) 😱😱😱😱
+**Why it might be a problem:**  
+- References to cult leaders, Waco, and jokingly discussing starting a cult. YouTube might flag content that appears to promote or humorize dangerous organizations.  
+**Start-End:** 00:18:12 - 00:19:09  
+
+---
+
+## The Collapse of Credit Suisse and Banking Corruption (<a href="#00-21-12">00:21:12</a>) 😱😱😱  
+**Why it might be a problem:**  
+- Conversations about banking instability, financial institutions collapsing, and government bailouts. Could trigger financial misinformation policies if not carefully framed.  
+**Start-End:** 00:21:12 - 00:22:47  
+
+---
+
+## The Opium Wars and Drug Trade Parallels (<a href="#00-22-47">00:22:47</a>) 😱😱😱😱😱
+**Why it might be a problem:**  
+- Explicit historical references to state-sanctioned drug trade, including HSBC’s role in opium distribution. YouTube may restrict content discussing drug trafficking, even in a historical context.  
+**Start-End:** 00:22:47 - 00:24:30  
+
+---
+
+## Dark Humor About Mortality and Death (<a href="#00-14-16">00:14:16</a>) 😱😱😱😱  
+**Why it might be a problem:**  
+- Jokes about wanting to "die in a nuclear war" and descriptions of slow, painful death. YouTube’s suicide/self-harm policies may apply here.  
+**Start-End:** 00:14:16 - 00:15:28  
+
+---
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  to invading chemicals.
