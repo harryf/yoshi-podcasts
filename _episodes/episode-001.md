@@ -6,7 +6,7 @@ date: '2024-11-22'
 time: '18:26'
 duration: 1h33m5s
 permalink: "/episodes/episode-001/"
-description: First episode with Yoshi and Harry
+description: Yoshi and Harry dive into a candid and wide-ranging conversation, exploring topics like comedy, fame, conspiracy theories, the porn industry, parenting, therapy, and the impact of influential public figures, all while getting to know each other better.
 video_files:
 - file_name: C0037.mp4
   description: Full room camera - Camcorder

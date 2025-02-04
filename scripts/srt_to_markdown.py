@@ -4,14 +4,17 @@ import re
 from datetime import datetime
 
 def parse_timestamp(timestamp):
-    """Convert SRT timestamp to human readable format."""
+    """Convert SRT timestamp to HTML link with ID."""
     # Parse timestamp like 00:00:00,000
     pattern = r'(\d{2}):(\d{2}):(\d{2}),(\d{3})'
     match = re.match(pattern, timestamp)
     if match:
-        hours, minutes, seconds, _ = match.groups()
-        # Format as HH:MM:SS
-        return f"{hours}:{minutes}:{seconds}"
+        hours, minutes, seconds, ms = match.groups()
+        # Create ID by replacing colons with dashes
+        link_id = f"{hours}-{minutes}-{seconds}"
+        # Format as HH:MM:SS.mmm with link
+        display_time = f"{hours}:{minutes}:{seconds}"
+        return f'<a id="{link_id}">{display_time}</a>'
     return timestamp
 
 def convert_srt_to_markdown(srt_file, markdown_file):

@@ -5,13 +5,13 @@ import argparse
 import logging
 import subprocess
 
-def convert_to_wav(input_path, output_path):
+def convert_to_wav16(input_path, output_path):
     """
-    Convert MP3 to WAV format optimized for speech recognition.
+    Convert audio file (MP3 or WAV) to WAV format optimized for speech recognition.
     Uses 16kHz sample rate, mono channel, and 16-bit PCM format.
     
     Args:
-        input_path (str): Path to input MP3 file
+        input_path (str): Path to input audio file (MP3 or WAV)
         output_path (str): Path to output WAV file
     
     Returns:
@@ -25,7 +25,7 @@ def convert_to_wav(input_path, output_path):
             "ffmpeg",
             "-i", input_path,
             "-ar", "16000",     # 16kHz sample rate
-            "-ac", "2",         # Mono channel
+            "-ac", "1",         # Mono channel
             "-sample_fmt", "s16",  # 16-bit PCM
             output_path
         ]
@@ -61,16 +61,16 @@ if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(
         description='''
-        Convert MP3 audio to WAV format optimized for speech recognition.
+        Convert audio files to WAV format optimized for speech recognition.
         
-        This script converts audio.mp3 to a WAV file (rec16.wav) with settings optimized 
+        This script converts input audio (MP3 or WAV) to a WAV file with settings optimized 
         for speech recognition models. The conversion process applies these optimizations:
         
         Input:
-        - audio.mp3: Source audio file in the specified output directory
+        - Any audio file supported by ffmpeg (MP3 or WAV)
         
         Output:
-        - rec16.wav: Processed WAV file with the following specifications:
+        - WAV file with the following specifications:
           * 16 kHz sample rate (standard for most speech models)
           * Mono channel (single channel audio)
           * 16-bit PCM format (standard for speech recognition)
@@ -82,9 +82,9 @@ if __name__ == "__main__":
         '''
     )
     parser.add_argument('-d', '--debug', action='store_true', help='Enable debug logging')
-    parser.add_argument('-a', '--audio', required=True,
-                        help='Input audio file path (MP3 format)')
-    parser.add_argument('-t', '--transcript', required=True,
+    parser.add_argument('-i', '--input', required=True,
+                        help='Input audio file path (MP3 or WAV format)')
+    parser.add_argument('-o', '--output', required=True,
                         help='Output WAV file path')
     parser.add_argument('-r', '--regenerate', action='store_true',
                         help='Force regeneration of the output wav')
@@ -96,24 +96,24 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
 
     # Check if input file exists
-    if not os.path.exists(args.audio):
-        logger.error(f"Input file not found: {args.audio}")
+    if not os.path.exists(args.input):
+        logger.error(f"Input file not found: {args.input}")
         sys.exit(1)
 
     # Create output directory if it doesn't exist
-    output_dir = os.path.dirname(args.transcript)
+    output_dir = os.path.dirname(args.output)
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
 
     # Check if output file exists and handle regeneration
-    if os.path.exists(args.transcript) and not args.regenerate:
-        logger.info(f"WAV file already exists at {args.transcript}. Use --regenerate to convert again.")
+    if os.path.exists(args.output) and not args.regenerate:
+        logger.info(f"WAV file already exists at {args.output}. Use --regenerate to convert again.")
         sys.exit(0)
-    elif os.path.exists(args.transcript) and args.regenerate:
+    elif os.path.exists(args.output) and args.regenerate:
         logger.info("Removing existing WAV file for regeneration")
-        os.remove(args.transcript)
+        os.remove(args.output)
 
     # Perform the conversion
-    success = convert_to_wav(args.audio, args.transcript)
+    success = convert_to_wav16(args.input, args.output)
     sys.exit(0 if success else 1)
 

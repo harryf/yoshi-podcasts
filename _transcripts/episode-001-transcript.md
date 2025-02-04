@@ -6,1783 +6,3619 @@ permalink: "/transcripts/episode-001/"
 
 # Summary
 
-## 1. Introduction and Setup (00:00:00)
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
 
 The hosts discuss the setup of the podcast, microphone sensitivity, and technical details.
 
-## 2. First Impressions of Switzerland (00:01:29)
+## 2. First Impressions of Switzerland (<a href="#00-01-29">00:01:29</a>)
 
 The host shares his first impressions of Switzerland, mentioning a friendly encounter with a local named Hara and his surprise at the approachability of Swiss people.
 
-## 3. Comedy and Fame (00:02:11)
+## 3. Comedy and Fame (<a href="#00-02-11">00:02:11</a>)
 
 The conversation shifts to comedy, the pursuit of fame, and the challenges of explaining one's background and career in comedy. They discuss the mental health implications of wanting fame.
 
-## 4. Bill Burr and Comedians' Integrity (00:05:03)
+## 4. Bill Burr and Comedians' Integrity (<a href="#00-05-03">00:05:03</a>)
 
 They talk about Bill Burr’s generosity and integrity in the comedy world, contrasting him with other comedians who have faced scandals.
 
-## 5. Conspiracy Theories and Power Structures (00:07:49)
+## 5. Conspiracy Theories and Power Structures (<a href="#00-07-49">00:07:49</a>)
 
 The hosts discuss conspiracy theories, power structures, and how powerful people manipulate systems. They mention Julian Assange and his impact on exposing government secrets.
 
-## 6. Porn Industry and Personal Experiences (00:50:02)
+## 6. Porn Industry and Personal Experiences (<a href="#00-50-02">00:50:02</a>)
 
 The host shares his experiences working in the porn industry, discussing the misconceptions about empowerment, the loneliness of consumers, and the personal stories of performers.
 
-## 7. Parenting and Personal Growth (01:05:01)
+## 7. Parenting and Personal Growth (<a href="#01-05-01">01:05:01</a>)
 
 The conversation turns to parenting, how it changes people, and the challenges of raising children. They discuss the civilizing effect of having kids and the sacrifices involved.
 
-## 8. Therapy and Self-Reflection (01:17:05)
+## 8. Therapy and Self-Reflection (<a href="#01-17-05">01:17:05</a>)
 
 The hosts debate the value of therapy, with one host expressing skepticism about its effectiveness and preferring self-reflection and other methods of coping.
 
-## 9. AI and Chat GPT (01:22:24)
+## 9. AI and Chat GPT (<a href="#01-22-24">01:22:24</a>)
 
 They discuss the use of AI, specifically Chat GPT, as a tool for self-reflection and therapy, and how it can analyze language patterns to provide insights.
 
-## 10. Elon Musk and Public Figures (01:31:04)
+## 10. Elon Musk and Public Figures (<a href="#01-31-04">01:31:04</a>)
 
 The hosts talk about influential public figures like Elon Musk, Kanye West, and Donald Trump, discussing their impact and the controversies surrounding them.
 
-## 11. Break and Wrap-Up (01:32:53)
+## 11. Break and Wrap-Up (<a href="#01-32-53">01:32:53</a>)
 
 The hosts take a break, mentioning the need for a coffee and a restroom break.
 
 # Transcript
 
-[00:00:00] Yeah, it's so cool. You wanted a podium. This is, it's close to it. You're going to make
+[<a id="00-00-00">00:00:00</a>]  Yeah, it's so cool. You wanted a podium. This is, it's close to it. You're going to make
 
-[00:00:13] a presidential address, but I mean, yeah, these pick up. Wow. Even a bit, even here,
+[<a id="00-00-13">00:00:13</a>]  a presidential address, but I mean, yeah, these pick up. Wow. Even a bit, even here,
 
-[00:00:29] you can, I guess we should be about, have a listen yourself. It's really sensitive,
+[<a id="00-00-29">00:00:29</a>]  you can, I guess we should be about, have a listen yourself. It's really sensitive,
 
-[00:00:36] which is cool. Maybe we can, wait, I could hear you talk to you. Yeah. Like from, I'm here like
+[<a id="00-00-36">00:00:36</a>]  which is cool. Maybe we can, wait, I could hear you talk to you. Yeah. Like from, I'm here like
 
-[00:00:44] three, four inches away. Yeah. And maybe we put them, we'll put them like this and then it's less,
+[<a id="00-00-44">00:00:44</a>]  three, four inches away. Yeah. And maybe we put them, we'll put them like this and then it's less,
 
-[00:00:51] does that sound okay? Yeah. Yeah. I don't mind using headphones because I could hear you better.
+[<a id="00-00-51">00:00:51</a>]  does that sound okay? Yeah. Yeah. I don't mind using headphones because I could hear you better.
 
-[00:00:58] Okay. Cool. Yeah. All right. That's cool. Yeah. You tell me if I'm getting too far from the mic.
+[<a id="00-00-58">00:00:58</a>]  Okay, cool. Yeah. All right. That's cool. Yeah. You tell me if I'm getting too far from the mic.
 
-[00:01:04] All right. So are you already recording? No, no. I mean, I guess. On that one, yeah. And this. It's
+[<a id="00-01-04">00:01:04</a>]  All right. So are you already recording? No, no. I mean, I guess. On that one, yeah. And this. It's
 
-[00:01:18] not like we don't do anything formal. Yeah, that's cool. All right. We're rolling. What is it? Today is, so it's
+[<a id="00-01-18">00:01:18</a>]  not like we don't do anything formal. Yeah, that's cool. All right, we're rolling. What is it? Today is, so it's
 
-[00:01:29] November 22nd. Friday, November 22nd. Zurich, Switzerland. I've been in, I guess I've been in
+[<a id="00-01-29">00:01:29</a>]  November 22nd. Friday, November 22nd. Zurich, Switzerland. I've been in, I guess I've been in
 
-[00:01:39] Switzerland by 12 hours. And we just had a nice coffee break with a lady named Hara. Yeah. Hara.
+[<a id="00-01-39">00:01:39</a>]  Switzerland by 12 hours. And we just had a nice coffee break with a lady named Hara. Yeah. I was
 
-[00:01:49] I was surprised because I just had this notion that most Swiss are not that personable, well not
+[<a id="00-01-51">00:01:51</a>]  surprised because I just had this notion that most Swiss are not that personable. Well, not personable,
 
-[00:01:58] personable, but approachable, you know. And she was very, very nice. And then when we find that
+[<a id="00-01-58">00:01:58</a>]  but approachable, you know. And she was very, very nice. And then when we find that she's great,
 
-[00:02:04] she's great, it made sense, you know. She was very sunny disposition and things like that. Yeah, I mean.
+[<a id="00-02-05">00:02:05</a>]  it made sense, you know, she was very sunny disposition and things like that. Yeah. I mean,
 
-[00:02:11] Well, I think you made the, like, because you were naturally like welcoming, come and join us. And. Am I?
+[<a id="00-02-11">00:02:11</a>]  well, I think you made the, like, cause you, you were naturally like welcoming, come and join us.
 
-[00:02:21] Yeah, yeah. For this place, definitely. And. So it's a very low standards here. People don't do
+[<a id="00-02-19">00:02:19</a>]  And. Am I? Yeah. Yeah. For this place. Definitely. And. So it's a very low standards here. People
 
-[00:02:29] that because this is, it's a timing thing. I think you were very quick because I have what I call
+[<a id="00-02-29">00:02:29</a>]  don't do that because it's just, it's a timing thing. I think you were very quick. Cause I have,
 
-[00:02:35] shitty fame. So I'm not famous, but in the city and I could, because it's small enough people
+[<a id="00-02-34">00:02:34</a>]  what I call shitty fame. So I'm not famous, but in the city and I could, cause it's small enough
 
-[00:02:43] who see me doing comedy. So she was like, oh, I know you. I can't even remember. It's interesting
+[<a id="00-02-42">00:02:42</a>]  people have seen me doing comedy. So she was like, Oh, I know you. I can't even remember. It's
 
-[00:02:49] because I think it's probably true in South Korea too. People don't talk to strangers, you know. And
+[<a id="00-02-49">00:02:49</a>]  interesting cause I think it's probably true in South Korea too. People don't talk to strangers,
 
-[00:02:53] I think for some extent, it's probably true in Japan too. But I have a hard time explaining myself.
+[<a id="00-02-53">00:02:53</a>]  you know. And I think for some extent it's probably true in Japan too. But I have a hard
 
-[00:03:01] Like you were telling me, look, nobody's going to come to see me do shows, which I understand
+[<a id="00-03-00">00:03:00</a>]  time explaining myself. Like you were telling me, look, nobody's going to come to see me do shows,
 
-[00:03:06] because that's in the States too. But I'm having a hard time explaining what do I do or who I am,
+[<a id="00-03-05">00:03:05</a>]  which I understand because that's in the States too. But I'm having a hard time explaining what
 
-[00:03:14] you know, because I think I got such a really weird background as well, you know. I mean, I think, I
+[<a id="00-03-13">00:03:13</a>]  do I do or who I am, you know? Cause I think I got such a really weird background as well, you know?
 
-[00:03:25] mean, this is something I say about comedy. It's like when I was when I got into it during the
+[<a id="00-03-19">00:03:19</a>]  And I mean, I think, I mean, there's something I say about comedy. It's like when I, when I got
 
-[00:03:32] lockdown, I don't know if you know Judy Carter. Of course, she wrote that stupid book, not stupid
+[<a id="00-03-31">00:03:31</a>]  into it during the lockdown, I don't know if you know Judy Carter. Of course she wrote that stupid
 
-[00:03:38] book, but she's famous for writing and helped to do stand up comedy like 30 plus years ago. Yeah,
+[<a id="00-03-37">00:03:37</a>]  book, not stupid book, but she's famous for writing how to do stand up comedy like 30 plus years ago.
 
-[00:03:44] the new comedy Bible. And I did it. I actually took her class years ago. We have somebody in
+[<a id="00-03-44">00:03:44</a>]  Yeah. The new comedy Bible. And I did, I actually took her class years ago. We have something in
 
-[00:03:51] common. I took her class too. It was actually, she delegated all the work to another comedian
+[<a id="00-03-51">00:03:51</a>]  common. I took her class too. It was actually, she delegated all the work to another comedian
 
-[00:03:56] called Dean who was, he was phenomenal. But there was one of the things is about like your comedy
+[<a id="00-03-56">00:03:56</a>]  called Dean who was, he was phenomenal. And, uh, but there was one of the things is about
 
-[00:04:04] career and how you've got to focus if you want to get famous, which which when you're for me at 50,
+[<a id="00-04-03">00:04:03</a>]  like your comedy career and how you've got to focus if you want to get famous,
 
-[00:04:12] that feels ridiculous. Like and if from what I know about your background, but also if I look
+[<a id="00-04-09">00:04:09</a>]  which, which when you're for me at 50, that feels ridiculous. Like, and if from what I know about
 
-[00:04:18] at my own life, I feel like I've lived seven lives already. And in terms of like the role,
+[<a id="00-04-17">00:04:17</a>]  your background, but also if I look at my own life, I feel like I've lived seven lives already.
 
-[00:04:25] it's so strange to say you want to be famous, but especially young kids, they want to be famous.
+[<a id="00-04-23">00:04:23</a>]  And in terms of like the role, it's so strange to say you want to be famous,
 
-[00:04:29] Yeah, I have such a mixed feeling about that, you know? I mean, because every time I hear that,
+[<a id="00-04-27">00:04:27</a>]  but especially young kids, they want to be famous. Yeah. I have such a mixed feeling about that, you
 
-[00:04:38] just think mental illness. That's what I think. You know? Yeah. And I mean, for me, that's like
+[<a id="00-04-33">00:04:33</a>]  know? Um, I mean, because every time I hear that, I just think mental illness. That's what I think,
 
-[00:04:46] fame is maybe a means to an end. I just enjoyed doing comedy shows. Yeah. And unfortunately,
+[<a id="00-04-40">00:04:40</a>]  you know? Yeah. And I mean, for me, that's like famous, maybe a means to an end. I just enjoyed
 
-[00:04:53] you have to do the whole promotion thing to get people to come to shows. But every time I think
+[<a id="00-04-49">00:04:49</a>]  doing comedy shows and unfortunately you have to do the whole promotion thing to get people to come
 
-[00:04:58] about stand up comedy, I mean, of course, it's, you know, I just saw bill burr last Sunday. So
+[<a id="00-04-56">00:04:56</a>]  to shows. But every time I think about stand up comedy, I mean, of course it's, you know,
 
-[00:05:03] it's what today's Friday. Yeah, like six days ago. And I haven't. I'm at it, you know, I don't want
+[<a id="00-05-01">00:05:01</a>]  I just saw bill burr last Sunday. So it's what today's Friday. Yeah. Like six days ago. And
 
-[00:05:10] to bother the guy, but I saw him after the show talking like a minute to you. Always generous,
+[<a id="00-05-07">00:05:07</a>]  I haven't, I mean, I didn't, you know, I don't want to bother the guy, but I saw him after the
 
-[00:05:15] great guy. It was really nice to see him to see a guy at that level. And also, you know,
+[<a id="00-05-12">00:05:12</a>]  show. I've talked to him like a minute or two, always generous, great guy. It was really nice to
 
-[00:05:22] for anybody who followed comedy last four or five years, there's been comedians that we like,
+[<a id="00-05-17">00:05:17</a>]  see him to see a guy at that level. And also, you know, for, for anybody who followed comedy last
 
-[00:05:28] we find out that they're far from perfect people. They're doing stuff off stage that's questionable.
+[<a id="00-05-24">00:05:24</a>]  four or five years, there's been comedians that we like. We find out that they're far from perfect.
 
-[00:05:34] I don't want to name their names. Yeah. But burr is one of those few people that I have to say,
+[<a id="00-05-30">00:05:30</a>]  People, they were doing stuff offstage. That's questionable. I don't want to name their names,
 
-[00:05:40] I've never heard anything bad about the guy ever, how generous he is with other people. And even
+[<a id="00-05-35">00:05:35</a>]  you know? Yeah. Yeah. But burr is one of those few people that I have to say,
 
-[00:05:51] with the angry thing, when he's on stage, it's pretty justifiable. He's just genuinely upset
+[<a id="00-05-40">00:05:40</a>]  I've never heard anything bad about the guy ever how generous he is with other people. And,
 
-[00:05:57] about something, you know? Yeah. But now, it's kind of funny to see him because he's so successful,
+[<a id="00-05-47">00:05:47</a>]  and even with angry thing when he's on stage, it's pretty justifiable. He's just genuinely upset
 
-[00:06:02] famous, people love him. It's hard to be angry when you're being beloved and have successful. So
+[<a id="00-05-57">00:05:57</a>]  about something, you know? Yeah. But now it's kind of funny to see him because he's so successful,
 
-[00:06:09] what was so great because I've never seen him do this before. It was the first time his wife was
+[<a id="00-06-03">00:06:03</a>]  famous, people love him. It's hard to be angry when you're being beloved and have successful.
 
-[00:06:14] there. And she was off stage. And he's talking back and forth to her and he's trying to convince
+[<a id="00-06-08">00:06:08</a>]  So what was so great, cause I've never seen him do this before. It was the first time his wife
 
-[00:06:20] her to get on stage, which she refused wisely. But that was a really funny banter. But it's really
+[<a id="00-06-14">00:06:14</a>]  was there and she was offstage and he's talking back and forth to her and he's trying to convince
 
-[00:06:26] nice to see him, somebody at that level, work really hard for many decades, reaching it, you
+[<a id="00-06-20">00:06:20</a>]  her to get on stage, which she refused wisely. But that was a really funny banter, but it's really
 
-[00:06:31] know? But at our level, it just feels like we're just getting hammered, just hitting ourselves in
+[<a id="00-06-26">00:06:26</a>]  nice to see him, somebody at that level, worked really hard for many decades, reaching it, you
 
-[00:06:37] the face when we're doing it because you have to be pretty fucking insane to do stand-up comedy.
+[<a id="00-06-31">00:06:31</a>]  know? But at our level, it just feels like we're just getting hammered, just hitting ourself in
 
-[00:06:43] Yeah. I mean, if you're getting something out of it, and I know some of my colleagues
+[<a id="00-06-37">00:06:37</a>]  the face when we're doing it because you have to be pretty fucking insane to do stand up comedy.
 
-[00:06:49] last couple of years got in trouble because they have success and they're going after women and
+[<a id="00-06-43">00:06:43</a>]  I mean, if you're getting something out of it, and I know some of my colleagues
 
-[00:06:53] we're not at exactly most mature groups of people, you know? Yeah. I mean, about Bill Byrd,
+[<a id="00-06-48">00:06:48</a>]  last couple of years got in trouble because they have success and they're going after women and
 
-[00:07:03] one thing is, one of my weird things is whenever I wake up at three in the morning and can't sleep,
+[<a id="00-06-54">00:06:54</a>]  we're not exactly most mature groups of people, you know?
 
-[00:07:08] I listen to Bill Byrd's podcast. Oh, do you really? Yeah. He sends me to sleep,
+[<a id="00-06-58">00:06:58</a>]  So, yeah, I think, I mean, about Bill Byrd, one thing is, one of my weird things is whenever I
 
-[00:07:15] but I've listened to it. That sounds like insult. It is kind of, but it's because what's great is
+[<a id="00-07-06">00:07:06</a>]  wake up at three in the morning and can't sleep, I listen to Bill Byrd's podcast.
 
-[00:07:20] he's got, his voice is usually consistent. He does it on his own. Yeah. You turn the volume down to
+[<a id="00-07-10">00:07:10</a>]  Oh, do you really?
 
-[00:07:26] just the right level and it just sends, so I've got all his anger in my subconscious, but also
+[<a id="00-07-12">00:07:12</a>]  Yeah, he sends me to sleep, but I've listened to it.
 
-[00:07:32] he's actually, if I look at his perspective of the world, some of the things he talks about,
+[<a id="00-07-16">00:07:16</a>]  That sounds like insult.
 
-[00:07:38] like he's always going on about how he hates bankers because they own everything and how
+[<a id="00-07-17">00:07:17</a>]  It is kind of, but it's cause what's great is he's got, his voice is usually consistent,
 
-[00:07:44] the system's rigged when you look into it. I'm glad you said that because
+[<a id="00-07-23">00:07:23</a>]  he does it on his own.
 
-[00:07:49] when Teresa O'Neil passed away in 2011, Bill was one of his closest friends and Bill told me like
+[<a id="00-07-24">00:07:24</a>]  Yeah.
 
-[00:08:01] last Sunday, so they got in a big fight, they never got reconciled. Kind of sad, but you know,
+[<a id="00-07-25">00:07:25</a>]  You turn the volume down to just the right level and it just sends, so I've got all his anger
 
-[00:08:08] when Steve Jobs passed away, Apple turned around and replaced him by having different experts.
+[<a id="00-07-29">00:07:29</a>]  in my subconscious, but also he's actually, if I look at his perspective of the world,
 
-[00:08:14] They had an expert from architect, they had an expert from music like Dr. Dre or something,
+[<a id="00-07-37">00:07:37</a>]  some of the things he talks about, like he's always going on about how he hates bankers
 
-[00:08:18] so they brought all this expert to kind of bring back. How do you replace someone like Steve Jobs
+[<a id="00-07-42">00:07:42</a>]  cause they own everything and how the system's rigged when you look into it.
 
-[00:08:24] at Apple? This is very, very difficult and when Patrice died, there was two comedians that kind
+[<a id="00-07-48">00:07:48</a>]  I'm glad you said that because when Jerry O'Neill passed away, 2011, Bill was one of
 
-[00:08:32] of started coming around that time, Shane Gillis and Tim Dillon. I've seen those. I've never talked
+[<a id="00-07-58">00:07:58</a>]  his closest friends and Bill told me like, last Sunday, so they got in a big fight,
 
-[00:08:38] to them. I like both of them. Tim Dillon's got the thing that Burr has. I know they're funny and
+[<a id="00-08-03">00:08:03</a>]  they never got reconciled, kind of sad, but, you know, when Steve Jobs passed away,
 
-[00:08:46] ridiculous at times, but they're both righteous people. Their anger comes from because they really
+[<a id="00-08-10">00:08:10</a>]  Apple turned around and replaced him by having different experts.
 
-[00:08:51] pay attention to what's going on. I really particularly like when Tim did that and he's
+[<a id="00-08-14">00:08:14</a>]  So they had an expert from architect, they had an expert from music, like Dr. Dre or something.
 
-[00:08:57] over the board crazy and kind of sarcastic and silly, but that one episode he did on Ukraine,
+[<a id="00-08-18">00:08:18</a>]  So they brought all this expert to kind of bring back, I mean, how do you replace
 
-[00:09:03] he was dead on right about that. It's not about democracy or saving the world. There was something
+[<a id="00-08-23">00:08:23</a>]  something like Steve Jobs at Apple?
 
-[00:09:09] bigger than that and I think he's so knowledgeable about what Americans and our government have done
+[<a id="00-08-24">00:08:24</a>]  And this is very, very difficult.
 
-[00:09:15] overseas and what power does to people and corruption and things like that. Oddly enough,
+[<a id="00-08-26">00:08:26</a>]  And when Patrice died, there was two comedians that kind of started coming around that time,
 
-[00:09:20] we were here in Switzerland where one of the guys he talks about is Alan Dulles who was the head of
+[<a id="00-08-33">00:08:33</a>]  Shane Gillis and Tim Dillon.
 
-[00:09:26] OSS and later on CIA. He was one of those dirty motherfuckers. He really was and he was doing dirty
+[<a id="00-08-36">00:08:36</a>]  I've seen those.
 
-[00:09:34] business here and he was protecting Nazis, literally Nazis here. I like Tim. I like Burr
+[<a id="00-08-38">00:08:38</a>]  I've never talked to them.
 
-[00:09:41] because I think they're not going to say it, but to me they're pretty righteous people to me.
+[<a id="00-08-38">00:08:38</a>]  I like both of them.
 
-[00:09:48] Have you ever seen Tim Dillon did this episode where he reviewed the opening video for the
+[<a id="00-08-40">00:08:40</a>]  Yeah.
 
-[00:09:56] Gotthard Tunnel, which is a tunnel in Switzerland. No, I missed that one. This is a big engineering
+[<a id="00-08-42">00:08:42</a>]  Tim Dillon's got the thing that Burr has.
 
-[00:10:01] achievement for Switzerland. They built this tunnel through the mountains from the north part
+[<a id="00-08-45">00:08:45</a>]  I know they're funny and ridiculous at times, but they're both righteous people.
 
-[00:10:06] of Switzerland to the Italian part in the south. When they opened it, they had this bizarre ceremony
+[<a id="00-08-48">00:08:48</a>]  Their anger comes from because they really pay attention to what's going on.
 
-[00:10:13] which looks like a satanic ritual. They had dudes dressed up as goats. What are we talking
+[<a id="00-08-52">00:08:52</a>]  I really particularly like when Tim did that, and he's over the board crazy and kind of
 
-[00:10:22] about? 10 years ago, 15 years ago? This is about 10 years ago, but Tim Dillon reviewed it like
+[<a id="00-08-59">00:08:59</a>]  sarcastic and silly, but that one episode he did on Ukraine, he was dead on right about that.
 
-[00:10:28] two years ago, someone said. His take on it is hilarious. He's just stunned by how they're not
+[<a id="00-09-05">00:09:05</a>]  It's not about democracy or saving the world.
 
-[00:10:40] even hiding. This is like if you believe in world economic forum conspiracy theories, they're running
+[<a id="00-09-08">00:09:08</a>]  There was something bigger than that, you know?
 
-[00:10:46] the world. They have this evil satanic agenda. This ceremony is just wide open. This reminds me
+[<a id="00-09-10">00:09:10</a>]  And I think he's so knowledgeable about what Americans and our government have done overseas
 
-[00:10:56] Denver International Airport because it's shaped like swastika. Which airport? Denver in Colorado.
+[<a id="00-09-15">00:09:15</a>]  and what power does to people and corruption and things like that.
 
-[00:11:01] Oh, okay. It's shaped like swastika. What's funny is they're self-aware airport because they have
+[<a id="00-09-19">00:09:19</a>]  Oddly enough, we were here in Switzerland where one of the guys he talks about is Alan
 
-[00:11:08] a science. They will show a picture of a reptile saying, "Is this airport run by reptilian
+[<a id="00-09-24">00:09:24</a>]  Dulles, who was the head of OSS and later on CIA, and he was one of those dirty motherfuckers.
 
-[00:11:13] conspiracy people?" They have all this funny stuff around the airport piling up. I've got to
+[<a id="00-09-31">00:09:31</a>]  He really was, and he was doing dirty business here, and he was protecting Nazis,
 
-[00:11:20] say a swastika is probably a pretty good design for an airport. You can get the maximum number
+[<a id="00-09-36">00:09:36</a>]  literally Nazis here, you know?
 
-[00:11:27] of planes lined up there. It makes sense somehow. Well, I'm sure it's really awkward for Israeli
+[<a id="00-09-38">00:09:38</a>]  And I liked him, I liked Burr, because I think they're not going to say it, but to me they're
 
-[00:11:35] airlines to land in Denver. It's weird with this conspiracy and secrets because these days
+[<a id="00-09-47">00:09:47</a>]  pretty righteous people to me, you know?
 
-[00:11:43] what's funny is it's better to tell people the truth and nobody cares.
+[<a id="00-09-49">00:09:49</a>]  Have you ever seen Tim Dillon did this episode where he reviewed
 
-[00:11:47] During COVID, they were showing pictures of UFOs. If they showed that in the 80s,
+[<a id="00-09-54">00:09:54</a>]  the opening video for the Gotthard Tunnel, which is a tunnel in Switzerland?
 
-[00:11:53] I think there would have been massive hysteria and panic. Nobody cares. The public response is like,
+[<a id="00-09-59">00:09:59</a>]  No, I missed that one.
 
-[00:11:59] "Okay, what's next?" Nobody cares. You could give all the information and say
+[<a id="00-10-00">00:10:00</a>]  This is a big engineering achievement for Switzerland.
 
-[00:12:03] they're doing all kinds of terrible things, but most people are just so indifferent these days.
+[<a id="00-10-02">00:10:02</a>]  They built this tunnel through the mountains from the north part of Switzerland to the
 
-[00:12:08] I think it's too much. A little overwhelmed, right? I mean, yesterday I was doing this comedy
+[<a id="00-10-08">00:10:08</a>]  Italian part in the south.
 
-[00:12:16] show and I was doing a joke about how we're this close to World War III right now. Then there was
+[<a id="00-10-09">00:10:09</a>]  When they opened it, they had this bizarre ceremony, which looks like a satanic ritual.
 
-[00:12:21] this woman in the second one and I was like, "What?" I'm like, "How do you not know that Russia
+[<a id="00-10-17">00:10:17</a>]  They had dudes dressed up as goats.
 
-[00:12:28] and NATO are this close to things kicking off?" You're like, "I haven't even heard of this."
+[<a id="00-10-19">00:10:19</a>]  What are we talking about, like 10 years ago, 15 years ago?
 
-[00:12:38] -Personally, I think a lot of this stuff is just exaggerated. This is like a performance art.
+[<a id="00-10-23">00:10:23</a>]  It's about 10 years ago, but Tim Dillon reviewed it like two years ago, someone said.
 
-[00:12:43] -Maybe. Yeah, maybe. But I mean, I'm addicted to listening to stuff about how the world runs
+[<a id="00-10-30">00:10:30</a>]  And he's taken it as hilarious, but he's just stunned by how they're not even hiding.
 
-[00:12:55] and this kind of stuff. -Sure. Or how it doesn't run.
+[<a id="00-10-40">00:10:40</a>]  This is like if you believe in World Economic Forum conspiracy theories, they're running
 
-[00:12:57] -Then once you've got into that stuff, it's almost like you're living in a separate reality
+[<a id="00-10-46">00:10:46</a>]  the world, they have this evil satanic agenda.
 
-[00:13:06] to other people. -Yeah. I mean, how many disaster
+[<a id="00-10-49">00:10:49</a>]  Like this ceremony is just wide open.
 
-[00:13:09] movies do we have to watch in Hollywood? The guy says, "In the world." I just wish it does end.
+[<a id="00-10-54">00:10:54</a>]  This reminds me of Denver International Airport, because it's shaped like swastika, and there's
 
-[00:13:16] I'm sick of this. I've heard this kind of shit all my life and the danger of this and that,
+[<a id="00-10-59">00:10:59</a>]  - Which airport?
 
-[00:13:24] but at the end of the day, I think a lot of it is really grossly exaggerated.
+[<a id="00-11-00">00:11:00</a>]  - Denver in Colorado.
 
-[00:13:31] -I'm not worried about anything. -Of course, with most things, I have a half-smart idea. There's a
+[<a id="00-11-01">00:11:01</a>]  - Oh, okay.
 
-[00:13:37] bit that never worked. I was trying to say this to an audience. Back in the Middle Ages, they had
+[<a id="00-11-02">00:11:02</a>]  - It's shaped like swastika.
 
-[00:13:44] this terror of dragons. Then the king would rock up and go, "Oh, we must stop the dragons. That's
+[<a id="00-11-03">00:11:03</a>]  And what's funny is they're self-aware airport, because they have a science where like they
 
-[00:13:52] why I'm going to need your goats and your first daughter and all your money to help for the
+[<a id="00-11-09">00:11:09</a>]  will show a picture of like a reptile saying, "Is this airport run by reptilian conspiracy
 
-[00:14:00] dragons until somebody finally figured out there's no dragons." A lot of this stuff is, to me, it's
+[<a id="00-11-14">00:11:14</a>]  people?"
 
-[00:14:07] the same thing. There's always got to be a fear of something, some disaster, so that you're like,
+[<a id="00-11-14">00:11:14</a>]  They have all this funny stuff around the airport kind of piling up.
 
-[00:14:18] "Oh, well then take my money because I need you to protect me." -Yeah. I think we may make a small
+[<a id="00-11-19">00:11:19</a>]  - I've got to say, a swastika is probably a pretty good design for an airport.
 
-[00:14:25] example where I see these Asian-American groups representing me and other Asian people. I never
+[<a id="00-11-24">00:11:24</a>]  You can get the maximum number of planes lined up there.
 
-[00:14:31] asked them to do that, but they're self-appointed. -Oh, interesting. -They're all doing all kinds of
+[<a id="00-11-28">00:11:28</a>]  - Yeah.
 
-[00:14:35] shit that I don't really give a shit about. -What kind of things? -I don't know. If there's an
+[<a id="00-11-29">00:11:29</a>]  - It's like it makes sense somehow.
 
-[00:14:41] incident where an Asian person got hurt or ridiculed in public, that these people are
+[<a id="00-11-33">00:11:33</a>]  - Well, I'm sure it's really awkward for an Israeli airline to land in Denver.
 
-[00:14:45] going to go and rectify that. I didn't fucking ask you to do that. Most Asian people, like myself,
+[<a id="00-11-37">00:11:37</a>]  But it's weird with this conspiracy and secrets, because these days, what's funny is like it's
 
-[00:14:51] who are fobbed fresh off the boat and have accent, they're too busy working. We don't care about
+[<a id="00-11-45">00:11:45</a>]  better to tell people the truth and nobody cares.
 
-[00:14:56] things that Asian-Americans are into. There's a difference between Asians living in America with
+[<a id="00-11-47">00:11:47</a>]  During COVID, they were showing a picture of UFOs.
 
-[00:15:01] the U.S. citizenship, but to me, they're Asians. There's Asian-Americans who have faces like mine,
+[<a id="00-11-52">00:11:52</a>]  And if they showed that in the '80s, I think there would have been massive hysteria and
 
-[00:15:07] but they don't know anything about Asian heritage and culture, but they're using this as a pretext
+[<a id="00-11-56">00:11:56</a>]  panic.
 
-[00:15:12] to represent the whole group. Who are you? Nobody asked you to do any of this stuff. -They're like,
+[<a id="00-11-56">00:11:56</a>]  Nobody cares.
 
-[00:15:17] what, second generation? -Or third or whatever, and they don't know anything about their background.
+[<a id="00-11-58">00:11:58</a>]  The public response is like, "Okay, what's next?"
 
-[00:15:21] That's what I like when they say Asian heritage, this and that. When I talk to them,
+[<a id="00-12-00">00:12:00</a>]  - Yeah, yeah, yeah.
 
-[00:15:26] they don't know anything. You can't tell me that something's important. You don't even bother to
+[<a id="00-12-01">00:12:01</a>]  - Yeah, nobody cares.
 
-[00:15:30] spend time learning that, so you have no business telling me, "Well, we have to do this for Asian
+[<a id="00-12-01">00:12:01</a>]  You could give all the information and say they're doing all kinds of terrible things.
 
-[00:15:35] group." Look. -I've always found it weird how much America's made an identity out of race,
+[<a id="00-12-05">00:12:05</a>]  But most people are just so indifferent these days.
 
-[00:15:45] and I know there's probably, if anyone ever heard that, they want to kill me, but the thing is,
+[<a id="00-12-07">00:12:07</a>]  - I think it's too much.
 
-[00:15:52] growing up in England, we took a lot of people, and it's got fucked up history. We took people
+[<a id="00-12-09">00:12:09</a>]  - A little overwhelmed, right?
 
-[00:15:59] from the colonies that we captured, and then by the '60s, we needed people to work, so we invited
+[<a id="00-12-12">00:12:12</a>]  - I mean, yesterday I was doing this comedy show and I was doing a joke about how we're
 
-[00:16:06] all kinds of people, and mostly, it worked out pretty well. There were some times where there
+[<a id="00-12-18">00:12:18</a>]  this close to World War III right now.
 
-[00:16:11] was different, we called it race riots and stuff, but it used to be. England now is a different
+[<a id="00-12-20">00:12:20</a>]  And then there was this woman and the second one was like, "What?"
 
-[00:16:19] place, at least what I hear, because I don't live there, but back in the day, it was just like your
+[<a id="00-12-24">00:12:24</a>]  And I'm like, "How do you not know that Russia and NATO are this close to things kicking
 
-[00:16:26] color wasn't really an issue, or your racial identity. -I think when you look at media,
+[<a id="00-12-32">00:12:32</a>]  off?"
 
-[00:16:32] you think there's so much conflict between different groups. On my birthday this year,
+[<a id="00-12-33">00:12:33</a>]  And you're like, "I haven't even heard of this."
 
-[00:16:37] I went to Israel, and based on what you see on television, you would think they're always fighting
+[<a id="00-12-35">00:12:35</a>]  And I mean, I think...
 
-[00:16:42] Jews and Muslims are fighting each other, but as soon as I got there, there's Jews and Muslims
+[<a id="00-12-37">00:12:37</a>]  - Personally, I think a lot of this stuff is just exaggerated.
 
-[00:16:50] walking around in a subway. It is a little weird. You're taking the subway, you see attractive Jewish
+[<a id="00-12-41">00:12:41</a>]  It's just like a performance art.
 
-[00:16:58] girl in the IDF uniform with a machine gun, things like that, and across from her is a Muslim girl,
+[<a id="00-12-43">00:12:43</a>]  - Maybe, yeah.
 
-[00:17:03] completely covered in burqa and things like that, and they're not friends, they're just minding
+[<a id="00-12-45">00:12:45</a>]  Yeah, maybe.
 
-[00:17:09] their own business. They exist peacefully, and I think most people just, it's not as people think
+[<a id="00-12-46">00:12:46</a>]  - But I mean, I'm addicted to listening to stuff about how the world runs and this kind
 
-[00:17:18] it is, I think most people just mind their own business, because they have a lot of things to
+[<a id="00-12-55">00:12:55</a>]  of stuff.
 
-[00:17:21] worry about. They're taking care of their family, they have to work, and I went to a couple restaurants
+[<a id="00-12-56">00:12:56</a>]  - Sure.
 
-[00:17:24] where it's like Jews are in a restaurant owned by Muslims. You just don't bring up those things that
+[<a id="00-12-56">00:12:56</a>]  Or how it doesn't run.
 
-[00:17:31] upset people. Just, hey, you know, order your food, eat, pay, and get the fuck out so the Muslims could
+[<a id="00-12-57">00:12:57</a>]  - And then once you've got into that stuff, it's almost like you're living in a separate
 
-[00:17:37] take your money and pay for their bill for their family. You know, like, I think everybody
+[<a id="00-13-06">00:13:06</a>]  reality to other people.
 
-[00:17:41] gets along fine, you know. Of course, if you go to Gaza, it's a different story, but I just think
+[<a id="00-13-07">00:13:07</a>]  - Yeah.
 
-[00:17:47] most people mind their own business, and I think that's the best thing you could do.
+[<a id="00-13-08">00:13:08</a>]  I mean, how many disaster movies do we have to watch in Hollywood?
 
-[00:17:53] It's too dangerous when people go their other way and try to help other people.
+[<a id="00-13-10">00:13:10</a>]  The guy said, "In the world."
 
-[00:17:58] This is what, like, liberal white people are trying to do. It's, you know, Malcolm X famously said,
+[<a id="00-13-13">00:13:13</a>]  And then I just wish it does end.
 
-[00:18:03] "Just beware of white liberals. They're the most dangerous people out there."
+[<a id="00-13-16">00:13:16</a>]  I'm sick of this.
 
-[00:18:07] Conservative people are like wolves. Like, they're up to no good, so you know how to deal with them.
+[<a id="00-13-17">00:13:17</a>]  It's just like, I've heard this kind of shit all my life.
 
-[00:18:13] When you deal with white liberal people, you trust them, and because you open up to them,
+[<a id="00-13-22">00:13:22</a>]  And the danger of this and that.
 
-[00:18:18] there's a chance that they might betray you. That's the danger of white liberals, you know.
+[<a id="00-13-24">00:13:24</a>]  But at the end of the day, I think a lot of it is really grossly exaggerated.
 
-[00:18:23] Just like, I have a similar thing I say with my kids, because for a while, my daughter was going
+[<a id="00-13-28">00:13:28</a>]  - I think the thing is, there's...
 
-[00:18:29] about, "Yeah, I want to do something that has an impact." And I'm just like, "You know what the
+[<a id="00-13-31">00:13:31</a>]  - I'm not worried about anything.
 
-[00:18:34] worst thing is on this planet? A young person that wants to change the world." Like, if you can tidy
+[<a id="00-13-32">00:13:32</a>]  - Of course, with most things, I have a half-smart idea.
 
-[00:18:40] your own bedroom consistently and run your own life, then you've reached a level where you've
+[<a id="00-13-35">00:13:35</a>]  I try a bit, but there's a bit that never worked where I go like, I was trying to say
 
-[00:18:46] figured enough shit out that you could actually do something. That's why those young people are
+[<a id="00-13-40">00:13:40</a>]  this to an audience, back in the Middle Ages, they had this terror of dragons.
 
-[00:18:50] crazy to me, because they don't even fix their fucking bed in the morning, and they don't have
+[<a id="00-13-45">00:13:45</a>]  And then the king would rock up and go, "Oh, we must stop the dragons.
 
-[00:18:55] a job or whatnot, but they think they could change the world. And here's the thing, they probably can
+[<a id="00-13-51">00:13:51</a>]  That's why I'm going to need your goats and your first daughter and all your money to
 
-[00:18:58] change the world for worse, not for better, because are you well-versed in education, experience,
+[<a id="00-13-58">00:13:58</a>]  help for the dragons."
 
-[00:19:08] and live long enough to know what's the problem, what's causing the problem, and you know the
+[<a id="00-14-00">00:14:00</a>]  Until somebody finally figured out there's no dragons.
 
-[00:19:12] solution, and you know how to execute the solution? You're a pretty arrogant person to think like that.
+[<a id="00-14-04">00:14:04</a>]  And a lot of this stuff is, to me, it's like, it's the same thing.
 
-[00:19:16] I just think one of the number one or number two rules of Eddie Murphy is saying mind your own damn
+[<a id="00-14-11">00:14:11</a>]  There's always got to be a fear of something, some disaster.
 
-[00:19:22] business, and the world will be a better place if you do mind your own business, you know? But I don't
+[<a id="00-14-16">00:14:16</a>]  So that you're like, "Oh, well, then take my money because I need you to protect me."
 
-[00:19:27] think they do that, because growing up in America, you know, like most Japanese people watch cowboy
+[<a id="00-14-22">00:14:22</a>]  - Yeah, and I think we may make a small example where I see these Asian American groups representing
 
-[00:19:34] movies think, cowboy movies are exactly the way cowboys live. You know, they're idealistic, and
+[<a id="00-14-29">00:14:29</a>]  me and other Asian people.
 
-[00:19:40] they're protecting the weak, and they protect ladies and things like that. Boy, that's far from
+[<a id="00-14-30">00:14:30</a>]  I never asked them to do that, but they're self-appointed.
 
-[00:19:45] the truth, you know? And I think... Actually, I don't know if it's true, but I heard that in
+[<a id="00-14-33">00:14:33</a>]  - Oh, interesting.
 
-[00:19:51] reality most cowboys were black. I don't know if that's true, but the myth of the... I know I've
+[<a id="00-14-34">00:14:34</a>]  - And they're all doing all kinds of shit that I don't really give a shit about.
 
-[00:19:58] never verified this, but in the movies the cowboys are white guys, and it said in reality the guys
+[<a id="00-14-37">00:14:37</a>]  - Like what kind of things?
 
-[00:20:06] moving the cattle around were usually black. I don't know any of the racial component of cowboys.
+[<a id="00-14-39">00:14:39</a>]  - Well, I don't know.
 
-[00:20:13] All I know is that my understanding of cowboys back then is they're poorly paid laborers in a
+[<a id="00-14-40">00:14:40</a>]  Like if there's an incident where an Asian person got hurt or ridiculed in public, that
 
-[00:20:18] pretty difficult, miserable lives, you know? Yeah, yeah. So I think we have a tendency to idealize,
+[<a id="00-14-44">00:14:44</a>]  these people are going to go and rectify that.
 
-[00:20:24] but I'm 55 years old, and I've read some books in my life. I travel a little bit, a little bit.
+[<a id="00-14-46">00:14:46</a>]  But I didn't fucking ask you to do that.
 
-[00:20:30] And I just think you should respect people. You could disagree with somebody, but you should
+[<a id="00-14-48">00:14:48</a>]  You know, most Asian people, like myself, who are fobbed, fresh off the boat and have
 
-[00:20:39] respect people. And two, just because they do something different from you, it doesn't mean
+[<a id="00-14-53">00:14:53</a>]  accent, they're too busy working.
 
-[00:20:44] it's wrong. And even if it's unjust, there's not a whole lot you could do to get yourself involved,
+[<a id="00-14-55">00:14:55</a>]  We don't care about things that Asian Americans are into.
 
-[00:20:52] because all you're going to do is... Most likely you make the situation worse and get yourself
+[<a id="00-14-58">00:14:58</a>]  You know, there's a difference between Asians living in America with the US citizenship,
 
-[00:20:56] killed, you know? Yeah, yeah, yeah. And it's a really difficult thing to do that when you're
+[<a id="00-15-02">00:15:02</a>]  but to me, they're Asians.
 
-[00:21:00] young. You want to do the decent thing, but I think that's... It's dangerous when you think
+[<a id="00-15-04">00:15:04</a>]  And there's Asian Americans who have faces like mine, but they don't know anything about
 
-[00:21:05] you could get yourself involved, you know? Did you ever read the Tao Te Ching or Tao Te Ching,
+[<a id="00-15-08">00:15:08</a>]  Asian heritage and culture.
 
-[00:21:12] the Chinese book of wisdom? No, but there's a guy named James Inman, very friendly comedian,
+[<a id="00-15-10">00:15:10</a>]  But they're using this like a pretext to like, you know, representing the whole group.
 
-[00:21:18] won the either Seattle or San Francisco comedy competition, a good friend of Doug Stanhope.
+[<a id="00-15-14">00:15:14</a>]  But like, who are you?
 
-[00:21:22] And he'd get drunk and angry and screaming loud, but he's always talked about this peaceful book
+[<a id="00-15-15">00:15:15</a>]  Nobody asked you to do any of this stuff.
 
-[00:21:27] from Asia, ironically. When I was, I don't know, I don't know why, but when I was like 18,
+[<a id="00-15-16">00:15:16</a>]  - So they're like, what, second generation?
 
-[00:21:37] I got fascinated with... I read The Arts of War, I read The Book of Five Rings, is that Chinese?
+[<a id="00-15-18">00:15:18</a>]  - Or third or whatever.
 
-[00:21:44] Miyamoto Musashi, yeah. Yeah, and also Tao Te Ching. He killed a kid, by the way. Really? Yes.
+[<a id="00-15-20">00:15:20</a>]  They don't know anything about their background.
 
-[00:21:50] What an asshole! We'll continue whatever you... But his thing was he was going to town to town,
+[<a id="00-15-22">00:15:22</a>]  That's what I like when they say, you know, Asian heritage, this and that.
 
-[00:21:58] challenging different school of martial arts, and he would beat them. And for whatever reason,
+[<a id="00-15-25">00:15:25</a>]  Like when I talk to them, they don't know anything.
 
-[00:22:03] this one school or the one family had him as a representative, but they brought like 50 to 100
+[<a id="00-15-27">00:15:27</a>]  Like you can't tell me that something's important.
 
-[00:22:09] henchmen to protecting him. But he waited, waited until he's sneaking and killed a bunch of people,
+[<a id="00-15-29">00:15:29</a>]  You don't even bother to spend time learning that.
 
-[00:22:13] including the kid. Because once you put kid as your representative, he had no choice but to kill the
+[<a id="00-15-32">00:15:32</a>]  So you have no business telling me like, well, you know, we have to do this for Asian group.
 
-[00:22:19] kid. Okay. He's not something like a psychopath, murderer, you know. Yeah. But so, I mean, the thing
+[<a id="00-15-36">00:15:36</a>]  Like, look.
 
-[00:22:27] about the Tao Te Ching is, like, a lot of it's about how to live your life. Yeah. But you read
+[<a id="00-15-37">00:15:37</a>]  - I've always found it weird how much America's made an identity out of race.
 
-[00:22:34] that book, and I did the same thing with the European book, Mike Kump, and... Am I saying
+[<a id="00-15-45">00:15:45</a>]  And I know there's like, probably there's, if anyone ever heard that, they want to kill me.
 
-[00:22:43] that right? How do you say that book? Wait, tell me again. What was the Hitler's book? Oh,
+[<a id="00-15-51">00:15:51</a>]  But the thing is growing up in England, we took a lot of people and it's got fucked up history.
 
-[00:22:48] Mike Kump. Yeah, My Struggle, yeah. My Struggle. Yeah, that's on the... That will get you looks
+[<a id="00-15-58">00:15:58</a>]  We took people from the colonies that we captured.
 
-[00:22:56] if you want to answer it, carrying that with you. No, but it was interesting. What I remember about
+[<a id="00-16-01">00:16:01</a>]  And then by the sixties, we needed people to work.
 
-[00:23:02] it was like the last... I couldn't believe Hitler did an audio book for it. Would he be a podcaster
+[<a id="00-16-05">00:16:05</a>]  So we invited all kinds of people.
 
-[00:23:12] today? I think he probably would. But you'd have to get him to not... You'd be... His producer would
+[<a id="00-16-07">00:16:07</a>]  And mostly it worked out pretty well.
 
-[00:23:17] be like, "Can you stop yelling into the mic? Hitler, just chill out a little bit." Yeah. It's
+[<a id="00-16-10">00:16:10</a>]  There was some times where there was like different, we call it race riots and stuff.
 
-[00:23:21] going to be weird because he'll have Jewish producers, you know. Jewish producers are
+[<a id="00-16-15">00:16:15</a>]  But it used to be, England now is a different place.
 
-[00:23:30] controlling. Yeah. I mean, he said he had an Instagram account. Jesus will have an Instagram
+[<a id="00-16-20">00:16:20</a>]  At least what I hear, cause I don't live there.
 
-[00:23:35] account and a Twitter account and things like that. I mean, he probably... If he'd learned the
+[<a id="00-16-22">00:16:22</a>]  But back in the day, it was just like, your color wasn't really an issue.
 
-[00:23:43] techniques, he could probably be killing it. I mean, Andrew Tate is a controversial figure. And
+[<a id="00-16-29">00:16:29</a>]  - I think when you look at media, you think there's so much conflict between different groups, right?
 
-[00:23:51] if you look at a lot of the tactics he's used, like the way to blow up on social media is divide
+[<a id="00-16-35">00:16:35</a>]  So like on my birthday this year, I went to Israel and based on what you see on television,
 
-[00:23:57] and conquer. So you get half the people on board with your message and the other half hate you
+[<a id="00-16-41">00:16:41</a>]  you would think they're always fighting Jews and Muslims are fighting each other.
 
-[00:24:02] because of your message. In fact, hate watching, hate listening is even a big word, and the fans
+[<a id="00-16-44">00:16:44</a>]  But soon as I got there, like, you know, there's Jews and Muslims walking around in a subway.
 
-[00:24:08] most likely. Probably, yeah. Yeah. I was at the Bucharest on his court date. I got the dates wrong.
+[<a id="00-16-52">00:16:52</a>]  You know, it is a little weird.
 
-[00:24:14] I got their date afterwards. You sure? Oh, wow. Okay. I went to the court. Anyway, you know,
+[<a id="00-16-55">00:16:55</a>]  You're taking a subway, you see attractive Jewish girl in the IDF uniform with a machine gun,
 
-[00:24:20] I guess we were kind of meandering. And I think, you know, we met about, what, a year and a half,
+[<a id="00-17-01">00:17:01</a>]  things like that.
 
-[00:24:28] two years ago? I can't even remember. Yeah. Christian, who we're at Christian's place right now,
+[<a id="00-17-01">00:17:01</a>]  And that cross from her is a Muslim girl, completely covered in burqa and things like that.
 
-[00:24:34] introduced us. Did we just meet that one time? The next day, we went to the coffee shop,
+[<a id="00-17-05">00:17:05</a>]  And they're not friends.
 
-[00:24:41] recorded a podcast? I'm trying to reconstruct. I can't remember. Yeah, I think we did. So,
+[<a id="00-17-07">00:17:07</a>]  They're just minding their own business.
 
-[00:24:48] basically, I just... We met and we were talking. Yeah. So it was very interesting to me because
+[<a id="00-17-10">00:17:10</a>]  They exist peacefully.
 
-[00:24:57] at that particular moment, I got out of a, whatever you call it nowadays, a situationship
+[<a id="00-17-11">00:17:11</a>]  And I think most people just, it's not as people think it is.
 
-[00:25:03] with a lady who'd been through something, let's say, a little bit Epstein-y. Yeah. Epstein-y.
+[<a id="00-17-18">00:17:18</a>]  I think most people just mind their own business.
 
-[00:25:12] And it opened my eyes to a bunch of stuff I didn't know about. Yeah. Freaked me out. And I've been
+[<a id="00-17-20">00:17:20</a>]  Cause they have a billion things to worry about.
 
-[00:25:21] ranting to Christian about this stuff, about like, "Shit, there's this and there's this and
+[<a id="00-17-21">00:17:21</a>]  They're taking care of their family, they have to work.
 
-[00:25:26] there's this." And he's like, "You got to meet Yoshi." Oh, so this lady that you were hanging out,
+[<a id="00-17-23">00:17:23</a>]  And I went to a couple of restaurants where it's like,
 
-[00:25:30] she allegedly had some kind of sexual thing that happened to her. And then she started talking
+[<a id="00-17-26">00:17:26</a>]  Jews are in a restaurant owned by Muslims.
 
-[00:25:38] about underbelly of Swiss world. Yeah. And you guys were talking about, and this is something
+[<a id="00-17-29">00:17:29</a>]  You just don't bring up those things that upset people.
 
-[00:25:44] that you were not familiar with, because I think Swiss people seem to be extremely polite and these
+[<a id="00-17-31">00:17:31</a>]  Just, hey, you know, order your food, eat, pay and get the fuck out.
 
-[00:25:49] private things are kind of hidden away, like most other places, I guess. So that's when Christian
+[<a id="00-17-36">00:17:36</a>]  So the Muslims could take your money and pay for their bill for their family.
 
-[00:25:53] mentioned my name. That's how that started. Yeah. Okay. You were in town and he's like,
+[<a id="00-17-40">00:17:40</a>]  You know, like, I think everybody get along fine.
 
-[00:25:58] he'd just say, "Dude, you've got to meet Yoshi." Okay. That makes sense. And then we just got
+[<a id="00-17-42">00:17:42</a>]  You know, of course, if you go Gaza, it's a different story.
 
-[00:26:04] talking. You were, and yeah, I don't know. We just sort of empty each other up on... Wait, wait. Did
+[<a id="00-17-45">00:17:45</a>]  But I just think most people mind their own business.
 
-[00:26:11] we meet on the day we were recording podcast or did we meet prior to that? I think we met maybe
+[<a id="00-17-51">00:17:51</a>]  And I think that's the best thing you could do.
 
-[00:26:18] the day or two before at a bar. Okay. We were at this Irish bar, Irish pub. That's right. And then
+[<a id="00-17-53">00:17:53</a>]  It's too dangerous when people go their other way and try to help other people.
 
-[00:26:24] we were talking. Okay. Now I remember. We were talking like an hour or two. And then I think
+[<a id="00-17-57">00:17:57</a>]  This is what like liberal white people are trying to do.
 
-[00:26:29] the next day or that we just met up at Starbucks, you were heading off somewhere. Yeah. Okay. Now I
+[<a id="00-18-00">00:18:00</a>]  It's, you know, Malcolm X famously said, just beware of white liberals.
 
-[00:26:34] remember. Somewhere there's an audio podcast. But it was, to me, I really enjoyed the conversation
+[<a id="00-18-05">00:18:05</a>]  They're the most dangerous people out there.
 
-[00:26:42] we had at that podcast because it's like... I don't remember what we talked about. I don't
+[<a id="00-18-07">00:18:07</a>]  Conservative people are like wolves.
 
-[00:26:46] really remember either, but it was just, there was a bunch of things about the things we were
+[<a id="00-18-10">00:18:10</a>]  Like they're up to no good.
 
-[00:26:51] talking about where it's like, ah, it's like one old dude to another, we get. And I think
+[<a id="00-18-12">00:18:12</a>]  So you know how to deal with them.
 
-[00:26:59] I haven't seen you since then, I don't think. Have I? No, we... No. So I got here because this year,
+[<a id="00-18-13">00:18:13</a>]  When you deal with white liberal people, you trust them.
 
-[00:27:06] I think ever since that day, we're messaging back and forth. And I think maybe you mentioned
+[<a id="00-18-16">00:18:16</a>]  And because you open up to them, there's a chance that they might betray you.
 
-[00:27:13] earlier in the year, like, oh, we were talking and like, why don't you come to Switzerland and do
+[<a id="00-18-20">00:18:20</a>]  That's the danger of white liberals, you know.
 
-[00:27:18] podcasting? I wanted to come early in the year, but I just had a bunch of shit and I finally was
+[<a id="00-18-23">00:18:23</a>]  I have a similar thing I say with my kids.
 
-[00:27:22] able to make up. Yeah. Showed up November 22nd. Yeah. And well, and I like traveling this particular
+[<a id="00-18-27">00:18:27</a>]  Because for a while, my daughter was going about, yeah, I want to do something that has impact.
 
-[00:27:30] time of year because I don't like being in the States during Thanksgiving because I don't like
+[<a id="00-18-32">00:18:32</a>]  And I'm just like, you know what the worst thing is on this planet?
 
-[00:27:33] hanging out with my family. And when you don't hang out with your family, all your friends say,
+[<a id="00-18-36">00:18:36</a>]  A young person that wants to change the world.
 
-[00:27:38] well, you have to come to my Thanksgiving. And now I'm dragging to somebody else's family drama
+[<a id="00-18-38">00:18:38</a>]  Like, if you can tidy your own bedroom consistently and run your own life,
 
-[00:27:44] that I don't want to hear. And believe me, it doesn't make me sad. I like not being invited
+[<a id="00-18-44">00:18:44</a>]  then you've reached a level where you've figured enough shit out
 
-[00:27:48] to these things because I don't want to hear all kinds of family, you know, because Thanksgiving is
+[<a id="00-18-47">00:18:47</a>]  that you could actually do something.
 
-[00:27:52] the time you're supposed to be thankful and spend time with your family. But that's not what happened
+[<a id="00-18-49">00:18:49</a>]  That's why those young people are crazy to me.
 
-[00:27:56] a lot of times. They were bringing all the family grudges once a year and like, don't drag me into
+[<a id="00-18-51">00:18:51</a>]  Because they don't even fix their fucking bed in the morning.
 
-[00:28:02] this. I don't want to hear your family problems, you know? So I, for the last 21 years, I think
+[<a id="00-18-54">00:18:54</a>]  They don't have a job or whatnot.
 
-[00:28:13] 14, 15 of those years, I'm almost in like Europe or something, because I didn't, I don't like
+[<a id="00-18-55">00:18:55</a>]  But they think they could change the world.
 
-[00:28:20] being there. Now, Christmas you can't help anywhere. That's holiday everywhere in the world.
+[<a id="00-18-57">00:18:57</a>]  And here's the thing, they probably can change the world for worse, not for better.
 
-[00:28:25] Maybe Muslim country for whatever, you know? So I'm glad I'm here. And you want to talk to
+[<a id="00-19-01">00:19:01</a>]  Because are you well-versed in education, experience, and live long enough to know
 
-[00:28:35] me about my previous job and things like that. I don't mind, but like, it's like people doing
+[<a id="00-19-09">00:19:09</a>]  what's the problem, what's causing the problem, and you know the solution,
 
-[00:28:43] premieres for movies. They get asked the same stupid question over and over. You get tired
+[<a id="00-19-12">00:19:12</a>]  and you know how to execute the solution.
 
-[00:28:47] of answering them. And I'm not going to say anything like different or, you know, that's why
+[<a id="00-19-14">00:19:14</a>]  You're a pretty arrogant person to think like that.
 
-[00:28:52] it's not that I want to talk about it. Just, I get tired of saying the same thing over and over again,
+[<a id="00-19-16">00:19:16</a>]  I just think one of the number one or number two rules of Eddie Murphy is saying,
 
-[00:28:56] you know? Yeah, I know. So, so I don't know how we're going to do this, but I asked him like,
+[<a id="00-19-21">00:19:21</a>]  mind your own damn business.
 
-[00:29:03] Hey, before we do the first episode, can I just ask you a bunch of questions? And I want to do
+[<a id="00-19-22">00:19:22</a>]  And the world will be a better place if you do mind your own business, you know.
 
-[00:29:07] with a question, you know? Yeah. Quick time out. I want to get the other gym. You could just
+[<a id="00-19-26">00:19:26</a>]  But I don't think they do that because growing up in America,
 
-[00:29:18] edit this anyway, right? Yeah. Yeah. Well, you know, I think we still don't even know what this
+[<a id="00-19-30">00:19:30</a>]  like most Japanese people watch cowboy movies think,
 
-[00:29:36] thing's going to be called and you guys could do whatever with it. I don't, I don't really care. But
+[<a id="00-19-35">00:19:35</a>]  cowboy movies are exactly the way cowboys live.
 
-[00:29:42] so you're born in UK. Where in the UK? I was born in Wiesbaden in Germany. My dad was,
+[<a id="00-19-38">00:19:38</a>]  You know, they're idealistic and they're protecting the weak
 
-[00:29:51] was German near Frankfurt. Oh, okay. There's a big US air base or they used to be in Wiesbaden.
+[<a id="00-19-41">00:19:41</a>]  and they protect ladies and things like that.
 
-[00:30:00] And then with two, my parents divorced and my mom, who's English, took us back to
+[<a id="00-19-44">00:19:44</a>]  Boy, that's far from the truth, you know.
 
-[00:30:07] live. How did your mom meet your dad? So from what I know, she was, she'd studied history at Oxford.
+[<a id="00-19-47">00:19:47</a>]  And I think...
 
-[00:30:17] She was a, she is a smart lady. And all those universities in the world or up there? Yeah. Yeah.
+[<a id="00-19-47">00:19:47</a>]  Actually, I don't know if it's true,
 
-[00:30:26] And then somehow she started working for the, yeah, this would be not possible at all now.
+[<a id="00-19-50">00:19:50</a>]  but I heard that in reality, most cowboys were black.
 
-[00:30:33] She started working for the Encyclopedia Britannica, which is... What kind of history did she study?
+[<a id="00-19-53">00:19:53</a>]  I don't know if that's true, but the myth of the...
 
-[00:30:38] Is it European or something? That's a good question. I've never, you know, it's weird,
+[<a id="00-19-57">00:19:57</a>]  I know I've never verified this, but in the movies, the cowboys are white guys.
 
-[00:30:44] like these things you never really talk to your parents about. Yeah. Like I heard bits of it when
+[<a id="00-20-04">00:20:04</a>]  And it said in reality, the guys moving the cattle around were usually black.
 
-[00:30:49] I was young and now I'm busy with my life. I mean, if you don't mind, how old is your mom about?
+[<a id="00-20-09">00:20:09</a>]  I don't know any of the racial component of cowboys.
 
-[00:30:54] She's in about 88 now, I think. That shows what a great son I am. I think how old she is.
+[<a id="00-20-13">00:20:13</a>]  All I know is that my understanding of cowboys back then is they're poorly paid laborers
 
-[00:31:04] So she was going to Oxford like late 50s, early 60s. Yeah. Yeah. Yeah. She, she, she was born
+[<a id="00-20-17">00:20:17</a>]  and have pretty difficult, miserable lives, you know.
 
-[00:31:11] right before World War II. And one of the things was, was her generation going through school,
+[<a id="00-20-20">00:20:20</a>]  Yeah, yeah.
 
-[00:31:21] were very, for English as the first really problematic generation, because they all had like,
+[<a id="00-20-21">00:20:21</a>]  So I think we have a tendency to idealize.
 
-[00:31:26] like weird, I don't know, weird vibes because they'd been through the war and, and then they
+[<a id="00-20-24">00:20:24</a>]  But I'm 55 years old and I've read some books in my life.
 
-[00:31:37] were like, like they were super smart, but also very hard for the teachers to manage. And then...
+[<a id="00-20-28">00:20:28</a>]  I travel a little bit.
 
-[00:31:46] Well, what was your mom's class? Like a middle class, lower class?
+[<a id="00-20-29">00:20:29</a>]  And I just think you should respect people.
 
-[00:31:50] Um, I, there's more or less, so we were probably upper middle class. Oh, is that right? Because
+[<a id="00-20-37">00:20:37</a>]  You could disagree with somebody if you should respect people.
 
-[00:31:58] my grandfather was, he was the, the bank manager of the Bank of England in Southampton, which was,
+[<a id="00-20-40">00:20:40</a>]  And two, just because they do something different from you, it doesn't mean it's wrong.
 
-[00:32:05] it's like, Southampton is not a fantastic city, but he was the boss of the bank. So there was
+[<a id="00-20-45">00:20:45</a>]  And even if it's unjust, there's not a whole lot you could do to get yourself involved,
 
-[00:32:14] money around and... So I gather your, your mother's side come from a pretty good educational background.
+[<a id="00-20-52">00:20:52</a>]  because all you're going to do is probably...
 
-[00:32:22] Yeah. And I mean, because going to Oxford is a very, extremely prestigious place, as you know.
+[<a id="00-20-53">00:20:53</a>]  Most likely, you make the situation worse and get yourself killed, you know.
 
-[00:32:27] Yeah. And you, she probably met a lot of other future influential people as well going to Oxford.
+[<a id="00-20-57">00:20:57</a>]  Yeah, yeah, yeah.
 
-[00:32:33] Oh yeah. She, she, occasionally when we would talk about this, we would, like I, I,
+[<a id="00-20-57">00:20:57</a>]  And it's a really difficult thing to do that when you're young.
 
-[00:32:38] she lives in Germany now with my brother and I see her that often. And
+[<a id="00-21-00">00:21:00</a>]  You want to do the decent thing, but I think that's...
 
-[00:32:41] um, but yeah, she, she did meet, she met some Indian dude who was, ended up very high up in
+[<a id="00-21-03">00:21:03</a>]  It's dangerous when you think you could get yourself involved, you know.
 
-[00:32:49] Indian politics. I see. It was kind of her boyfriend for a bit. Um, she may have been,
+[<a id="00-21-07">00:21:07</a>]  Did you ever read the Tao Te Ching or Tao Te Ching?
 
-[00:32:56] I shouldn't say this, but she was, she may have been a bit of a ho at Oxford, but she,
+[<a id="00-21-12">00:21:12</a>]  That's the Chinese book of wisdom.
 
-[00:33:03] but I don't know. It's like, it's like now she, she'd talk a lot about...
+[<a id="00-21-15">00:21:15</a>]  No, but there's a guy named James Inman,
 
-[00:33:09] Most unlikely because these days, what, what to be a whole, these days are so different than say
+[<a id="00-21-17">00:21:17</a>]  very friendly comedian, won the either Seattle or San Francisco comedy competition,
 
-[00:33:16] back then. Back then just giving like a kiss or something, you know.
+[<a id="00-21-21">00:21:21</a>]  a good friend of Doug Stanhope.
 
-[00:33:20] Yeah. And so she talked about having different boyfriends, but how far that, I don't think it
+[<a id="00-21-22">00:21:22</a>]  And he gets drunk and angry, screaming loud,
 
-[00:33:26] was, that would mean something different. But yeah, so she did that. Then she got a job out
+[<a id="00-21-25">00:21:25</a>]  but he's always talking about this peaceful book from Asia, ironically.
 
-[00:33:32] of the university working for the Encyclopedia Britannica. Right. And then I think she, I don't
+[<a id="00-21-31">00:21:31</a>]  I said, I don't know, when I was, I don't know, I don't know why, but when I was like 18, I got
 
-[00:33:39] know why, but she got, I think she just got offered a job, a better paid job for a German
+[<a id="00-21-38">00:21:38</a>]  fascinated with, I read The Arts of War, I read The Book of Five Rings, is that Chinese?
 
-[00:33:45] encyclopedia in Wiesbaden. And then... That's where they, you know, parents met.
+[<a id="00-21-44">00:21:44</a>]  Miyamoto Musashi, yeah.
 
-[00:33:52] Yeah. I see. And she was staying in a, like a rented flat and my German grandmother owned
+[<a id="00-21-46">00:21:46</a>]  Yeah, and also Tao Te Ching.
 
-[00:34:00] the building. And that's how she met my dad. And what's your dad's background?
+[<a id="00-21-47">00:21:47</a>]  He killed a kid, by the way.
 
-[00:34:06] He, well, he's, he's dead now since years. But he, he was like a sort of a jack of all trades
+[<a id="00-21-49">00:21:49</a>]  Really?
 
-[00:34:14] type of guy. He worked a little bit as a solicitor. He was laying carpet. He did a bit of everything.
+[<a id="00-21-49">00:21:49</a>]  Yes.
 
-[00:34:22] And I mean, they're an interesting, like, I don't, I don't really know my German family that well.
+[<a id="00-21-50">00:21:50</a>]  What an asshole.
 
-[00:34:30] Uh, cause we moved when I was so young. I got to know him a bit when I was like 18, 19.
+[<a id="00-21-51">00:21:51</a>]  His thing was, we'll continue whatever you...
 
-[00:34:36] But what I got from... Wait, so you didn't grow up with your dad?
+[<a id="00-21-56">00:21:56</a>]  But his thing was, he was going to town to town,
 
-[00:34:41] No, he stayed in Germany. Oh, I see. And, uh, but what I got from the story of that is,
+[<a id="00-21-58">00:21:58</a>]  challenging different school of martial art.
 
-[00:34:50] is just like in England, cause England didn't get invaded. It's somehow through the war that
+[<a id="00-22-01">00:22:01</a>]  And he will beat them.
 
-[00:34:55] got bombed a lot. It was still a certain continuity, but in Germany, things got really
+[<a id="00-22-02">00:22:02</a>]  And for whatever reason, this one school or the one family had him as a representative,
 
-[00:35:01] messed up. Like, and, um, you know, you'd have like, uh, I dunno, some dad who'd show up 10 years
+[<a id="00-22-07">00:22:07</a>]  but they brought like 50 to 100 henchmen to protecting him.
 
-[00:35:11] after the end of the war having been released from a prison in Russia. Oh, that's right. Yeah.
+[<a id="00-22-11">00:22:11</a>]  But he waited, waited until he's sneaking and killed a bunch of people, including the kid.
 
-[00:35:16] And, uh, that wasn't the case in my family because... Your family's more on the Western side.
+[<a id="00-22-14">00:22:14</a>]  Because once you put kid as your representative, he had no choice but to kill the kid.
 
-[00:35:23] So, uh, yeah. And generationally, none of the men lined up with the first or second world war. So
+[<a id="00-22-19">00:22:19</a>]  He's not something like a psychopath, murderer, you know.
 
-[00:35:30] they were always either too young or too old. Oh, okay. Um, but it certainly, there's some bizarre
+[<a id="00-22-26">00:22:26</a>]  I mean, the thing about Tao Te Ching is, like, a lot of it's about how to live your life.
 
-[00:35:37] stories. Uh, like I think my German grandmother, I get this from my brother, my brother's, uh,
+[<a id="00-22-32">00:22:32</a>]  Yeah.
 
-[00:35:46] fascinated by history. Honestly, I don't really give a shit. Yeah. Like I don't think about it
+[<a id="00-22-33">00:22:33</a>]  But you read that book, and I did the same thing with the European book, My Kump.
 
-[00:35:51] much. Is he older or younger brother? He's eight years older than me. I see. And there was also a,
+[<a id="00-22-38">00:22:38</a>]  Am I saying that right?
 
-[00:35:57] I also had a half brother who drunk and smoke himself to death. I think my dad was a bit of a
+[<a id="00-22-43">00:22:43</a>]  How do you say that book?
 
-[00:36:03] tough dude to be married to because he was so like, he was drinking a lot. Um, I think he was violent
+[<a id="00-22-44">00:22:44</a>]  Tell me again.
 
-[00:36:11] towards my mom, which is why... Well, may, may we remind the listeners that your dad grew up with
+[<a id="00-22-45">00:22:45</a>]  What was the Hitler's book?
 
-[00:36:17] a great depression in Germany and this is not particularly a great time. Exactly. And, um,
+[<a id="00-22-47">00:22:47</a>]  Oh, Mein Kump.
 
-[00:36:22] not to mention Germans suffer humiliation in World War I. Yeah. And they had a just overwhelming
+[<a id="00-22-49">00:22:49</a>]  Yeah, My Struggle, yeah.
 
-[00:36:29] burden to pay off that, uh, enemies that they fought. And, um, hyperinflation, I can't imagine,
+[<a id="00-22-50">00:22:50</a>]  My Struggle.
 
-[00:36:36] you know, I studied a little bit of economics. Hyperinflation is always a gift to dictators
+[<a id="00-22-53">00:22:53</a>]  Yeah, that's on the, that will get you looks if you want your hands.
 
-[00:36:40] because if you have a fixed income from government, like old person, and all of a sudden every day,
+[<a id="00-22-57">00:22:57</a>]  You're carrying that with you.
 
-[00:36:46] your money is worth less and less. Whenever you have some crazy person offering solutions like
+[<a id="00-22-58">00:22:58</a>]  No, but it was interesting.
 
-[00:36:51] Hitler or Stalin or Mao, you end up going for these people, not because you're an evil person,
+[<a id="00-23-01">00:23:01</a>]  What I remember about it was like the last.
 
-[00:36:56] but because you're afraid for your livelihood, you know, or your life. So, um, yeah, that's actually
+[<a id="00-23-04">00:23:04</a>]  I couldn't believe Hitler did audiobook for it.
 
-[00:37:01] really interesting you put it that way. Like if you think about it, because you read about that
+[<a id="00-23-06">00:23:06</a>]  Hitler, would he be a podcaster today?
 
-[00:37:06] in history, but if I think like the money I get paid every month is like going downhill and some
+[<a id="00-23-12">00:23:12</a>]  I think he probably would.
 
-[00:37:12] dude is saying, hey, do this, like follow me. I'm going to make sure you keep your money. I'm like,
+[<a id="00-23-13">00:23:13</a>]  But you'd have to get him to not, you'd be, his producer would be like,
 
-[00:37:18] fuck yes. Cause I got kids to look after. And I think this is something that, uh,
+[<a id="00-23-17">00:23:17</a>]  can you stop yelling into the mic, Hitler?
 
-[00:37:22] Democratic party in the United States forgot because recently, you know, they're typically
+[<a id="00-23-19">00:23:19</a>]  Just chill out a little bit.
 
-[00:37:26] trying to make all kinds of cultural issues as like the topic, but at the end of the day,
+[<a id="00-23-21">00:23:21</a>]  It's got to be weird because he'll have Jewish producers, you know.
 
-[00:37:29] if you're poor, middle class, what is the biggest thing you're concerned about your livelihood? Are
+[<a id="00-23-24">00:23:24</a>]  Jewish producers are controlling.
 
-[00:37:34] you able to take care of yourself, your families, economic? And whether you like Trump or not,
+[<a id="00-23-30">00:23:30</a>]  Yeah.
 
-[00:37:38] most people live better economic condition prior to COVID, you know? So, um, I think,
+[<a id="00-23-31">00:23:31</a>]  I mean, he said he had an Instagram account.
 
-[00:37:43] I think they forgot about that, you know, and I think, um, to call like 90 I worked for Michael
+[<a id="00-23-33">00:23:33</a>]  Jesus will have Instagram account and a Twitter account and things like that.
 
-[00:37:52] Dukakis campaign, Democratic nominee. I made him, I worked on it. I just graduated from high school
+[<a id="00-23-38">00:23:38</a>]  I mean, he probably, if he'd learned the techniques, he could probably be killing it.
 
-[00:37:58] because back then I still care about working class cause I grew up poor.
+[<a id="00-23-45">00:23:45</a>]  I mean, Andrew Tate is a controversial figure.
 
-[00:38:04] And I thought I know how to pick a winner. No, I've been wrong every election, you know,
+[<a id="00-23-50">00:23:50</a>]  And if you look at a lot of the tactics he's used,
 
-[00:38:10] but I think when Bill Clinton became president, this is a reason why so many people hate him,
+[<a id="00-23-53">00:23:53</a>]  like the way to blow up on social media is divide and conquer.
 
-[00:38:17] Republicans, because no question Bill Clinton is a political genius army, unbelievable performer
+[<a id="00-23-57">00:23:57</a>]  So you get half the people on board with your message
 
-[00:38:26] and an intelligent guy. And he understand politics really well. He took all the good
+[<a id="00-24-01">00:24:01</a>]  and the other half hate you because of your message.
 
-[00:38:31] idea that Republican has taken away and added to his administration. And I don't know why
+[<a id="00-24-04">00:24:04</a>]  In fact, hate watching, hate listening is even a big word and the fans most likely.
 
-[00:38:37] Republicans are mad. He's, he's, he's giving less power to union, lower tax, international trade.
+[<a id="00-24-08">00:24:08</a>]  Probably, yeah.
 
-[00:38:43] But, but, but I think, I think they pay heavy price because they really throw working class
+[<a id="00-24-09">00:24:09</a>]  Yeah.
 
-[00:38:51] under the bus, you know? And I think that's why when you call mega rally people racist,
+[<a id="00-24-09">00:24:09</a>]  I was at the book arrest on his court date.
 
-[00:38:56] they're not racist. Some of them maybe, I mean, rich people are racist too. It just, these are
+[<a id="00-24-13">00:24:13</a>]  I got the dates wrong.
 
-[00:39:01] working class. They're just scared for their family and Democrats just forgot about them.
+[<a id="00-24-14">00:24:14</a>]  I got their day afterwards.
 
-[00:39:05] So they went to Trump's camp. Even though Trump probably not going to do anything for them either,
+[<a id="00-24-15">00:24:15</a>]  You sure?
 
-[00:39:11] but at least he listened to them, you know? You can't just ignore poor people that gets cool
+[<a id="00-24-16">00:24:16</a>]  Oh, wow.
 
-[00:39:16] or expecting black people to keep voting for your party because taking people for granted,
+[<a id="00-24-16">00:24:16</a>]  I went to the court.
 
-[00:39:22] it's never a good policy, you know? So, yeah, I think an interesting angle on the Clinton thing.
+[<a id="00-24-19">00:24:19</a>]  Anyway, you know, I guess we're kind of meandering.
 
-[00:39:29] Okay. Well first, yeah. So I used to know this guy who worked for, later on when I worked for
+[<a id="00-24-22">00:24:22</a>]  And I think, you know, we met about, what, a year and a half, two years ago?
 
-[00:39:35] the Clinton foundation. Yeah. I probably shouldn't mention his name because he may be, this is just
+[<a id="00-24-28">00:24:28</a>]  I can't even remember.
 
-[00:39:43] don't mention it. And it's also sort of name that might get people whacked like me or something,
+[<a id="00-24-29">00:24:29</a>]  Yeah.
 
-[00:39:49] but he, cause he ended up being involved in selling a Canadian nuclear power plant
+[<a id="00-24-31">00:24:31</a>]  Christian, who we're at Christian's place right now, introduced us.
 
-[00:39:55] to a Russian oligarch through the Clinton foundation. And it was interesting that how
+[<a id="00-24-35">00:24:35</a>]  And did we just meet that one time?
 
-[00:40:00] I got to know him, I was still at university then and I had a lot of friends in London. I was at a
+[<a id="00-24-39">00:24:39</a>]  The next day, we went to the coffee shop, recorded a podcast.
 
-[00:40:07] university just outside and these guys were at the London school of economics. It was a good friend
+[<a id="00-24-42">00:24:42</a>]  I'm trying to reconstruct.
 
-[00:40:13] of mine. He went and I got to meet all these dudes who were then going to become the future like
+[<a id="00-24-45">00:24:45</a>]  I can't remember.
 
-[00:40:20] ambassadors for America and this kind of stuff. And they were a mad bunch of people. And they,
+[<a id="00-24-46">00:24:46</a>]  Yeah, I think we did.
 
-[00:40:26] like for them, London was a playground. They're getting their good master's degrees from the
+[<a id="00-24-48">00:24:48</a>]  So basically, we met and we were talking.
 
-[00:40:32] London school of economics. Mick Jagger went there too. To the London school of economics?
+[<a id="00-24-53">00:24:53</a>]  Yeah.
 
-[00:40:36] Yeah. I didn't know that. That's why Roland Stone is interesting to me because not only is he
+[<a id="00-24-54">00:24:54</a>]  So it was very interesting to me because at that particular moment, I got out of a,
 
-[00:40:42] creative musically, performance wise, acting and things like that, but he's one of the few of them
+[<a id="00-24-59">00:24:59</a>]  whatever you call it nowadays, a situationship with a lady who'd been through something,
 
-[00:40:48] with a really good head for business. Famously when they were having tax issues, they moved
+[<a id="00-25-06">00:25:06</a>]  let's say, a little bit Epstein-y.
 
-[00:40:52] to Southern France. Remember that? And the girl that I was hanging out yesterday, she was telling
+[<a id="00-25-11">00:25:11</a>]  Yeah.
 
-[00:40:58] me her best friend in Amsterdam worked for accounting firm to take care of Mick Jagger's
+[<a id="00-25-11">00:25:11</a>]  Epstein-y.
 
-[00:41:03] account. Wow. So yeah, he has a head for business, you know, but this was an interesting thing
+[<a id="00-25-14">00:25:14</a>]  And it opened my eyes to a bunch of stuff I didn't know about.
 
-[00:41:10] because, you know, you talk about conspiracies. In the end, a conspiracy is just a bunch of people
+[<a id="00-25-18">00:25:18</a>]  Yeah.
 
-[00:41:16] that know each other. It's like, you could say there's a comedy conspiracy. So for example,
+[<a id="00-25-19">00:25:19</a>]  Freaked me out.
 
-[00:41:21] if I, if I run a venue and we're good friends, I'm like, Hey, Yoshi, come and do this show. So
+[<a id="00-25-19">00:25:19</a>]  And I've been ranting to Christian about this stuff, about like,
 
-[00:41:28] that's a form of conspiracy. I'm doing you a favor because we like each other, whatever,
+[<a id="00-25-24">00:25:24</a>]  "Shit, there's this and there's this and there's this."
 
-[00:41:32] or vice versa. What does that mean anyway? Like when you say conspiracy, like two or more people
+[<a id="00-25-26">00:25:26</a>]  And he's like, "You gotta meet Yoshi."
 
-[00:41:39] trying to do something without public knowing, I don't, I'm not really not familiar with it
+[<a id="00-25-28">00:25:28</a>]  Oh, so this lady that you were hanging out, she allegedly had some kind of sexual
 
-[00:41:46] because everybody keeps talking about it. I just use that word without really not knowing anything.
+[<a id="00-25-33">00:25:33</a>]  thing that happened to her.
 
-[00:41:50] I've got a, I've got a sort of context. I studied physics and physics, physics is one of the
+[<a id="00-25-37">00:25:37</a>]  And then she started talking about underbelly of Swiss world.
 
-[00:41:58] greatest. But once we finished it, we should go back to your background, you know? All right. Yeah.
+[<a id="00-25-42">00:25:42</a>]  Yeah.
 
-[00:42:01] But it just, I mean, this is part of the background. I studied physics and physics
+[<a id="00-25-43">00:25:43</a>]  And you guys were talking about, and this is something that you were not familiar with,
 
-[00:42:05] teaches you systems thinking. It's a very, physics is a very good, uh, set of mental
+[<a id="00-25-45">00:25:45</a>]  because I think Swiss people seem to be extremely polite and these private things are kind of
 
-[00:42:12] tools for like analyzing stuff. Um, and, and so when I say I have a theory, that means I've
+[<a id="00-25-50">00:25:50</a>]  hidden away, like most other places, I guess.
 
-[00:42:20] thought this stuff through, I've got a theory of why they really took down Julian Assange.
+[<a id="00-25-52">00:25:52</a>]  So that's when Christian mentioned my name.
 
-[00:42:26] And it wasn't so much the leaks as his under the idea behind WikiLeaks. Um, and he created,
+[<a id="00-25-54">00:25:54</a>]  That's how that started.
 
-[00:42:34] he published this master's paper. So I've worked in software all my life. Yeah. He created a
+[<a id="00-25-55">00:25:55</a>]  Yeah.
 
-[00:42:39] definition of a conspiracy that a computer scientist understands. I want to hear it.
+[<a id="00-25-56">00:25:56</a>]  Okay.
 
-[00:42:44] And he says, basically, uh, a conspiracy is a bit like the internet. Like the internet is made up of
+[<a id="00-25-57">00:25:57</a>]  You were in town and he's like, he just said, "Dude, you've got to meet Yoshi."
 
-[00:42:51] all these routers that are connected to each other, sharing data. Uh, and a conspiracy is a similar
+[<a id="00-26-01">00:26:01</a>]  Okay, that makes sense.
 
-[00:42:58] thing. It's a bunch of people that are acting in a certain way towards a certain agenda. Right.
+[<a id="00-26-02">00:26:02</a>]  And then we just got talking.
 
-[00:43:04] The reason why I think they took him down, you can find this thing online still is he said,
+[<a id="00-26-04">00:26:04</a>]  You were, and yeah, I don't know, we just sort of amped each other up on...
 
-[00:43:12] just like a computer network where you can, there's certain ways to attack a computer network
+[<a id="00-26-10">00:26:10</a>]  Wait, wait, did we meet on the day we were recording podcast or did we meet prior to
 
-[00:43:18] by overloading parts of the network. Okay. He published this manifesto, which is like,
+[<a id="00-26-16">00:26:16</a>]  that?
 
-[00:43:24] here's how you take down a conspiracy theory is you get the different actors in the conspiracy
+[<a id="00-26-17">00:26:17</a>]  I think we met maybe the day or two before at a bar.
 
-[00:43:31] to stop trusting each other so that they overload each other. And wait, wait. So,
+[<a id="00-26-20">00:26:20</a>]  Okay.
 
-[00:43:37] so if that group of people believe in conspiracy a you create problem within that group basically.
+[<a id="00-26-20">00:26:20</a>]  We were at this Irish bar, Irish pub.
 
-[00:43:45] Yeah. For him, a conspiracy is like, uh, I don't know, you're trying to steal everybody's money
+[<a id="00-26-23">00:26:23</a>]  That's right.
 
-[00:43:53] around the world and you're a bunch of people. You don't really like each other, but you work together
+[<a id="00-26-23">00:26:23</a>]  Okay, now I remember, we were talking like an hour or two.
 
-[00:43:58] to, to, towards a common goal and trying to keep it hidden. Uh, now what he did,
+[<a id="00-26-27">00:26:27</a>]  And then I think the next day or that we just met up at Starbucks, you were heading off
 
-[00:44:06] the greatest example of this was when he did, uh, the embassy leaks. Do you remember the heat? So
+[<a id="00-26-33">00:26:33</a>]  somewhere.
 
-[00:44:13] the embassy leaks really leaked a bunch of us diplomatic cables. Okay. Um, there was the other
+[<a id="00-26-33">00:26:33</a>]  Yeah.
 
-[00:44:19] leaks that were more famous, but this one, Hillary Clinton was, was us foreign secretary at the time.
+[<a id="00-26-34">00:26:34</a>]  Okay, now I remember.
 
-[00:44:25] Yeah. If she spent a year running around the world, apologizing to every nation or at least
+[<a id="00-26-35">00:26:35</a>]  Somewhere there's an audio podcast, but it was...
 
-[00:44:33] forcing them to get back on board because. Apologizing about, about why?
+[<a id="00-26-40">00:26:40</a>]  To me, I really enjoyed the conversation we had at that podcast because it's like...
 
-[00:44:39] Because, uh, what, what Julian Assange leaked was all the shit that people, the,
+[<a id="00-26-44">00:26:44</a>]  I don't even remember what we talked about.
 
-[00:44:44] the U S embassy system had been talking about different countries. Oh, and they were talking a
+[<a id="00-26-45">00:26:45</a>]  I don't really remember either, but it was just...
 
-[00:44:49] shit about, but, but, uh, yeah, not just, not just being assholes. It's like, here's how we're going
+[<a id="00-26-48">00:26:48</a>]  There was a bunch of things about the things we were talking about where it's like, "Oh,
 
-[00:44:54] to fuck these guys. It was, and he, he leaked all of that stuff. And it, and it was like countries
+[<a id="00-26-52">00:26:52</a>]  it's like one old dude to another, we get something."
 
-[00:45:01] that regarded themselves as us allies were finding out, Hey, like the Americans are doing this. And
+[<a id="00-26-58">00:26:58</a>]  And I think, I haven't seen you since then, I don't think, have I?
 
-[00:45:07] Julian Assange's goal in this was to any, and he did it for about two years. There was no time for
+[<a id="00-27-02">00:27:02</a>]  No, we...
 
-[00:45:17] America to start a new war because the whole like, like foreign system was tied up in cleaning up the
+[<a id="00-27-03">00:27:03</a>]  No.
 
-[00:45:26] mess that he caused. And so this is a completely opposite situation. Right after nine 11, the whole
+[<a id="00-27-04">00:27:04</a>]  So, I got here because this year, I think ever since that, they were messaging back
 
-[00:45:32] world want to help America. And of course that idiots squander that goodwill and start killing
+[<a id="00-27-10">00:27:10</a>]  and forth.
 
-[00:45:38] people in Afghanistan, Iran. Yeah. Yeah. But, and, and, but it's basically what Julian Assange
+[<a id="00-27-10">00:27:10</a>]  And I think maybe you mentioned early in the year like, "Oh, we were talking and why don't
 
-[00:45:46] described is a kind of a, it's like a, it's like how to, a hacker's attack for how to bring down
+[<a id="00-27-16">00:27:16</a>]  you come to Switzerland and do podcasting?"
 
-[00:45:53] powerful systems. Yeah. Um, and it works and it, and if, if more people knew about it,
+[<a id="00-27-19">00:27:19</a>]  I wanted to come early in the year, but I just had a bunch of shit and finally was able
 
-[00:46:01] who have brains, we could, we could basically eliminate power structures.
+[<a id="00-27-22">00:27:22</a>]  to make up, showed up November 22nd.
 
-[00:46:07] But isn't it interesting when you have something like a paradise paper and there was a lady named
+[<a id="00-27-26">00:27:26</a>]  Yeah.
 
-[00:46:12] Daphne, something from, um, the Island in middle of Mediterranean, um, not Epstein's Island. No,
+[<a id="00-27-27">00:27:27</a>]  And well, and I like traveling this particular time of year because I don't like being in
 
-[00:46:23] no, no. Okay. It's, it's, it's an Island where, um, Mediterranean. Oh, uh, with the English Gibraltar. Malta.
+[<a id="00-27-31">00:27:31</a>]  the States during Thanksgiving because I don't like hanging out with my family.
 
-[00:46:31] Malta. Yeah. I was there too. And, um, she, she was assassinated, but because she participated in
+[<a id="00-27-35">00:27:35</a>]  And when you don't hang out with your family, all your friends say, "Well, you have to come
 
-[00:46:38] paradise paper about findings and things like that. But it's really interesting because it was. Paradise
+[<a id="00-27-38">00:27:38</a>]  to my Thanksgiving."
 
-[00:46:43] paper or Panama paper? There's both of, there's two of them. Oh, the paradise paper I don't know about.
+[<a id="00-27-41">00:27:41</a>]  And now I'm dragging to someone else's family drama that I don't want to hear.
 
-[00:46:48] It's the, I don't want to say some of the names because they're friends with Russell Peters,
+[<a id="00-27-44">00:27:44</a>]  And believe me, it doesn't make any sense.
 
-[00:46:52] but these, these important people representing certain country have access amount of money and
+[<a id="00-27-46">00:27:46</a>]  I like not being invited to these things because I don't want to hear all kinds of family...
 
-[00:46:58] they turn around and go different parts of world buying property for themselves and there was
+[<a id="00-27-51">00:27:51</a>]  You know, because Thanksgiving is the time you're supposed to be thankful and spend time
 
-[00:47:02] release and, you know, you expect certain subject live in your country. They're poor expecting the
+[<a id="00-27-55">00:27:55</a>]  with your family, but that's not what happened a lot of times.
 
-[00:47:11] king care, king or whoever it is, care for them, but they're spending money like crazy overseas.
+[<a id="00-27-57">00:27:57</a>]  They were bringing all the family grudges once a year.
 
-[00:47:16] Anyway, it's, it's, it's really embarrassing, but it always go back to my background, which is
+[<a id="00-28-00">00:28:00</a>]  And like, "Don't drag me into this.
 
-[00:47:21] how you discredit these people with conspiracy or explaining the rest of the world. These powerful
+[<a id="00-28-02">00:28:02</a>]  I don't want to hear your family problems," you know?
 
-[00:47:27] people are doing something. You, you always get, you silence them through sex scandals or accuse
+[<a id="00-28-05">00:28:05</a>]  So for the last 21 years, I think 14, 15 of those years, I'm almost in like Europe or
 
-[00:47:33] them about sexual assault. You know, it's the most common thing that regular people understand.
+[<a id="00-28-19">00:28:19</a>]  something because I don't like being...
 
-[00:47:38] Like whether it's true or not, you call somebody rapist, you know, damage is done, you know, but I
+[<a id="00-28-21">00:28:21</a>]  Now, Christmas you can't help anywhere.
 
-[00:47:47] noticed that sex allegations are one of the most cost effective way to discredit someone.
+[<a id="00-28-23">00:28:23</a>]  That's holiday everywhere in the world, minus maybe Muslim country or whatever, you know?
 
-[00:47:53] This is actually an interesting thing because in the, I'm not saying it didn't happen. I'm not
+[<a id="00-28-28">00:28:28</a>]  So I'm glad I'm here and you want to talk to me about my previous job and things like
 
-[00:48:01] saying it did happen or didn't happen. I'm just saying it's, it's a powerful way to discredit
+[<a id="00-28-37">00:28:37</a>]  that.
 
-[00:48:07] someone. And I forgot there was some Russian revolutionary said it's, I'm paraphrasing. It's
+[<a id="00-28-37">00:28:37</a>]  I don't mind, but like it's like people doing premieres for movies, they get asked the same
 
-[00:48:14] not only necessary to kill your enemies, but you have to first dishonor them. In other words,
+[<a id="00-28-45">00:28:45</a>]  stupid question over and over.
 
-[00:48:19] you do more harm by, it's worse than death. You hurt their reputation, you know.
+[<a id="00-28-47">00:28:47</a>]  You get tired of answering them.
 
-[00:48:24] But here, see, this is an interesting thing because I wonder now, does anybody care about
+[<a id="00-28-48">00:28:48</a>]  And I'm not going to say anything like different or, you know, that's why...
 
-[00:48:31] honor anymore? Like, like I was having this conversation earlier this week with a couple
+[<a id="00-28-51">00:28:51</a>]  It's not that I want to talk about it, just I get tired of saying the same thing over
 
-[00:48:37] of people. I have to say, I find it's funny with through comedy, I meet a lot of people younger
+[<a id="00-28-56">00:28:56</a>]  and over again, you know?
 
-[00:48:42] than me. And we are all fuckers. Yeah. And, and, and so this is how I, you know, stay cool and stay
+[<a id="00-28-57">00:28:57</a>]  Yeah, I know what you mean.
 
-[00:48:52] in touch. We're not cool. Yeah, we're fucking cool. Anyway, we're cooler than anyway. And
+[<a id="00-28-59">00:28:59</a>]  So I don't know how we're going to do this, but I asked him like, "Hey, before we do the
 
-[00:49:01] one thing that surprises me, at least in Switzerland is you meet someone who's like
+[<a id="00-29-04">00:29:04</a>]  first episode, can I just ask you a bunch of questions?"
 
-[00:49:09] 25 and within 15 minutes they're telling you about their personal BDSM fetishes. Yeah. But
+[<a id="00-29-07">00:29:07</a>]  And I want to do it with a question, you know?
 
-[00:49:17] to me, what seems to be a very big taboo amongst young people is to say, I actually have genuine
+[<a id="00-29-08">00:29:08</a>]  Go ahead.
 
-[00:49:24] feelings for you. And it's like, but, but if so, I don't know. Say that again. You actually have
+[<a id="00-29-09">00:29:09</a>]  Yeah.
 
-[00:49:33] genuine feelings, someone like I love you or I care about you. They say that or they can't say it?
+[<a id="00-29-09">00:29:09</a>]  Quick time out.
 
-[00:49:39] I don't, they can't say it. To me, that feels like the biggest taboo. They sometimes pretend to say
+[<a id="00-29-13">00:29:13</a>]  I want to get...
 
-[00:49:45] with all kinds of things that, oh, I feel you, man, but that's bullshit. I love, I love this.
+[<a id="00-29-13">00:29:13</a>]  You could just edit this anyway, right?
 
-[00:49:50] And just hold your thought and finish what you have to say. But this is one of the reasons
+[<a id="00-29-20">00:29:20</a>]  Yeah.
 
-[00:49:55] it changed my life because anyone who's listening to this, I don't know anything about you or myself.
+[<a id="00-29-20">00:29:20</a>]  Well, you know, I think...
 
-[00:50:02] I work in adult business, AKA porn business full-time. And I was watching a lot of those
+[<a id="00-29-33">00:29:33</a>]  We still don't even know what this thing's going to be called and you guys could do whatever
 
-[00:50:07] movies and make sure they're presentable for DVDs and things like that. And the part of the problem
+[<a id="00-29-38">00:29:38</a>]  with it.
 
-[00:50:13] is like when you see naked people all the time and they're having sex, eventually you don't even
+[<a id="00-29-38">00:29:38</a>]  I don't really care, but...
 
-[00:50:18] notice it anymore because I've seen it so many times. There's nothing really special about that.
+[<a id="00-29-40">00:29:40</a>]  So you were born in the UK.
 
-[00:50:23] You literally take intimacy out of the whole thing. I think probably like halfway through
+[<a id="00-29-47">00:29:47</a>]  Where in the UK?
 
-[00:50:31] working for the company, Evo Angel, I was working for them, my friend Aiden, one of the directors
+[<a id="00-29-49">00:29:49</a>]  I was born in Wiesbaden in Germany.
 
-[00:50:38] still for Evo Angel, he started doing this behind the scene where, okay, the girls just have sex
+[<a id="00-29-51">00:29:51</a>]  My dad was German, near Frankfurt.
 
-[00:50:42] with a guy, showered, afterwards they're kind of having a conversation. It doesn't necessarily
+[<a id="00-29-55">00:29:55</a>]  Oh, okay.
 
-[00:50:49] like performances. They just literally like talk to him for a long time. And I don't think he did
+[<a id="00-29-55">00:29:55</a>]  There's a big US air base, or there used to be in Wiesbaden.
 
-[00:50:56] it on purpose, but this is like the porno version of what Joe Rogan is doing, which is like, yeah,
+[<a id="00-30-00">00:30:00</a>]  And then with two of my parents' divorce and my mom, who's English, took us back to live.
 
-[00:51:01] you could watch somebody fuck for like 10, 15, 20 minutes or whatever, but you don't really know
+[<a id="00-30-08">00:30:08</a>]  How did your mom meet your dad?
 
-[00:51:04] them until you talk to them. And Aiden, there's something really interesting when you talk to
+[<a id="00-30-13">00:30:13</a>]  So, from what I know, she'd studied history at Oxford, she is a smart lady.
 
-[00:51:09] these performers, both men and women or transgender person, sometimes 30, 40, 50 minutes or even an
+[<a id="00-30-20">00:30:20</a>]  Or this university in the world, or up there.
 
-[00:51:15] hour kind of sitting in a couch talking about stuff. And that was part of the behind the scenes.
+[<a id="00-30-25">00:30:25</a>]  Yeah, yeah.
 
-[00:51:19] Really, when they have a good conversation, they're finding it naked to me. Like being physical naked
+[<a id="00-30-26">00:30:26</a>]  And then somehow she started working for the...
 
-[00:51:30] doesn't mean anything. But once they stop playing a character, a whore or stud, and they start talking
+[<a id="00-30-31">00:30:31</a>]  Yeah, this would be not possible at all now.
 
-[00:51:40] as a person and they talk something personal about themselves and what led them to do porn,
+[<a id="00-30-33">00:30:33</a>]  She started working for the Encyclopedia Britannica, which is...
 
-[00:51:45] to me, that was the most interesting part of my job later on because you get kind of, you know, like
+[<a id="00-30-37">00:30:37</a>]  What kind of history did she study?
 
-[00:51:51] a lot of my friends think that was a great job. You get to watch porn all the time. It's really
+[<a id="00-30-38">00:30:38</a>]  Was it European or something?
 
-[00:51:57] exhausting after a while because I don't care what kind of wonderful fantasy you have, as soon as you
+[<a id="00-30-41">00:30:41</a>]  That's a good question, I've never...
 
-[00:52:04] bring work and job into it, it's not fantasy anymore. It's just, it's a miserable thing now.
+[<a id="00-30-43">00:30:43</a>]  You know, it's weird, these things you never really talk to your parents about.
 
-[00:52:09] You know, you got to work and really, I think working for that business changed my life because
+[<a id="00-30-47">00:30:47</a>]  I heard bits of it when I was young, and now I'm busy with my life.
 
-[00:52:18] I think you start seeing these people like the way they really are, you know, because I think
+[<a id="00-30-51">00:30:51</a>]  I mean, if you don't mind, how old is your mom about?
 
-[00:52:23] this is a completely different for like 99% of the consumer pornography. Like I knew these people
+[<a id="00-30-54">00:30:54</a>]  She's in about 88 now, I think.
 
-[00:52:29] and when they, something happened to them or when they passed away and I know there's a lot of dark
+[<a id="00-30-57">00:30:57</a>]  That shows what a great son I am.
 
-[00:52:36] humor out there, like my friends would tell me like, "Oh, x1c porn, I'm gonna watch your porn
+[<a id="00-31-01">00:31:01</a>]  I think how old she is.
 
-[00:52:41] and jack up there," and I would never tell them not to do anything just because I understand dark
+[<a id="00-31-04">00:31:04</a>]  So she was going to Oxford in the late 50s, early 60s.
 
-[00:52:46] humor too, but it's a little different when you worked on those movies. It's a little different
+[<a id="00-31-07">00:31:07</a>]  Yeah, yeah, she was born right before World War II.
 
-[00:52:50] when you knew them and it's a little different when you're close to them and see them pass away
+[<a id="00-31-12">00:31:12</a>]  And one of the things was her generation going through school, they were very...
 
-[00:52:55] and you know their families and friends and things like that, you know. So, it did a lot of weird
+[<a id="00-31-22">00:31:22</a>]  For English, that is the first really problematic generation, because they all had like weird...
 
-[00:53:02] things, I guess. It took me places that I wasn't expecting to and when I did Enbro Show
+[<a id="00-31-28">00:31:28</a>]  I don't know, weird vibes, because they'd been through the war.
 
-[00:53:08] last year, the name of the show is "Adult Content" and I think people thought it's all going to be
+[<a id="00-31-35">00:31:35</a>]  And then they were super smart, but also very hard for the teachers to manage.
 
-[00:53:14] about pornographic stories, but it's misunderstanding of that phrase "adult content." I thought it means
+[<a id="00-31-44">00:31:44</a>]  What was your mom's class, like a middle class, lower class?
 
-[00:53:22] adult content, like how to be happy as an adult and then it kind of become that because
+[<a id="00-31-50">00:31:50</a>]  There's more or less, so we were probably upper middle class.
 
-[00:53:30] whether working at the retail store and talking to these customers, lonely people, a big chunk of it,
+[<a id="00-31-57">00:31:57</a>]  Oh, is that right?
 
-[00:53:37] life is a little more complicated. It's easy to just categorize and call everybody pervert
+[<a id="00-31-58">00:31:58</a>]  Because my grandfather, he was the bank manager of the Bank of England in Southampton,
 
-[00:53:42] and I guess there's a big chunk of that too, but I think more than anything, I think the vast
+[<a id="00-32-04">00:32:04</a>]  which was, it's like, Southampton is not a fantastic city, but he was the boss of the bank.
 
-[00:53:50] majority of people who consume pornography are not pervert. I think they're very lonely people
+[<a id="00-32-13">00:32:13</a>]  So there was money around.
 
-[00:53:57] and they're having a hard time making connections and it was a weirdly, it gave me opportunity to be
+[<a id="00-32-14">00:32:14</a>]  So I gather your mother's side come from a pretty good educational background.
 
-[00:54:07] decent to people, you know, because I'm not very decent to stand up comedy show at times because I
+[<a id="00-32-22">00:32:22</a>]  I mean, because going to Oxford is a very, extremely prestigious place, as you know.
 
-[00:54:12] do a lot of mean shit on stage a lot of time, but I think working in the porn shop, working at the
+[<a id="00-32-27">00:32:27</a>]  And she probably made a lot of other future influential people as well going to Oxford.
 
-[00:54:17] convention floor, whenever I was helping television show, movie show in Hollywood,
+[<a id="00-32-33">00:32:33</a>]  Oh yeah, she occasionally, when we would talk about this,
 
-[00:54:26] I would show the side that public don't really see, you know, and I think
+[<a id="00-32-36">00:32:36</a>]  she lives in Germany now with my brother, and I see her that often.
 
-[00:54:32] yeah, it changed my life, you know. That's an interesting thing that they were most, I like
+[<a id="00-32-41">00:32:41</a>]  But yeah, she met some Indian dude who was ended up very high up in Indian politics.
 
-[00:54:41] porn on people because when they're most naked to me, I don't care about the nudity and stuff. I'm
+[<a id="00-32-50">00:32:50</a>]  I see.
 
-[00:54:46] sick of that shit, you know, but I think when I get to know them, you see them really different.
+[<a id="00-32-51">00:32:51</a>]  Was kind of her boyfriend for a bit.
 
-[00:54:51] It's just, they're just playing characters on the stage, really. I mean, this is interesting.
+[<a id="00-32-53">00:32:53</a>]  She may have been, I shouldn't say this, but she may have been a bit of a ho at Oxford.
 
-[00:54:57] Let me build up to a question. So, like I said, this is like, you know, we don't have
+[<a id="00-33-02">00:33:02</a>]  But she, but I don't know, it's like now, she talked a lot about--
 
-[00:55:04] an agenda what we're going to talk about. Yeah, we just ramble a little bit. I started in comedy
+[<a id="00-33-09">00:33:09</a>]  Most unlikely because these days, what to be a whole,
 
-[00:55:09] about, it's now almost eight years, and the first year. My life rises. It was getting dumped by a
+[<a id="00-33-14">00:33:14</a>]  these days are so different than say back then.
 
-[00:55:18] Swiss woman, which, I mean, okay, it might be kind of midlife crisis. There are other reasons,
+[<a id="00-33-16">00:33:16</a>]  Yeah, yeah, yeah.
 
-[00:55:27] like I also wanted a social life, but it was just a point with like, I just had this energy.
+[<a id="00-33-17">00:33:17</a>]  Back then, just giving like a kiss or something, you know.
 
-[00:55:34] I was so, there's so much like anger and confusion and other stuff, and I just need to let some energy
+[<a id="00-33-20">00:33:20</a>]  Yeah, and so she talked about having different boyfriends.
 
-[00:55:43] out somewhere. And like, yeah, anyway, that's kind of a side quest if we go down there. But
+[<a id="00-33-23">00:33:23</a>]  Yeah.
 
-[00:55:52] the first couple of years, I was very conflicted about how I felt about presenting myself on stage,
+[<a id="00-33-23">00:33:23</a>]  But how far that, I don't think it was, that would mean something different.
 
-[00:56:01] because- What do you mean?
+[<a id="00-33-29">00:33:29</a>]  But yeah, so she did that, then she got a job out of the university
 
-[00:56:04] Because you're opening yourself to a lot of judgment. I mean, Patrice, I remember he has a,
+[<a id="00-33-33">00:33:33</a>]  working for the Encyclopedia Britannica.
 
-[00:56:14] I think it's in a Mark Maron interview where he talks about like, when you do comedy,
+[<a id="00-33-36">00:33:36</a>]  Right.
 
-[00:56:19] it's like people see the laughter in this, but you gave a piece of your soul to all those people.
+[<a id="00-33-36">00:33:36</a>]  And then I think she, I don't know why, but she got,
 
-[00:56:26] Something undeserving.
+[<a id="00-33-40">00:33:40</a>]  I think she just got offered a job, a better paid job for a German encyclopedia in Wiesbaden.
 
-[00:56:30] Yeah. I mean, and they're going to go and make their interpretation of you. You've
+[<a id="00-33-47">00:33:47</a>]  And then--
 
-[00:56:36] left something of yourself, and it's nothing tangible, but it's still,
+[<a id="00-33-49">00:33:49</a>]  That's where they, you know, parents met.
 
-[00:56:41] you're in other people's heads. Like today we met this woman, I couldn't even remember her face,
+[<a id="00-33-52">00:33:52</a>]  Yeah.
 
-[00:56:46] but she's like, "Oh, Harry, I know." And I'm like, "Okay." But it was, for me, it took a couple of
+[<a id="00-33-52">00:33:52</a>]  I see.
 
-[00:56:55] years. And it's just finally, I just, the maths I did in my head is like, I'm at a certain age,
+[<a id="00-33-53">00:33:53</a>]  She was staying in like a rented flat and my German grandmother owned the building
 
-[00:57:01] I don't give a shit. But to get to the question, is there a similar thing in porn? The assumption
+[<a id="00-34-01">00:34:01</a>]  and that's how she met my dad.
 
-[00:57:13] I have is that a lot of people get into porn because of trauma, because it's an easy way to
+[<a id="00-34-04">00:34:04</a>]  And what's your dad's background?
 
-[00:57:20] make money, so it's a mix of trauma and money. But then there's also this line of shame. Like,
+[<a id="00-34-05">00:34:05</a>]  Well, he's dead now since years.
 
-[00:57:28] what is the journey into porn? Like, you saw people, like, is it...
+[<a id="00-34-08">00:34:08</a>]  But he was like a sort of a jack of all trades type of guy.
 
-[00:57:36] I mean, the common thing they keep saying that they want to explore their sexuality.
+[<a id="00-34-15">00:34:15</a>]  Yeah.
 
-[00:57:42] Yeah. I never bought that shit.
+[<a id="00-34-15">00:34:15</a>]  He worked a little bit as a solicitor, he was laying carpets.
 
-[00:57:43] It's empowerment.
+[<a id="00-34-19">00:34:19</a>]  Yeah.
 
-[00:57:45] Empowerment.
+[<a id="00-34-20">00:34:20</a>]  He did a bit of everything.
 
-[00:57:46] I'm sorry, but I... I'm sure it's true for some of them. And it is easy money, I guess,
+[<a id="00-34-22">00:34:22</a>]  And I mean, they're an interesting--
 
-[00:57:56] especially like 20 years ago when I started working for Evil Angel in 2003, 21 years ago.
+[<a id="00-34-27">00:34:27</a>]  I don't really know my German family that well because we moved when I was so young.
 
-[00:58:01] It was kind of, unless I got to know them, you know, like, I mean, I take their words
+[<a id="00-34-33">00:34:33</a>]  I got to know him a bit when I was like 18, 19.
 
-[00:58:13] for what it is. When I talk to my friend Peter Warren from AVN, he thinks 100% of all the
+[<a id="00-34-36">00:34:36</a>]  But what I got from--
 
-[00:58:21] performers, female especially, they've been molested. That's why they're getting into
+[<a id="00-34-39">00:34:39</a>]  Wait, so you didn't grow up with your dad?
 
-[00:58:25] business. I don't know if it's that high, but whatever it is, I always try to have respect for
+[<a id="00-34-41">00:34:41</a>]  No, he stayed in Germany.
 
-[00:58:32] them. And if they choose to, once they choose to do it, there's no point trying to shame somebody,
+[<a id="00-34-43">00:34:43</a>]  Oh, I see.
 
-[00:58:39] you know, I work in the business, you know? Oh, yeah, yeah. I mean, I think, yeah, my
+[<a id="00-34-44">00:34:44</a>]  But what I got from the story of that is just like in England,
 
-[00:58:43] bullshit reaction is like, when I think of like, what is the word empowerment? It's that you have
+[<a id="00-34-51">00:34:51</a>]  because England didn't get invaded,
 
-[00:58:51] actual power. And maybe it feels like you have power if you're a porn star, but the real power
+[<a id="00-34-53">00:34:53</a>]  there's somehow through the war that got bombed a lot.
 
-[00:59:01] is with whoever is making the big money. And then actual power in the world is with people that have
+[<a id="00-34-56">00:34:56</a>]  It was still a certain continuity.
 
-[00:59:10] guns on their side and soldiers. So this word empowerment is like, it's kind of a lie in itself.
+[<a id="00-34-59">00:34:59</a>]  But in Germany, things got really messed up.
 
-[00:59:17] It's a little weird because I think, especially from like early 90s, after the Cold War ended,
+[<a id="00-35-02">00:35:02</a>]  Yeah.
 
-[00:59:26] you have a lot of these Eastern European performers, you know, and they're doing a completely
+[<a id="00-35-02">00:35:02</a>]  Like in, you know, you'd have like some dad who'd show up 10 years
 
-[00:59:30] different thing because growing up in Europe, they don't have hang up about sex and nudity.
+[<a id="00-35-11">00:35:11</a>]  after the end of the war having been released from a prison in Russia.
 
-[00:59:34] But if they're from Eastern Europe and they're in porn back then, it's probably more like financial
+[<a id="00-35-15">00:35:15</a>]  Oh, that's right.
 
-[00:59:38] reasons, you know, because a lot of money they got is just staggering because you could never
+[<a id="00-35-16">00:35:16</a>]  Yeah.
 
-[00:59:42] make that kind of money in the States. So I think I had a tendency to, I'm just more sympathetic to
+[<a id="00-35-16">00:35:16</a>]  And that wasn't the case in my family because--
 
-[00:59:53] Eastern European performers because if you do it right, if you work long enough and save enough
+[<a id="00-35-21">00:35:21</a>]  Your family's more on the western side.
 
-[00:59:58] money, you could go back to Europe. It's a generational wealth. It could change your family's
+[<a id="00-35-23">00:35:23</a>]  So, yeah.
 
-[01:00:02] destiny, you know. But if you're living, if you're born in America and you have all these
+[<a id="00-35-24">00:35:24</a>]  And generationally, none of the men lined up with the First or Second World War.
 
-[01:00:08] opportunities to get into porn, they get a little complicated. Like, you know, you could have got
+[<a id="00-35-30">00:35:30</a>]  So they were always either too young or too old.
 
-[01:00:12] an acting or got a degree and become a doctor or whatnot, you know. But at the end of the day,
+[<a id="00-35-32">00:35:32</a>]  Oh, okay.
 
-[01:00:19] it's not really my place to ask them unless I got to know them because my job was basically
+[<a id="00-35-33">00:35:33</a>]  But it certainly, there's some bizarre stories.
 
-[01:00:25] post-production DVDs, you know. I think 2003 to 2007, I probably saw a lot of performers showing
+[<a id="00-35-38">00:35:38</a>]  Like, I think my German grandmother--
 
-[01:00:32] up to the office. But by 2009 and 10, I hardly ever saw too many people showing up to the office,
+[<a id="00-35-44">00:35:44</a>]  I get this from my brother.
 
-[01:00:38] you know. Because by then, a lot of online stuff was changing the business. But it's so different
+[<a id="00-35-45">00:35:45</a>]  My brother's fascinated by history.
 
-[01:00:44] now. It's a completely different business. I'm having a hard time reading and figuring out what's
+[<a id="00-35-48">00:35:48</a>]  Honestly, I don't really give a shit about that stuff.
 
-[01:00:49] going on in the business, you know. It's a different animal, you know. Yeah. Only fans. Yeah. I mean,
+[<a id="00-35-50">00:35:50</a>]  Like, I don't think about it much.
 
-[01:00:55] the power has shifted away from production to porn girls, you know. Which is good. Yeah,
+[<a id="00-35-51">00:35:51</a>]  Is he older or younger brother?
 
-[01:01:00] definitely. I mean, I send you that. I send you that thing. There's this lady blowing up on TikTok,
+[<a id="00-35-52">00:35:52</a>]  He's eight years older than me.
 
-[01:01:05] Angela Blue or something. Oh, yeah. I find her a very attractive lady. And she's very attractive.
+[<a id="00-35-54">00:35:54</a>]  I see.
 
-[01:01:11] And she's kind of done the Andrew Tate approach. She's trolling. Exactly. She's trolling. She's
+[<a id="00-35-55">00:35:55</a>]  And there was also, I also had a half-brother who drunk and smoked himself to death.
 
-[01:01:19] saying going around to schools, fucking 18 year old boys. Now she's moved on to dance. She's like,
+[<a id="00-36-01">00:36:01</a>]  I think my dad was a bit of a tough dude to be married to because he was so like,
 
-[01:01:24] come to this hotel if you're a dad. Yeah. I don't care if you're married. And then they make a video
+[<a id="00-36-08">00:36:08</a>]  he was drinking a lot.
 
-[01:01:30] out of this. Yeah. And it's trolling. Yeah. Because everyone's like, it's causing a reaction. Yeah. And
+[<a id="00-36-09">00:36:09</a>]  I think he was violent towards my mom, which is why--
 
-[01:01:38] to me, she's not a whore. To me, she's a smart businesswoman that she knows how to get attention,
+[<a id="00-36-13">00:36:13</a>]  Well, may we remind the listeners that your dad grew up with the Great Depression in Germany.
 
-[01:01:43] make money, you know. Because I think, you know, my personal opinion is like, you do things,
+[<a id="00-36-18">00:36:18</a>]  And this is not particularly a great time.
 
-[01:01:50] and it doesn't bother you whether you become an actor or a comedian or a porn star. But you don't
+[<a id="00-36-20">00:36:20</a>]  Exactly.
 
-[01:01:56] want your kids to do the same thing and go through the suffering, you know. But if you do it, if you
+[<a id="00-36-21">00:36:21</a>]  And not to mention, Germans suffered humiliation in World War I.
 
-[01:02:00] become a porn star, you make millions of dollars, you lose maybe public respect for you. And people
+[<a id="00-36-27">00:36:27</a>]  And they had just overwhelming burden to pay off at enemies that they fought.
 
-[01:02:07] might think, doesn't think too much of you. But if you make enough money to take care of your family
+[<a id="00-36-31">00:36:31</a>]  And hyperinflation, I can imagine, you know, I studied a little bit of economics.
 
-[01:02:12] kids for generations to come, you know, like, good for her, you know. I really think it depends on
+[<a id="00-36-37">00:36:37</a>]  Hyperinflation is always a gift to dictators because if you have a fixed income from government,
 
-[01:02:20] why you did it, really. Yeah, I guess. I mean, it's not my place to tell them how to live their
+[<a id="00-36-43">00:36:43</a>]  like old person, and all of a sudden, every day, your money is worth less and less,
 
-[01:02:28] lives, you know. Yeah, yeah, yeah. I mean, I buy the friend that you mentioned said 100%
+[<a id="00-36-48">00:36:48</a>]  whenever you have some crazy person offering solutions like Hitler or Stalin or Mao,
 
-[01:02:35] have some kind of child. Because the thing is, I think, I think for people, most people, the idea
+[<a id="00-36-53">00:36:53</a>]  you end up going for these people, not because you're a evil person,
 
-[01:02:43] of, like, or if I put it in, this is a male point of view, but like, like, in periods in my life
+[<a id="00-36-56">00:36:56</a>]  but because you're afraid for your livelihood, you know, or your life.
 
-[01:02:51] where I've been, like, fucking around, basically, with different, different women, there's a certain
+[<a id="00-36-59">00:36:59</a>]  Yeah, that's actually really interesting you put it that way.
 
-[01:02:57] point where my body's just like, like, like, even my dick is like, dude, who the fuck is this? I'm
+[<a id="00-37-03">00:37:03</a>]  Like if you think about it, because you read about that in history,
 
-[01:03:03] not even interested. And just because it's like, the intimacy, you get to know someone, you get
+[<a id="00-37-06">00:37:06</a>]  but if I think like the money I get paid every month is like going downhill,
 
-[01:03:12] some depth, that's, like, I'm more turned on by someone that I've been with for six months. And
+[<a id="00-37-12">00:37:12</a>]  and some dude is saying, "Hey, do this, like follow me.
 
-[01:03:18] then we know each other, physically, we know each other. And then, yeah, and so sleeping around,
+[<a id="00-37-15">00:37:15</a>]  I'm going to make sure you keep your money."
 
-[01:03:26] it's like, it's confusing to the body. It's confusing, but I've been telling you too. And
+[<a id="00-37-17">00:37:17</a>]  I'm like, "Fuck yes."
 
-[01:03:31] I think, I think, I think the first couple, I don't know, maybe first time I told you, you laughed,
+[<a id="00-37-18">00:37:18</a>]  Because I got kids to look after.
 
-[01:03:36] but I think sex is really overrated, you know? Yeah, yeah, yeah, yeah. And, and when people say,
+[<a id="00-37-20">00:37:20</a>]  And I think this is something that Democratic Party in the United States forgot,
 
-[01:03:44] you work in porn business for a long time, you know, so many people in business, you must have
+[<a id="00-37-24">00:37:24</a>]  because recently, you know, they're trying to make all kinds of cultural issues as the topic,
 
-[01:03:47] a weird fetish. And I was thinking like, you know, my, these days, my fetish is like, girl,
+[<a id="00-37-29">00:37:29</a>]  but at the end of the day, if you're poor, middle class,
 
-[01:03:52] showing up on time. Stop yelling at me, you know, stop nagging. Those are the fetishes. We don't,
+[<a id="00-37-31">00:37:31</a>]  what is the biggest thing you're concerned about?
 
-[01:03:59] you don't even have to take your clothes off. It's not, we're not gonna have a good sex anyway.
+[<a id="00-37-33">00:37:33</a>]  Your livelihood, are you able to take care of yourself, your families, economic.
 
-[01:04:03] I'm 55, wait, wait. You know, at a certain point, like, you know, it's, it's just, just,
+[<a id="00-37-36">00:37:36</a>]  And whether you like Trump or not,
 
-[01:04:11] it's grossly exaggerated, because after you have sex, like, all that hassle to get it,
+[<a id="00-37-38">00:37:38</a>]  most people live better economic condition prior to COVID, you know?
 
-[01:04:16] dinner, movies, and stuff, it's just so much headache. Yeah, I mean, it's actually,
+[<a id="00-37-41">00:37:41</a>]  So I think they forgot about that, you know?
 
-[01:04:21] I love that point of view, because we were talking about that on the phone. I thought it's hilarious,
+[<a id="00-37-46">00:37:46</a>]  And I think, to call like,
 
-[01:04:26] because, because I'm not, I'm trying not to be ironic, but like, I know, but you know, like,
+[<a id="00-37-50">00:37:50</a>]  1980, I worked for Michael Dukakis campaign, Democratic nominee.
 
-[01:04:32] but if I, if I look back at my life, the amount of time and effort I've put into getting laid,
+[<a id="00-37-54">00:37:54</a>]  You worked for this?
 
-[01:04:37] and, and it's never been anything, okay, once or twice, it's been like, okay, that was an
+[<a id="00-37-55">00:37:55</a>]  I made him, I worked on it.
 
-[01:04:43] interesting experience. Yeah. But generally speaking, it's never been, it's never been
+[<a id="00-37-57">00:37:57</a>]  I just graduated from high school.
 
-[01:04:47] worth the effort. It's like, and, and if I think about how much better my life would be if I hadn't
+[<a id="00-37-59">00:37:59</a>]  Because back then, I still care about working class because I grew up poor.
 
-[01:04:55] had a dick chasing women around. Yeah. I mean, it's a paradox. I became a dad through that. Yeah.
+[<a id="00-38-03">00:38:03</a>]  And I thought I know how to pick a winner.
 
-[01:05:01] And when becoming a dad, made me a much better person, like a much more able to handle stress,
+[<a id="00-38-07">00:38:07</a>]  No, I've been wrong every election, you know?
 
-[01:05:09] much less. When you're caring for someone, sure, it has a civilizing effect, I think.
+[<a id="00-38-10">00:38:10</a>]  But I think when Bill Clinton became president,
 
-[01:05:15] It, but it forced me to level up in big ways. Yeah. Because the first thing and, and the first
+[<a id="00-38-15">00:38:15</a>]  this is the reason why so many people hate him, Republicans.
 
-[01:05:24] thing is just, I remember like with my daughter, I think, and she's like three months old and she's,
+[<a id="00-38-19">00:38:19</a>]  Because, no question, Bill Clinton is a political genius.
 
-[01:05:32] you know, I'm lying next to her, she's asleep in bed. And I've just got this terror of like,
+[<a id="00-38-24">00:38:24</a>]  I mean, unbelievable performer and an intelligent guy.
 
-[01:05:39] fuck, I'm responsible for this life now. And it's like, that means I can't die. Yeah. I have to
+[<a id="00-38-27">00:38:27</a>]  And he understand politics really well.
 
-[01:05:46] make sure this thing lives. And that's, and, and that was the first time I've ever had that
+[<a id="00-38-29">00:38:29</a>]  He took all the good idea that Republican has,
 
-[01:05:53] kind of responsibility. But then the other side of that is I don't look after myself very well,
+[<a id="00-38-32">00:38:32</a>]  take it away and add it to his administration.
 
-[01:06:00] or I don't even stand up for myself in most situations. It takes me years to learn to,
+[<a id="00-38-36">00:38:36</a>]  And I don't know why Republicans are mad.
 
-[01:06:07] when someone's doing some bullshit towards me to say, fuck off. But if somebody
+[<a id="00-38-38">00:38:38</a>]  He's giving less power to union, lower tax, international trade.
 
-[01:06:11] does the same shit to my kids, I've become a person who maybe would be willing to do anything.
+[<a id="00-38-45">00:38:45</a>]  But I think they pay heavy price because they really throw
 
-[01:06:21] Like, of course. And to me, that's fascinating because this is, it's this animal energy. It's
+[<a id="00-38-50">00:38:50</a>]  working class under the bus, you know?
 
-[01:06:26] like, oh, you fuck with my kids. That's where it's like soprano level energy. And that's
+[<a id="00-38-52">00:38:52</a>]  And I think that's why when you call mega rally people racist, they're not racist.
 
-[01:06:34] fascinating to me because, yeah, I don't know where I'm going with this now, but it's just like,
+[<a id="00-38-57">00:38:57</a>]  Some of them maybe.
 
-[01:06:41] like, I've benefited a lot from having kids because it made me maybe a more powerful human
+[<a id="00-38-58">00:38:58</a>]  I mean, rich people are racist too.
 
-[01:06:48] being like, like, because otherwise I was just have been gaming and doing bullshit and like,
+[<a id="00-38-59">00:38:59</a>]  These are working class, they're just scared for their family.
 
-[01:06:55] you know. One of my, one of my friend, Tom, when I met him within five minutes, I want to,
+[<a id="00-39-03">00:39:03</a>]  And Democrats just forgot about them.
 
-[01:07:02] he was a friend of my other close friend. And then my other friend knew Tom would just piss
+[<a id="00-39-05">00:39:05</a>]  So they went to Trump's camp.
 
-[01:07:09] me off right away. So he deliberately brought him knowing that he's going to piss me off.
+[<a id="00-39-07">00:39:07</a>]  Even though Trump probably not going to do anything for them either,
 
-[01:07:13] And I fucking hated it. But after he got married and had kids, he had to civilize. In fact,
+[<a id="00-39-11">00:39:11</a>]  but at least he listened to them, you know?
 
-[01:07:17] he's a good man. He's a good father, good husband. And it kind of shocked him because
+[<a id="00-39-14">00:39:14</a>]  You can't just ignore poor people that it's cool.
 
-[01:07:21] I never thought he had it in him to do that. But, you know, marriage for some people really works.
+[<a id="00-39-16">00:39:16</a>]  Or expecting black people to keep voting for your party
 
-[01:07:27] Yeah.
+[<a id="00-39-20">00:39:20</a>]  because taking people for granted, it's never good policy, you know?
 
-[01:07:28] Having kids for people works, you know. And, all right. Difficult question. Why does it,
+[<a id="00-39-24">00:39:24</a>]  So yeah, I think I got an interesting angle on the Clinton thing.
 
-[01:07:35] how did, what's the thing that pisses you off? What do you do when you get pissed off?
+[<a id="00-39-29">00:39:29</a>]  Okay, well first, yeah.
 
-[01:07:40] Like, how did Tom piss you off?
+[<a id="00-39-31">00:39:31</a>]  So I used to know this guy who worked for,
 
-[01:07:44] Oh, it's been, oh, he was just like some mocking me and just harassed me right away. But
+[<a id="00-39-34">00:39:34</a>]  later on when I worked for the Clinton Foundation.
 
-[01:07:48] I don't remember exactly all the detail. Or I remember at the time, just like 90 or 91,
+[<a id="00-39-37">00:39:37</a>]  Yeah.
 
-[01:07:56] I just met him. My friend Fred was giggling because he knew he was, Tom's going to irritate me.
+[<a id="00-39-37">00:39:37</a>]  I probably shouldn't mention his name because he may be, this is--
 
-[01:08:01] He just wanted to bring him and introduce me so he'll irritate me.
+[<a id="00-39-42">00:39:42</a>]  Just don't mention it.
 
-[01:08:04] Oh, so he's like one of these comedians that's on a permanent-
+[<a id="00-39-44">00:39:44</a>]  And it's also a sort of name that might get people whacked like me or something.
 
-[01:08:07] No, they're not comedians. They're just regular guys.
+[<a id="00-39-49">00:39:49</a>]  But he, because he ended up being involved
 
-[01:08:09] But you know, you get, I don't mean that, but he was like he's on a permanent roast battle.
+[<a id="00-39-51">00:39:51</a>]  in selling a Canadian nuclear power plant to a Russian oligarch.
 
-[01:08:13] So he's roasting-
+[<a id="00-39-57">00:39:57</a>]  Yeah.
 
-[01:08:14] He was just, Tom was being a dick at the time, you know.
+[<a id="00-39-57">00:39:57</a>]  Through the Clinton Foundation.
 
-[01:08:16] And my whole reaction at the time was, I'm just going to get a pencil, just stab me in the eye.
+[<a id="00-39-58">00:39:58</a>]  And it was interesting that how I got to know him.
 
-[01:08:21] That was my reaction. But it's amazing. His daughter just had a daughter. So he's a grandfather
+[<a id="00-40-01">00:40:01</a>]  I was still at university then and I had a lot of friends in London.
 
-[01:08:29] now.
+[<a id="00-40-07">00:40:07</a>]  I was at a university just outside.
 
-[01:08:30] Holy shit.
+[<a id="00-40-08">00:40:08</a>]  Yeah.
 
-[01:08:31] Among my friends, I think he's the first grandfather. Kind of weirdly weird to say that.
+[<a id="00-40-09">00:40:09</a>]  And these guys are at the London School of Economics.
 
-[01:08:38] But do you have kids?
+[<a id="00-40-12">00:40:12</a>]  It was a good friend of mine who went.
 
-[01:08:40] No, no, no. I don't have kids.
+[<a id="00-40-14">00:40:14</a>]  And I got to meet all these dudes who were then gonna become
 
-[01:08:44] Because you strike me as someone that might be 50 kids around the world.
+[<a id="00-40-18">00:40:18</a>]  the future ambassadors for America and this kind of stuff.
 
-[01:08:49] No, no, no. I had an inkling early on that I'll be a terrible father.
+[<a id="00-40-22">00:40:22</a>]  Yeah.
 
-[01:08:56] And I don't have a very close relationship with my parents. They're not bad people,
+[<a id="00-40-23">00:40:23</a>]  They were a mad bunch of people.
 
-[01:09:01] but they were not good parents. And I'm not a good son either.
+[<a id="00-40-24">00:40:24</a>]  And for them, London was a playground.
 
-[01:09:04] But good parenting is like pornography. You know it when you see it. And then my mother
+[<a id="00-40-29">00:40:29</a>]  They're getting their good master's degrees from the London School of Economics.
 
-[01:09:13] was basically, I think she was kind of pushed to marry my dad. So I think it's not a fun thing
+[<a id="00-40-33">00:40:33</a>]  Mick Jagger went there too.
 
-[01:09:21] to say, but I think every time she saw me, it reminded her of happiness. So she's a very
+[<a id="00-40-35">00:40:35</a>]  To the London School of Economics?
 
-[01:09:29] atypical Asian mother because most Asian mothers were sacrificing their lives for their kids.
+[<a id="00-40-36">00:40:36</a>]  Yeah.
 
-[01:09:33] She was complete opposite. She just didn't give a shit about that. She was drinking a lot too.
+[<a id="00-40-37">00:40:37</a>]  I didn't know that.
 
-[01:09:38] Does it, you're reminding me of the, okay, I refer to her as laws and ladies.
+[<a id="00-40-38">00:40:38</a>]  That's why Roland Stone is interesting to me
 
-[01:09:45] The crazy one that I met before I met you. And this is a conversation she had as well.
+[<a id="00-40-41">00:40:41</a>]  because not only is he creative musically,
 
-[01:09:52] It's like, I don't want to have children because I don't want this line to continue
+[<a id="00-40-44">00:40:44</a>]  performance-wise, acting and things like that,
 
-[01:09:59] because there is a fucked upness in this family that I don't want to pass on to.
+[<a id="00-40-47">00:40:47</a>]  but he's one of the few of them with a really good head of business.
 
-[01:10:04] I mean, I guess technically somebody could ask me, could you move away and not do what
+[<a id="00-40-50">00:40:50</a>]  Famously, when they were having tax issues,
 
-[01:10:11] your parents did? But the reality is I am my dad and my mother's son.
+[<a id="00-40-52">00:40:52</a>]  they moved to southern France.
 
-[01:10:16] So you're making a Darwinian choice for the human race in a way.
+[<a id="00-40-53">00:40:53</a>]  Remember that?
 
-[01:10:19] Yeah. I don't take pleasure hurting people. And I feel a little weird about bringing a life.
+[<a id="00-40-54">00:40:54</a>]  And the girl that was hanging out yesterday,
 
-[01:10:30] So I had a vasectomy in like late nineties. So that guaranteed that I'm not going to have kids.
+[<a id="00-40-58">00:40:58</a>]  she was telling me her best friend in Amsterdam
 
-[01:10:40] I mean, there's times when I see a couple of my friend's kids like, well, they're amazing kids.
+[<a id="00-41-01">00:41:01</a>]  worked for an accounting firm to take care of Mick Jagger's account.
 
-[01:10:44] It doesn't make me think like it would have been wonderful to have a kid because they're such a
+[<a id="00-41-04">00:41:04</a>]  Wow.
 
-[01:10:47] sweet kids, you know, my friend, Mikey, his daughter, Gabby, second kid in the family.
+[<a id="00-41-04">00:41:04</a>]  So yeah, he has a head for business, you know.
 
-[01:10:55] And she's a beautiful girl, very funny, but she makes me laugh because she does
+[<a id="00-41-07">00:41:07</a>]  But this was an interesting thing because, you know,
 
-[01:11:02] gymnastic and their coach is a gay black guy. And I know why that's funny, but it makes me laugh.
+[<a id="00-41-12">00:41:12</a>]  you talk about conspiracies.
 
-[01:11:11] A gay black coach teaching ballet. Gymnastic. And I don't remember what he said.
+[<a id="00-41-14">00:41:14</a>]  In the end, a conspiracy is just a bunch of people that know each other.
 
-[01:11:19] Perfection or, you know, you have to do the drill better or, you know,
+[<a id="00-41-17">00:41:17</a>]  It's like you could say there's a comedy conspiracy.
 
-[01:11:28] I don't know what he said. But she turned around and said, oh, you mean like you're losing your
+[<a id="00-41-20">00:41:20</a>]  So for example, if I run a venue and we're good friends,
 
-[01:11:37] hair in the middle of your, something about this gay black guy's look that he fought so hard to hide.
+[<a id="00-41-24">00:41:24</a>]  I'm like, "Hey, Yoshi, come and do this show."
 
-[01:11:46] But teenage girls are terrified because they know all your insecurity.
+[<a id="00-41-26">00:41:26</a>]  Yeah.
 
-[01:11:50] She made this guy cry. And most adults will say, Gabby, that's terrible. I couldn't stop laughing.
+[<a id="00-41-27">00:41:27</a>]  So that's a form of conspiracy.
 
-[01:11:58] Good for you. I wish I had the money to give it to her. Yeah. Go to the world and hurt people's
+[<a id="00-41-30">00:41:30</a>]  I'm doing you a favor because we like each other, whatever, or vice versa.
 
-[01:12:04] feelings. That's what I was telling this girl. So if I had a daughter like that, oh my God,
+[<a id="00-41-34">00:41:34</a>]  What does that mean anyway?
 
-[01:12:09] she's so sassy and like sarcastic. I love kids like that. But boy, teenage kids are so good at
+[<a id="00-41-35">00:41:35</a>]  Like when you say conspiracy, like two or more people
 
-[01:12:17] detecting your weakness and they just stab you. But yeah, every time I see her or when Mikey
+[<a id="00-41-37">00:41:37</a>]  trying to do something without public knowing?
 
-[01:12:26] told me, guess what my daughter did this week, I can't stop laughing. So if I had a kid like that,
+[<a id="00-41-43">00:41:43</a>]  I'm really not familiar with it because everybody keeps talking about it.
 
-[01:12:31] good, fine. That's wonderful. But knowing myself, I'll probably have some miserable prick as a kid
+[<a id="00-41-47">00:41:47</a>]  I just use that word without really not knowing anything.
 
-[01:12:38] because I was a miserable prick as a kid. I guess, well, to apropos your point, my daughter,
+[<a id="00-41-50">00:41:50</a>]  Okay, context.
 
-[01:12:45] I don't argue with my daughter anymore because- Never fight a war you can't win.
+[<a id="00-41-54">00:41:54</a>]  I studied physics and physics is one of the greatest.
 
-[01:12:51] Exactly. You're not going to beat a teenage girl at that. Well, she's 21 now. She knows all my
+[<a id="00-41-58">00:41:58</a>]  But once we finish, we should go back to your background, you know?
 
-[01:12:59] insecurities at a primal level. She's grown up with them from the age of a kid and like a two-year-old,
+[<a id="00-42-00">00:42:00</a>]  All right, yeah.
 
-[01:13:09] they don't listen to anything you say. They read your soul. She's like Scientology. She knows your
+[<a id="00-42-01">00:42:01</a>]  But I mean, this is part of the background.
 
-[01:13:16] dark secret, know how to exploit you. Exactly. When the fights begin, she'll press something
+[<a id="00-42-03">00:42:03</a>]  I study physics and physics teaches you systems thinking.
 
-[01:13:25] and it's like, oh man, she remembers. But the thing is, I guess the thing that people should
+[<a id="00-42-07">00:42:07</a>]  Physics is a very good set of mental tools for analyzing stuff.
 
-[01:13:37] know about parenting is that when, especially when they're young, I was thinking about why
+[<a id="00-42-14">00:42:14</a>]  So when I say I have a theory, that means I've thought this stuff through.
 
-[01:13:43] does so many people fuck up as parents. I think mostly I didn't fuck up because I looked at where
+[<a id="00-42-21">00:42:21</a>]  I've got a theory of why they really took down Julian Assange.
 
-[01:13:51] I was in my life. I'm like, this is the one thing I'm determined not to fuck this up. The early stages
+[<a id="00-42-26">00:42:26</a>]  And it wasn't so much the leaks as the idea behind WikiLeaks.
 
-[01:14:00] where the kids up to the age of about eight, it's like going back to stone age times. We live in this
+[<a id="00-42-33">00:42:33</a>]  And he published this master's paper.
 
-[01:14:10] beautiful modern world where you can get a green tea frappuccino and this kind of stuff, but then
+[<a id="00-42-36">00:42:36</a>]  So I've worked in software all my life.
 
-[01:14:14] you have kids and you're wiping human shit off every day. You're dealing with this thing that
+[<a id="00-42-38">00:42:38</a>]  He created a definition of a conspiracy that a computer scientist understands.
 
-[01:14:22] screams. Who's older, a boy or a girl? The girl is older. Thank God it's better to have an older
+[<a id="00-42-43">00:42:43</a>]  I want to hear it.
 
-[01:14:28] daughter because she sets a more calm tone. Then you're woken up. There was three years where I got
+[<a id="00-42-44">00:42:44</a>]  And he says, basically, a conspiracy is a bit like the internet.
 
-[01:14:37] maximum three hours sleep a night because my daughter would wake up crying or my son.
+[<a id="00-42-50">00:42:50</a>]  Like the internet is made up of all these routers that are connected to each other,
 
-[01:14:43] Yeah. I remember this one time, it's summertime. It's hot. It's 3 a.m. I'm like a zombie.
+[<a id="00-42-55">00:42:55</a>]  sharing data, and a conspiracy is a similar thing.
 
-[01:14:53] My daughter woke up. She's crying. I'm rocking her in my arms back to sleep. I'm stood in front
+[<a id="00-42-59">00:42:59</a>]  It's a bunch of people that are acting in a certain way towards a certain agenda.
 
-[01:15:00] of this window because it's hot and it's like some cool air blowing in. Then this little voice
+[<a id="00-43-04">00:43:04</a>]  The reason why I think they took him down-- you can find this thing online still--
 
-[01:15:06] in my head says, "Dude, the window's right there. You can solve this problem right now." Just like,
+[<a id="00-43-10">00:43:10</a>]  is he said, just like a computer network, where you can--
 
-[01:15:13] "Yeah." I was horrified that that creature existed in me. That's like the nature of the human soul.
+[<a id="00-43-15">00:43:15</a>]  there's certain ways to attack a computer network by overloading parts of the network.
 
-[01:15:25] You get brought up with small children. They bring you to the most animal level.
+[<a id="00-43-20">00:43:20</a>]  He published this manifesto, which is like, here's how you take down a conspiracy theory.
 
-[01:15:31] Which led to Louis C.K.'s success in the beginning because one of the things that really changed his
+[<a id="00-43-27">00:43:27</a>]  Is you get the different actors in the conspiracy to stop trusting each other
 
-[01:15:37] career, he was saying something about seeing a parent punching a kid or hurting a kid. If you
+[<a id="00-43-33">00:43:33</a>]  so that they overload each other.
 
-[01:15:47] didn't have a kid, you would say, "That's terrible." As a father, he'd say, "I understand." Then the
+[<a id="00-43-35">00:43:35</a>]  Wait, so if that group of people believe in conspiracy A,
 
-[01:15:53] audience laughed. That kind of nuanced honesty is what led to Louis' success.
+[<a id="00-43-40">00:43:40</a>]  you create a problem within that group?
 
-[01:16:05] To me, that's always a thing. I think there's a point. In my brain, it's somewhere between
+[<a id="00-43-44">00:43:44</a>]  Basically, yeah.
 
-[01:16:12] 30 and 40, most people discover that they're not a nice person. Up until 30, most people are living
+[<a id="00-43-45">00:43:45</a>]  For him, a conspiracy is like-- I don't know.
 
-[01:16:21] in a bubble of, "I'm a nice person. I do good." Ignoring all the times, they do shitty things to
+[<a id="00-43-49">00:43:49</a>]  You're trying to steal everybody's money around the world.
 
-[01:16:28] people. Then you've got a nice Jungian shadow self. It's about creating unity between your
+[<a id="00-43-54">00:43:54</a>]  And you're a bunch of people.
 
-[01:16:36] good and your bad, whatever. This is funny coming from you because he was living in Switzerland as
+[<a id="00-43-55">00:43:55</a>]  You don't really like each other, but you work together towards a common goal.
 
-[01:16:40] well. Yeah. It's just coming from a point of arrogance. Being a physicist, I think psychology,
+[<a id="00-44-02">00:44:02</a>]  You're trying to keep it hidden.
 
-[01:16:53] fundamentally, I believe psychology is bullshit. I grew up in England. We used to laugh about how
+[<a id="00-44-03">00:44:03</a>]  Now, what he did-- the greatest example of this was when he did the embassy leaks.
 
-[01:17:05] all the Americans need to see a therapist. I could be wrong. One of my understanding why
+[<a id="00-44-11">00:44:11</a>]  Do you remember the-- so the embassy leaks really leaked a bunch of US diplomatic cables.
 
-[01:17:18] Stalin hated Jews, one of many reasons. I think one of the things that he really hated for
+[<a id="00-44-17">00:44:17</a>]  There was the other leaks that were more famous, but this one--
 
-[01:17:24] psychotherapy, which is a religion for some Jewish people. It's become a global religion now.
+[<a id="00-44-21">00:44:21</a>]  Hillary Clinton was US foreign secretary at the time.
 
-[01:17:30] Yeah, because I think to Stalin, it was a dangerous thing that people get into his head.
+[<a id="00-44-26">00:44:26</a>]  If she spent a year running around the world apologizing to every nation,
 
-[01:17:36] Also, the thing is the brain is not subtractive. It's only additive.
+[<a id="00-44-32">00:44:32</a>]  or at least forcing them to get back on board, because--
 
-[01:17:45] What does that mean? If I say to you, "Don't think of a huge black cock right now."
+[<a id="00-44-37">00:44:37</a>]  Apologizing about what?
 
-[01:17:51] You can't not do things. Well, this is a little tricky because I'm always thinking about that.
+[<a id="00-44-39">00:44:39</a>]  Because what Julian Assange leaked was all the shit that people--
 
-[01:17:58] Don't think of an elephant. You can't unthink. You can only add more bullshit.
+[<a id="00-44-44">00:44:44</a>]  the US embassy system had been talking about different countries.
 
-[01:18:09] Then eventually, you lose interest. That's the best you can do. I forgot the point about this.
+[<a id="00-44-48">00:44:48</a>]  Oh, and they were talking about a shit vehicle, but--
 
-[01:18:17] Oh, yeah. All this stuff where the more you think about something, the more it becomes a thing.
+[<a id="00-44-51">00:44:51</a>]  Yeah, not just being assholes.
 
-[01:18:26] If I'm 40 and I'm just like, "Yeah, I had a happy childhood," and I'm not thinking about it at all,
+[<a id="00-44-53">00:44:53</a>]  It's like, here's how we're going to fuck these guys.
 
-[01:18:35] great, fine. Then somebody comes along and says, "Yeah, but you must have had this experience in
+[<a id="00-44-55">00:44:55</a>]  And he leaked all of that stuff.
 
-[01:18:41] your childhood." You start thinking about, "Oh, yeah, this thing happened."
+[<a id="00-44-58">00:44:58</a>]  And it was like countries that regarded themselves as US allies were finding out,
 
-[01:18:45] I think social media is probably making things worse for everyone, for a lot of people, I think.
+[<a id="00-45-05">00:45:05</a>]  hey, the Americans are doing this.
 
-[01:18:49] Yeah. The thing is, I've worked in the software of my life. To me,
+[<a id="00-45-07">00:45:07</a>]  And Julian Assange's goal in this was to-- and he did it.
 
-[01:18:55] you know the idea of a mantra like this with-
+[<a id="00-45-13">00:45:13</a>]  For about two years, there was no time for America to start a new war.
 
-[01:19:00] Repeating something over and over?
+[<a id="00-45-19">00:45:19</a>]  Because the whole foreign system was tied up in cleaning out the mess that he caused.
 
-[01:19:02] Yeah. In Asian or Eastern mysticism, you've got the om or the thing,
+[<a id="00-45-27">00:45:27</a>]  So this is a completely opposite situation right after 9/11.
 
-[01:19:08] "Hare Krishna," whatever the stuff they're saying. To me, the realization is in my early 40s,
+[<a id="00-45-32">00:45:32</a>]  The whole world wanted to help America.
 
-[01:19:17] I stopped hearing my mom's voice. My mom's voice wasn't terribly judging, but there was some
+[<a id="00-45-33">00:45:33</a>]  Of course, that idiots squandered at Goodwill
 
-[01:19:26] judgment and there were some things that I realized it's like this piece of software,
+[<a id="00-45-37">00:45:37</a>]  and started killing people in Afghanistan and Iraq.
 
-[01:19:33] or it's like a chat GPT of my mom telling me how I should live my life. At a certain point,
+[<a id="00-45-40">00:45:40</a>]  Yeah, yeah.
 
-[01:19:40] that software stops. It expires. It reaches its sell-by date.
+[<a id="00-45-40">00:45:40</a>]  But it's basically what Julian Assange described.
 
-[01:19:44] It's really weird saying that. It's not the same thing, but
+[<a id="00-45-48">00:45:48</a>]  It's like a hacker's attack for how to bring down powerful systems.
 
-[01:19:48] I don't even remember what my dad's voice sounds now. I could still see his face in my head, but
+[<a id="00-45-55">00:45:55</a>]  And it works.
 
-[01:19:56] it really faded away.
+[<a id="00-45-57">00:45:57</a>]  And if more people knew about it, who have brains,
 
-[01:19:57] I think that's fundamentally a good thing, but then if you go and see a therapist and you talk
+[<a id="00-46-02">00:46:02</a>]  we could basically eliminate power structures.
 
-[01:20:03] about your dad for three hours a week, then it keeps it alive. It's supposed to fade away, I think.
+[<a id="00-46-07">00:46:07</a>]  But isn't it interesting when you have something like Paradise Paper?
 
-[01:20:12] Yeah. I guess talking about problem all the time probably doesn't help.
+[<a id="00-46-10">00:46:10</a>]  And there was a lady named Daphne,
 
-[01:20:15] I guess I don't know what's the healthy level because I don't think holding on to all your
+[<a id="00-46-13">00:46:13</a>]  something from the island in the middle of the Mediterranean.
 
-[01:20:21] problems and talking about it and thinking about it isn't healthy either, but talking over thinking,
+[<a id="00-46-18">00:46:18</a>]  Not Epstein's Island.
 
-[01:20:26] Socrates say unexamined life is not worth living, but over-examined life is not worth living either.
+[<a id="00-46-23">00:46:23</a>]  No, no, no.
 
-[01:20:34] I don't know what's the happy medium. I think that's the difficult thing to figure out.
+[<a id="00-46-24">00:46:24</a>]  It's an island where--
 
-[01:20:38] Nobody's said that before. The over-examined life is not worth living.
+[<a id="00-46-26">00:46:26</a>]  Oh, Mediterranean.
 
-[01:20:44] This is your philosophy here. You need to be a new Socrates.
+[<a id="00-46-27">00:46:27</a>]  Oh, with the English Gibraltar.
 
-[01:20:51] Socrates 2.0. That's a great quote.
+[<a id="00-46-30">00:46:30</a>]  Malta.
 
-[01:20:54] No, no. What I'm saying is if you're going from LA to New York City,
+[<a id="00-46-31">00:46:31</a>]  Malta.
 
-[01:20:58] there's many different ways of doing it. The easiest one is flying from LA to New York.
+[<a id="00-46-32">00:46:32</a>]  Yeah, I was there too.
 
-[01:21:02] You could drive, you could hitchhike, you could take a bus, you could take a boat long way around,
+[<a id="00-46-32">00:46:32</a>]  And she was assassinated because she participated in Paradise Paper
 
-[01:21:07] or you get paralyzed by planning for all the potential problems on the way driving,
+[<a id="00-46-39">00:46:39</a>]  about findings and things like that.
 
-[01:21:13] so you're trying to prevent that, so you're over-preparing, but eventually you have to leave.
+[<a id="00-46-40">00:46:40</a>]  But it's really interesting because it was--
 
-[01:21:18] That's the problem. Some people leave without preparation, and other people over-prepare,
+[<a id="00-46-42">00:46:42</a>]  Paradise Paper or Panama Paper?
 
-[01:21:24] but eventually life has to go, so you have to go. You can't anticipate all the problems.
+[<a id="00-46-44">00:46:44</a>]  There's both.
 
-[01:21:30] The thing is, I say this about therapy because I've always had this reactionary thing. I think
+[<a id="00-46-45">00:46:45</a>]  There's two of them.
 
-[01:21:39] it's my family with Quakers. When I hear everybody say, "Oh, you need to do therapy," I'm like,
+[<a id="00-46-46">00:46:46</a>]  Oh, the Paradise Paper, I don't know about.
 
-[01:21:48] "Fuck therapy." It's like, "Don't tell me what I need to do, first of all," but the other thing is
+[<a id="00-46-47">00:46:47</a>]  I don't want to say some of the names
 
-[01:21:54] more... Therapy could be different things, right? Some people talk to therapists, but other people
+[<a id="00-46-51">00:46:51</a>]  because they're friends with Russell Peters.
 
-[01:22:01] like to exercise and running, or they could get coffee and read a book or something like that,
+[<a id="00-46-52">00:46:52</a>]  But these important people representing certain countries
 
-[01:22:06] too. Yeah, Swiss is all about the running. They run and they hike. For me, therapy is chat GPT.
+[<a id="00-46-57">00:46:57</a>]  have access to an amount of money.
 
-[01:22:15] There's a thing I did two days ago. Have you heard this notion of prompts?
+[<a id="00-46-58">00:46:58</a>]  And they turn around and go to different parts of the world
 
-[01:22:24] I don't know what that is. I don't do any of the AIs. I have a face that looks like saying,
+[<a id="00-47-00">00:47:00</a>]  buying property for themselves.
 
-[01:22:31] "I do AI and high tech." I do none of that stuff. My expertise is transgender porn,
+[<a id="00-47-01">00:47:01</a>]  And that was released.
 
-[01:22:38] so this is what we're talking about here. First of all, I asked chat GPT about you.
+[<a id="00-47-02">00:47:02</a>]  And you expect certain subjects to live in your country.
 
-[01:22:47] It knows about you because- It doesn't know me. They just know a lot of facts about me.
+[<a id="00-47-09">00:47:09</a>]  They're poor, expecting the king or whoever it is to care for them.
 
-[01:22:52] Yeah, but- It doesn't know me.
+[<a id="00-47-14">00:47:14</a>]  But they're spending money like crazy overseas.
 
-[01:22:55] You think. Well, so here's what I did. There's a thing called the God prompt. Chat GPT by default
+[<a id="00-47-16">00:47:16</a>]  Anyway, it's really embarrassing.
 
-[01:23:06] gives you like a basic, it's like a basic bitch basically. But then if you tell it how it should
+[<a id="00-47-18">00:47:18</a>]  But it always goes back to my background,
 
-[01:23:12] behave and what things it should do, you can get very, and these are called prompts. So you say,
+[<a id="00-47-20">00:47:20</a>]  which is how you discredit these people with conspiracy
 
-[01:23:18] "I want you to act as like Socrates and explain like Greek," and imagine it's like Greece 3000
+[<a id="00-47-25">00:47:25</a>]  or explaining to the rest of the world
 
-[01:23:28] years ago. "Explain why you said an unexamined life is not worth living." And then it will
+[<a id="00-47-27">00:47:27</a>]  these powerful people are doing something.
 
-[01:23:36] manage to switch its context to tell you that based on the data it's been given.
+[<a id="00-47-28">00:47:28</a>]  You silence them through sex scandals
 
-[01:23:40] Now, I asked, there's a thing called the God prompt, which is basically a cycle. It's called
+[<a id="00-47-32">00:47:32</a>]  or accuse them of sexual assault.
 
-[01:23:48] the God prompt. This will be up on TikTok. But it's a couple of questions you ask chat GPT
+[<a id="00-47-34">00:47:34</a>]  It's the most common thing that regular people understand.
 
-[01:23:54] based on all the interactions you've had where it tells you what your problem is.
+[<a id="00-47-37">00:47:37</a>]  Whether it's true or not, you call somebody a rapist,
 
-[01:24:01] Okay. And it says like you have a fear of this and you have this and then you're doing this all
+[<a id="00-47-43">00:47:43</a>]  damage is done.
 
-[01:24:09] the time. These things you do well. And I did this and the answer is I haven't told it everything.
+[<a id="00-47-46">00:47:46</a>]  But I noticed that sex allegations
 
-[01:24:16] Did it show you a picture of a gun? No, no. It said one of the things that I have a fear
+[<a id="00-47-50">00:47:50</a>]  are one of the most cost-effective ways
 
-[01:24:26] of irrelevant. And that certainly resonates because I was like building up to doing something.
+[<a id="00-47-52">00:47:52</a>]  to discredit someone.
 
-[01:24:35] And then I ended up with kids and I was very frustrated for 10 years because I was like
+[<a id="00-47-53">00:47:53</a>]  This is actually an interesting thing because in the--
 
-[01:24:42] figuring out some path. Probably I was not going anywhere. Were you married at 10 years?
+[<a id="00-47-58">00:47:58</a>]  I'm not saying it didn't happen.
 
-[01:24:51] I was never married to kids, but we were together like a married couple. But I was very frustrated
+[<a id="00-48-00">00:48:00</a>]  I'm not saying it did happen or it didn't happen.
 
-[01:24:59] for the beginning because I was like, I've got this talent, I've got ability and I want to make
+[<a id="00-48-03">00:48:03</a>]  I'm just saying it's a powerful way to discredit someone.
 
-[01:25:06] something and now I've got to look up to kids. So chat GPT got this. Mostly I've been using it
+[<a id="00-48-08">00:48:08</a>]  And I forgot there was some Russian revolutionary
 
-[01:25:15] to help me write the text description for a comedy show I'm promoting or I use it to work a lot.
+[<a id="00-48-11">00:48:11</a>]  who said-- I'm paraphrasing.
 
-[01:25:22] But based on my language patterns, based on the type of questions I'm asking it, it's able
+[<a id="00-48-14">00:48:14</a>]  It's not only necessary to kill your enemies,
 
-[01:25:30] to come up with a pretty, like there's like a hundred hours of therapy I just saved by doing
+[<a id="00-48-15">00:48:15</a>]  but you have to first dishonor them.
 
-[01:25:37] this. Interesting. And probably if we ask chat GPT the right questions about you, because they've
+[<a id="00-48-18">00:48:18</a>]  In other words, you do more harm by--
 
-[01:25:43] definitely fed it all the podcasts they could find. I think his name is William Goldman. I like
+[<a id="00-48-20">00:48:20</a>]  It's worse than death.
 
-[01:25:50] to talk to him a lot. He won one or two Oscars. He famously wrote Princess Bride. He wrote that
+[<a id="00-48-22">00:48:22</a>]  You hurt their reputation.
 
-[01:25:56] script. I think he had two Oscars. Oh my God. I apologize. Listen, I feel stupid. He won one for
+[<a id="00-48-24">00:48:24</a>]  See, this is an interesting thing
 
-[01:26:09] political thriller, maybe something related to Watergate. I'm blanking. I haven't slept that much.
+[<a id="00-48-27">00:48:27</a>]  because I wonder now does anybody care about honor anymore?
 
-[01:26:16] But anyway, he won two Oscars. He won one or two of them, but he famously say no one knows anything.
+[<a id="00-48-32">00:48:32</a>]  Like I was having this conversation earlier this week
 
-[01:26:21] In other words, you know, when he was at the peak of his career, they're making between three to
+[<a id="00-48-37">00:48:37</a>]  with a couple of people.
 
-[01:26:28] maybe 500 movies in Hollywood and a lot of them don't do well. Well, obviously they made thinking
+[<a id="00-48-38">00:48:38</a>]  I have to say I find it's funny with--
 
-[01:26:33] that they were going to be good. It's a lot of time when you do something, even successful one,
+[<a id="00-48-40">00:48:40</a>]  Through comedy, I meet a lot of people younger than me.
 
-[01:26:38] they didn't realize it's going to be that successful because you're just not sure about
+[<a id="00-48-42">00:48:42</a>]  We are all fuckers.
 
-[01:26:43] anything that, you know, people just pretend like they know what they're doing, you know?
+[<a id="00-48-46">00:48:46</a>]  Yeah, and so this is how I stay cool and stay in touch.
 
-[01:26:47] So I have friends who are paralyzed by therapy. They do a lot. I've never done it. And I just know
+[<a id="00-48-52">00:48:52</a>]  We're not cool.
 
-[01:26:55] that my personality and plus growing up in Japan, unlike South Korea, I know a lot of my Korean
+[<a id="00-48-55">00:48:55</a>]  Yeah, we're fucking cool.
 
-[01:27:03] friends do therapy and things like that, but Segun Foro and Carl Yoon and people like that
+[<a id="00-48-58">00:48:58</a>]  Anyway, we're cooler than--
 
-[01:27:09] never penetrated Japanese mind, you know? It's not a big place to do that because
+[<a id="00-48-59">00:48:59</a>]  One thing that surprises me, at least in Switzerland,
 
-[01:27:14] reveal yourself and talk about yourself, they're not going to do that, you know? That whole notion
+[<a id="00-49-07">00:49:07</a>]  is you meet someone who's like 25
 
-[01:27:19] is very, very strange. Okay, I've got it. Would you be down to do this as a little
+[<a id="00-49-10">00:49:10</a>]  and within 15 minutes,
 
-[01:27:25] experiment? Well, first of all, has it actually been recording? Yeah, we've got an hour and a
+[<a id="00-49-12">00:49:12</a>]  they're telling you about their personal BDSM fetishes.
 
-[01:27:36] half already. Oh, wow. So it would have been funny if there's this whole time we were talking,
+[<a id="00-49-16">00:49:16</a>]  But to me, what seems to be a very big taboo
 
-[01:27:41] we didn't record it. Well, we got audio, we got that, that's the second audio track. But
+[<a id="00-49-20">00:49:20</a>]  amongst young people is to say,
 
-[01:27:47] with semi-pro here with kind of shitty podcasters. No, all right, this could be an interesting thing
+[<a id="00-49-22">00:49:22</a>]  "I actually have genuine feelings for you."
 
-[01:27:54] for us to do in a later podcast. Well, maybe interesting for you. But I'd be also interested
+[<a id="00-49-24">00:49:24</a>]  And it's like, but if so--
 
-[01:28:02] to see, I mean, you could look at the results first without me. And if you want to talk about it,
+[<a id="00-49-29">00:49:29</a>]  I don't know, like--
 
-[01:28:10] or if you want to share that, because I think you might be surprised. Like if we took the transcript
+[<a id="00-49-30">00:49:30</a>]  Say that again.
 
-[01:28:16] of what we've been talking about. Sure. I am curious now. So you take the transcript
+[<a id="00-49-31">00:49:31</a>]  You actually have genuine feelings for someone
 
-[01:28:24] and then you ask, like, what's the problem with Yoshi, he'll give you. Well, just the way people
+[<a id="00-49-35">00:49:35</a>]  like, "I love you" or "I care about you."
 
-[01:28:30] construct language. Yeah. So if you look at the pauses, I mean, we know this is comedians, we play
+[<a id="00-49-37">00:49:37</a>]  They say that or they can't say it?
 
-[01:28:36] with language a lot. But you can follow someone's train of thought. Sure. And, you know, you see
+[<a id="00-49-39">00:49:39</a>]  They can't say it.
 
-[01:28:42] different comedians, it's like the ADHD comedian, who the moment there's a distraction, he has a
+[<a id="00-49-42">00:49:42</a>]  To me, that feels like the biggest taboo.
 
-[01:28:48] funny reaction. It's hilarious. And it's like, I'm curious about that, too. It's also things like,
+[<a id="00-49-43">00:49:43</a>]  They sometimes pretend to say it
 
-[01:28:54] like, you know, who was talking about that is Steve Martin. He has philosophy degree, almost
+[<a id="00-49-46">00:49:46</a>]  with all kinds of things like, "Oh, I feel you, man."
 
-[01:29:03] graduated from philosophy degree from Long Beach State. His favorite philosopher was, maybe I'm not
+[<a id="00-49-48">00:49:48</a>]  But that's bullshit.
 
-[01:29:09] saying his name right, but Ludwig Wittgenstein. Oh, he's the crazy philosopher. Yeah. Because one
+[<a id="00-49-49">00:49:49</a>]  I love this.
 
-[01:29:15] time he asked Bertrand Russell, another famous British, a famous British philosopher. He said,
+[<a id="00-49-50">00:49:50</a>]  And just hold your thought and finish what you have to say.
 
-[01:29:21] he asked Russell, like, should I become a philosopher? And then he asked Ludwig to write
+[<a id="00-49-53">00:49:53</a>]  But this is one of the reasons it changed my life
 
-[01:29:25] him something. And I think he read like a first sentence or something. Yeah, you need to be a
+[<a id="00-49-58">00:49:58</a>]  because anyone who's listening today
 
-[01:29:29] philosopher. And there was a story about Ludwig supposed to climb up a tree and stay on top of
+[<a id="00-50-00">00:50:00</a>]  is I don't know anything about you or myself.
 
-[01:29:35] that tree for a while or something. But he's famous for like that thing, like language game, right?
+[<a id="00-50-02">00:50:02</a>]  I work in adult business aka porn business full-time
 
-[01:29:39] And it's very mathematical. I tried to read it. I have no idea what he's saying. But he's just so
+[<a id="00-50-06">00:50:06</a>]  and I was watching a lot of those movies
 
-[01:29:45] beyond me, you know. So here's another theory I got is that different people have different ways
+[<a id="00-50-08">00:50:08</a>]  and make sure they're presentable for DVDs
 
-[01:29:53] of thinking. So I think mostly when you have like abstract, the question, the way you can understand
+[<a id="00-50-10">00:50:10</a>]  and things like that.
 
-[01:30:01] the way someone's brains work is you ask them an abstract question where they have to think about
+[<a id="00-50-11">00:50:11</a>]  And part of the problem is like
 
-[01:30:05] it. Oh, it doesn't work. And for me, I'm a visual thinker. So you asked me an abstract question.
+[<a id="00-50-13">00:50:13</a>]  when you see naked people all the time
 
-[01:30:11] What I'm going to do is my eyes will probably go to the left. I make some kind of picture in my head.
+[<a id="00-50-15">00:50:15</a>]  and they're having sex,
 
-[01:30:18] Right. And then I come back and interpret that picture with logic and words and whatever. You
+[<a id="00-50-16">00:50:16</a>]  eventually you don't even notice it anymore
 
-[01:30:24] have, I remember listening to Kanye on the Joe Rogan podcast. He was, what a fascinating guy.
+[<a id="00-50-19">00:50:19</a>]  because I've seen it so many times,
 
-[01:30:31] Yeah. And he sounds like a madman until in that podcast about two hours in,
+[<a id="00-50-20">00:50:20</a>]  there's nothing really special about that.
 
-[01:30:38] the whole thing that he'd been talking about suddenly started to make sense.
+[<a id="00-50-22">00:50:22</a>]  You literally take intimacy out of the whole thing.
 
-[01:30:43] Sure. And he's like a three or four dimensional thinker. He's got some hypercube.
+[<a id="00-50-26">00:50:26</a>]  I think probably like halfway through
 
-[01:30:49] Yeah. He's putting all this stuff and to try and explain it in an A equals B equals C manner,
+[<a id="00-50-31">00:50:31</a>]  working for the company, Evil Angel,
 
-[01:30:58] which is linear, makes no sense to people. If somebody asked me like five to seven,
+[<a id="00-50-33">00:50:33</a>]  I was working for them.
 
-[01:31:04] I don't know, influential word is right, impactful person. But let's say I have to pick like five,
+[<a id="00-50-34">00:50:34</a>]  My friend Aiden, one of the directors still for Evil Angel,
 
-[01:31:11] maybe 10 influential people last 10 years. I could have met them but I never met them.
+[<a id="00-50-39">00:50:39</a>]  he started doing this behind the scene where,
 
-[01:31:16] If I have to make a 10 people on that list, easily him, Trump, Elon Musk is there because they're
+[<a id="00-50-41">00:50:41</a>]  okay, the girls just have sex with a guy,
 
-[01:31:25] doing, I'm not saying what they're doing is right. It's just that they think different and they behave
+[<a id="00-50-43">00:50:43</a>]  showered, afterwards they're kind of having conversation.
 
-[01:31:30] differently and they're very, very interesting. Weirdly, Lausanne lady, she hated Elon Musk.
+[<a id="00-50-48">00:50:48</a>]  It doesn't necessarily like performances.
 
-[01:31:40] Is this a lady that you knew?
+[<a id="00-50-51">00:50:51</a>]  They just literally like talk to him for a long time.
 
-[01:31:42] It's the one that I was talking about before I met you.
+[<a id="00-50-53">00:50:53</a>]  And I don't think he did it on purpose,
 
-[01:31:48] Yeah.
+[<a id="00-50-56">00:50:56</a>]  but this is like the porn aversion
 
-[01:31:48] I think one thing-
+[<a id="00-50-58">00:50:58</a>]  what Joe Rogan's doing, which is like,
 
-[01:31:50] That's the area in Switzerland, right?
+[<a id="00-51-01">00:51:01</a>]  yeah, you could watch somebody fuck for like 10,
 
-[01:31:52] I've got to, I mean, I will just edit this. I think she got sex trafficked
+[<a id="00-51-02">00:51:02</a>]  15, 20 minutes or whatever,
 
-[01:31:57] by her dad who was high up at Swiss bank and he used to take her on business trips.
+[<a id="00-51-04">00:51:04</a>]  but you don't really know them until you talk to them.
 
-[01:32:03] There's a possibility she even, I see a possibility where she may have got abused by Elon Musk
+[<a id="00-51-06">00:51:06</a>]  And Aiden, there's something really interesting
 
-[01:32:13] as a kid. And so she had an ability to read people that was uncanny
+[<a id="00-51-08">00:51:08</a>]  when you talk to these performers,
 
-[01:32:22] and she did not like, she had this reaction to Elon Musk of like, he's an evil motherfucker.
+[<a id="00-51-09">00:51:09</a>]  both men and women or transgender person,
 
-[01:32:28] And Elon Musk is definitely has got multiple personalities.
+[<a id="00-51-12">00:51:12</a>]  sometimes 30, 40, 50 minutes, even hour,
 
-[01:32:33] To me, the most revealing thing with Elon Musk was when he was seeing his mom on SNL.
+[<a id="00-51-15">00:51:15</a>]  kind of sitting in a couch talking about stuff
 
-[01:32:40] And if you don't get a creepy vibe off his mom, then you're in a weird,
+[<a id="00-51-17">00:51:17</a>]  and that was part of the behind the scenes.
 
-[01:32:47] did you remember that? Did you see that?
+[<a id="00-51-18">00:51:18</a>]  Really, when they have a good conversation,
 
-[01:32:49] Yeah. Can you keep talking?
+[<a id="00-51-26">00:51:26</a>]  they're finding naked to me.
 
-[01:32:52] Let's take a break. I've got to piss.
+[<a id="00-51-28">00:51:28</a>]  Like being physical naked doesn't mean anything,
 
-[01:32:53] I've got to piss too.
+[<a id="00-51-30">00:51:30</a>]  but once they stop playing a character,
 
-[01:32:54] Yeah. Okay. You go first. I'll stop and we can resume.
+[<a id="00-51-34">00:51:34</a>]  a whore or stud,
 
-[01:32:58] And I could use a coffee chip all the time. How long have you been doing this? Is it work?
+[<a id="00-51-38">00:51:38</a>]  and they start talking as a person
+
+[<a id="00-51-41">00:51:41</a>]  and they talk something personal about themselves
+
+[<a id="00-51-43">00:51:43</a>]  and what led them to do porn,
+
+[<a id="00-51-45">00:51:45</a>]  to me, that was the most interesting part of my job later on
+
+[<a id="00-51-48">00:51:48</a>]  because you get kind of like,
+
+[<a id="00-51-51">00:51:51</a>]  a lot of my friends think that was a great job,
+
+[<a id="00-51-55">00:51:55</a>]  you get to watch porn all the time.
+
+[<a id="00-51-57">00:51:57</a>]  It's really exhausting after a while
+
+[<a id="00-51-58">00:51:58</a>]  because I don't care what kind of wonderful fantasy you have,
+
+[<a id="00-52-03">00:52:03</a>]  soon as you bring work and job into it,
+
+[<a id="00-52-07">00:52:07</a>]  it's not fantasy anymore.
+
+[<a id="00-52-08">00:52:08</a>]  It's just a miserable thing now.
+
+[<a id="00-52-10">00:52:10</a>]  You gotta work and really,
+
+[<a id="00-52-13">00:52:13</a>]  I think working for that business changed my life
+
+[<a id="00-52-17">00:52:17</a>]  because I think you start seeing these people
+
+[<a id="00-52-20">00:52:20</a>]  like the way they really are,
+
+[<a id="00-52-22">00:52:22</a>]  'cause I think this is a complete different
+
+[<a id="00-52-24">00:52:24</a>]  for like 99% of the concern of pornography.
+
+[<a id="00-52-27">00:52:27</a>]  Like I knew these people
+
+[<a id="00-52-29">00:52:29</a>]  and when something happened to them
+
+[<a id="00-52-32">00:52:32</a>]  or when they passed away,
+
+[<a id="00-52-34">00:52:34</a>]  and I know there's a lot of dark humor out there.
+
+[<a id="00-52-36">00:52:36</a>]  Like my friends would tell me like,
+
+[<a id="00-52-38">00:52:38</a>]  "Oh, X1C porn, I'm gonna watch your porn and jack up there."
+
+[<a id="00-52-42">00:52:42</a>]  And I would never tell them not to do anything
+
+[<a id="00-52-44">00:52:44</a>]  just 'cause I understand dark humor too,
+
+[<a id="00-52-46">00:52:46</a>]  but it's a little different when you work in those movies,
+
+[<a id="00-52-49">00:52:49</a>]  it's a little different when you knew them
+
+[<a id="00-52-51">00:52:51</a>]  and it's a little different when you're close to them
+
+[<a id="00-52-54">00:52:54</a>]  and see them passed away
+
+[<a id="00-52-55">00:52:55</a>]  and you know their families and friends
+
+[<a id="00-52-57">00:52:57</a>]  and things like that, you know?
+
+[<a id="00-52-58">00:52:58</a>]  So it did a lot of weird things, I guess.
+
+[<a id="00-53-03">00:53:03</a>]  It took me places that I wasn't expecting to.
+
+[<a id="00-53-06">00:53:06</a>]  And when I did Enbro Show last year,
+
+[<a id="00-53-10">00:53:10</a>]  the name of the show is adult content.
+
+[<a id="00-53-12">00:53:12</a>]  And I think people thought it's all gonna be
+
+[<a id="00-53-14">00:53:14</a>]  about pornographic stories,
+
+[<a id="00-53-17">00:53:17</a>]  but it's misunderstanding of that phrase, adult content.
+
+[<a id="00-53-21">00:53:21</a>]  I thought it means adult content,
+
+[<a id="00-53-24">00:53:24</a>]  like how to be happy as an adult.
+
+[<a id="00-53-25">00:53:25</a>]  And then it kind of become that
+
+[<a id="00-53-29">00:53:29</a>]  because whether working at the retail store
+
+[<a id="00-53-33">00:53:33</a>]  and talking to these customers,
+
+[<a id="00-53-34">00:53:34</a>]  lonely people, a big chunk of it,
+
+[<a id="00-53-37">00:53:37</a>]  life is a little more complicated.
+
+[<a id="00-53-40">00:53:40</a>]  It's easy to just categorize and call everybody pervert.
+
+[<a id="00-53-42">00:53:42</a>]  And I guess there's a big chunk of that too,
+
+[<a id="00-53-47">00:53:47</a>]  but I think more than anything,
+
+[<a id="00-53-49">00:53:49</a>]  I think vast majority of people
+
+[<a id="00-53-51">00:53:51</a>]  who consume pornography are not pervert.
+
+[<a id="00-53-53">00:53:53</a>]  I think they're very lonely people
+
+[<a id="00-53-56">00:53:56</a>]  and they're having a hard time making connections.
+
+[<a id="00-53-59">00:53:59</a>]  And it was a weirdly,
+
+[<a id="00-54-04">00:54:04</a>]  it gave me opportunity to be decent to people,
+
+[<a id="00-54-09">00:54:09</a>]  you know, because I'm not very decent
+
+[<a id="00-54-10">00:54:10</a>]  to stand up comedy show at times
+
+[<a id="00-54-12">00:54:12</a>]  because I do a lot of mean shit on stage a lot of time.
+
+[<a id="00-54-15">00:54:15</a>]  But I think working at the porn shop,
+
+[<a id="00-54-17">00:54:17</a>]  working at the convention floor,
+
+[<a id="00-54-19">00:54:19</a>]  whenever I was helping television show,
+
+[<a id="00-54-23">00:54:23</a>]  a movie show in Hollywood,
+
+[<a id="00-54-24">00:54:24</a>]  I will show the side that public don't really see, you know?
+
+[<a id="00-54-31">00:54:31</a>]  And I think, yeah, it changed my life, you know?
+
+[<a id="00-54-36">00:54:36</a>]  - That's an interesting thing.
+
+[<a id="00-54-38">00:54:38</a>]  - They were most, I like porn on people
+
+[<a id="00-54-41">00:54:41</a>]  because when they're most naked to me,
+
+[<a id="00-54-43">00:54:43</a>]  I don't care about the nudity and stuff.
+
+[<a id="00-54-45">00:54:45</a>]  I'm sick of that shit, you know?
+
+[<a id="00-54-47">00:54:47</a>]  But I think when I get to know them,
+
+[<a id="00-54-48">00:54:48</a>]  you see them really different.
+
+[<a id="00-54-51">00:54:51</a>]  They're just playing characters on the stage, really.
+
+[<a id="00-54-53">00:54:53</a>]  - I mean, this is an interesting,
+
+[<a id="00-54-56">00:54:56</a>]  you know what I mean?
+
+[<a id="00-54-57">00:54:57</a>]  Think of, so let me build up to a question.
+
+[<a id="00-55-00">00:55:00</a>]  - Like I said, this is like, you know,
+
+[<a id="00-55-03">00:55:03</a>]  we didn't have a agenda, what we're gonna talk about.
+
+[<a id="00-55-05">00:55:05</a>]  - Yeah, we just ramble at the place.
+
+[<a id="00-55-07">00:55:07</a>]  Like, I started doing comedy about,
+
+[<a id="00-55-10">00:55:10</a>]  it's now almost eight years and the first year-
+
+[<a id="00-55-14">00:55:14</a>]  - Your life rises?
+
+[<a id="00-55-15">00:55:15</a>]  - It was getting dumped by a Swiss woman,
+
+[<a id="00-55-19">00:55:19</a>]  which, I mean, okay, it might be kind of midlife crisis.
+
+[<a id="00-55-25">00:55:25</a>]  There are other reasons, like I also wanted a social life,
+
+[<a id="00-55-28">00:55:28</a>]  but it was just a point with like,
+
+[<a id="00-55-30">00:55:30</a>]  like I just had this energy.
+
+[<a id="00-55-33">00:55:33</a>]  I was so, there's so much like anger and confusion
+
+[<a id="00-55-37">00:55:37</a>]  and other stuff.
+
+[<a id="00-55-40">00:55:40</a>]  And I just need to let some energy out somewhere
+
+[<a id="00-55-45">00:55:45</a>]  and like, yeah, anyway,
+
+[<a id="00-55-47">00:55:47</a>]  that's a kind of a side quest if we go down there.
+
+[<a id="00-55-52">00:55:52</a>]  But the first couple of years,
+
+[<a id="00-55-55">00:55:55</a>]  I was very conflicted about how I felt
+
+[<a id="00-55-59">00:55:59</a>]  about presenting myself on stage because-
+
+[<a id="00-56-02">00:56:02</a>]  - What do you mean?
+
+[<a id="00-56-04">00:56:04</a>]  - 'Cause you're opening yourself to a lot of judgment.
+
+[<a id="00-56-11">00:56:11</a>]  - Yes.
+
+[<a id="00-56-11">00:56:11</a>]  - I mean, Patrice, I remember he has a,
+
+[<a id="00-56-14">00:56:14</a>]  I think it was in the Mark Maron interview
+
+[<a id="00-56-16">00:56:16</a>]  where he talks about like, when you do comedy,
+
+[<a id="00-56-19">00:56:19</a>]  it's like people see the laughter in this,
+
+[<a id="00-56-22">00:56:22</a>]  but you gave a piece of your soul to all those people.
+
+[<a id="00-56-26">00:56:26</a>]  - Yeah, something undeserving.
+
+[<a id="00-56-29">00:56:29</a>]  - Yeah, I mean, and they're gonna go
+
+[<a id="00-56-33">00:56:33</a>]  and make their interpretation of you.
+
+[<a id="00-56-35">00:56:35</a>]  You've left something of yourself
+
+[<a id="00-56-38">00:56:38</a>]  and it's nothing tangible,
+
+[<a id="00-56-40">00:56:40</a>]  but it's still, you're in other people's heads.
+
+[<a id="00-56-43">00:56:43</a>]  Like today we met this woman that I don't even,
+
+[<a id="00-56-45">00:56:45</a>]  I couldn't even remember her face.
+
+[<a id="00-56-46">00:56:46</a>]  - Yeah.
+
+[<a id="00-56-46">00:56:46</a>]  - But she's like, "Oh, Harry, I know."
+
+[<a id="00-56-48">00:56:48</a>]  And I'm like, "Okay."
+
+[<a id="00-56-49">00:56:49</a>]  But it was, for me, like it took a couple of years
+
+[<a id="00-56-55">00:56:55</a>]  and it's just finally I just,
+
+[<a id="00-56-57">00:56:57</a>]  the maths I did in my head is like,
+
+[<a id="00-56-59">00:56:59</a>]  I'm at a certain age, I don't give a shit.
+
+[<a id="00-57-01">00:57:01</a>]  - Well, I mean, this is-
+
+[<a id="00-57-03">00:57:03</a>]  - But to get to the question,
+
+[<a id="00-57-05">00:57:05</a>]  like, is there a similar thing in porn?
+
+[<a id="00-57-09">00:57:09</a>]  Like, the assumption I have is that a lot of people
+
+[<a id="00-57-14">00:57:14</a>]  get into porn because of trauma,
+
+[<a id="00-57-18">00:57:18</a>]  because it's an easy way to make money.
+
+[<a id="00-57-21">00:57:21</a>]  So it's a mix of trauma and money.
+
+[<a id="00-57-22">00:57:22</a>]  But then there's also this line of shame.
+
+[<a id="00-57-28">00:57:28</a>]  Like, what is the journey into porn?
+
+[<a id="00-57-33">00:57:33</a>]  Like you saw people, like was it...
+
+[<a id="00-57-38">00:57:38</a>]  I mean, the common thing they keep saying
+
+[<a id="00-57-40">00:57:40</a>]  that they want to explore their sexuality.
+
+[<a id="00-57-42">00:57:42</a>]  - Yeah, I never bought that shit.
+
+[<a id="00-57-43">00:57:43</a>]  It's empowerment.
+
+[<a id="00-57-44">00:57:44</a>]  - Empowerment.
+
+[<a id="00-57-45">00:57:45</a>]  - I'm sorry, but...
+
+[<a id="00-57-47">00:57:47</a>]  - I'm sure it's true for some of them.
+
+[<a id="00-57-53">00:57:53</a>]  And it is easy money, I guess,
+
+[<a id="00-57-56">00:57:56</a>]  especially like 20 years ago
+
+[<a id="00-57-58">00:57:58</a>]  when I started working for Evil Angel in 2003, 21 years ago.
+
+[<a id="00-58-07">00:58:07</a>]  It was kind of, unless I got to know them,
+
+[<a id="00-58-09">00:58:09</a>]  you know, like, I mean, I take their words for what it is.
+
+[<a id="00-58-14">00:58:14</a>]  When I talked to my friend, Peter Warren from AVN,
+
+[<a id="00-58-20">00:58:20</a>]  he think 100% of all the performers, female especially,
+
+[<a id="00-58-23">00:58:23</a>]  they've been molested.
+
+[<a id="00-58-24">00:58:24</a>]  That's why they get into this.
+
+[<a id="00-58-25">00:58:25</a>]  I don't know if it's that high,
+
+[<a id="00-58-26">00:58:26</a>]  but whatever it is,
+
+[<a id="00-58-30">00:58:30</a>]  I always try to have respect for them.
+
+[<a id="00-58-32">00:58:32</a>]  And if they choose to, once they choose to do it,
+
+[<a id="00-58-37">00:58:37</a>]  there's no point in trying to shame somebody.
+
+[<a id="00-58-39">00:58:39</a>]  You know, I work in the business, you know?
+
+[<a id="00-58-40">00:58:40</a>]  - Oh, yeah, yeah.
+
+[<a id="00-58-41">00:58:41</a>]  I mean, I think, yeah, my bullshit reaction is like,
+
+[<a id="00-58-45">00:58:45</a>]  when I think of, like, what is the word empowerment?
+
+[<a id="00-58-49">00:58:49</a>]  It's that you have actual power
+
+[<a id="00-58-53">00:58:53</a>]  and maybe it feels like you have power
+
+[<a id="00-58-57">00:58:57</a>]  if you're a porn star,
+
+[<a id="00-58-59">00:58:59</a>]  but the real power is with whoever is making the big money.
+
+[<a id="00-59-05">00:59:05</a>]  And then actual power in the world is with people
+
+[<a id="00-59-09">00:59:09</a>]  that have guns on their side and soldiers.
+
+[<a id="00-59-12">00:59:12</a>]  Like, so this word empowerment is like,
+
+[<a id="00-59-15">00:59:15</a>]  it's kind of a lie in itself.
+
+[<a id="00-59-17">00:59:17</a>]  - It's a little weird because I think,
+
+[<a id="00-59-19">00:59:19</a>]  especially from like early '90s,
+
+[<a id="00-59-24">00:59:24</a>]  you know, after the Cold War ended,
+
+[<a id="00-59-25">00:59:25</a>]  you have a lot of these Eastern European performers,
+
+[<a id="00-59-28">00:59:28</a>]  you know, and they're doing a completely different thing
+
+[<a id="00-59-30">00:59:30</a>]  'cause growing up in Europe,
+
+[<a id="00-59-32">00:59:32</a>]  they don't have hang up about sex and nudity,
+
+[<a id="00-59-34">00:59:34</a>]  but if they're from Eastern Europe
+
+[<a id="00-59-36">00:59:36</a>]  and they're in porn back then,
+
+[<a id="00-59-37">00:59:37</a>]  it's probably more like financial reasons, you know?
+
+[<a id="00-59-39">00:59:39</a>]  'Cause a lot of money they got is just staggering
+
+[<a id="00-59-41">00:59:41</a>]  'cause you could never make that kind of money in the States.
+
+[<a id="00-59-44">00:59:44</a>]  So I think I had a tendency to
+
+[<a id="00-59-47">00:59:47</a>]  more sympathetic to Eastern European performers
+
+[<a id="00-59-54">00:59:54</a>]  because if you do it right,
+
+[<a id="00-59-56">00:59:56</a>]  if you work long enough and save enough money,
+
+[<a id="00-59-59">00:59:59</a>]  you could go back to Europe.
+
+[<a id="01-00-00">01:00:00</a>]  It's a generational wealth.
+
+[<a id="01-00-01">01:00:01</a>]  It could change your family's destiny, you know?
+
+[<a id="01-00-05">01:00:05</a>]  But if you're living, if you're born in America
+
+[<a id="01-00-07">01:00:07</a>]  and you have all these opportunities to get into porn,
+
+[<a id="01-00-09">01:00:09</a>]  they get a little complicated, right?
+
+[<a id="01-00-11">01:00:11</a>]  You know, you could have gotten acting
+
+[<a id="01-00-13">01:00:13</a>]  or got a degree and become a doctor or whatnot, you know?
+
+[<a id="01-00-16">01:00:16</a>]  And, but at the end of the day,
+
+[<a id="01-00-18">01:00:18</a>]  it's not really my place to ask them
+
+[<a id="01-00-22">01:00:22</a>]  unless I got to know them
+
+[<a id="01-00-23">01:00:23</a>]  because my job was basically post-production DVDs,
+
+[<a id="01-00-26">01:00:26</a>]  you know, like I think 2003 to 2007,
+
+[<a id="01-00-30">01:00:30</a>]  I probably saw a lot of performers showing up at the office,
+
+[<a id="01-00-33">01:00:33</a>]  but by 2009 and 10,
+
+[<a id="01-00-36">01:00:36</a>]  I hardly ever saw too many people showing up at the office,
+
+[<a id="01-00-38">01:00:38</a>]  you know, 'cause by then,
+
+[<a id="01-00-39">01:00:39</a>]  a lot of online stuff was changing the business,
+
+[<a id="01-00-42">01:00:42</a>]  but it's so different now.
+
+[<a id="01-00-45">01:00:45</a>]  It's a completely different business.
+
+[<a id="01-00-46">01:00:46</a>]  I'm having a hard time reading
+
+[<a id="01-00-48">01:00:48</a>]  and figuring out what's going on in the business, you know?
+
+[<a id="01-00-50">01:00:50</a>]  It's a different animal, you know?
+
+[<a id="01-00-52">01:00:52</a>]  - Yeah, like OnlyFans and stuff.
+
+[<a id="01-00-54">01:00:54</a>]  - Yeah, I mean, the power has shifted away
+
+[<a id="01-00-56">01:00:56</a>]  from production to porn girls, you know?
+
+[<a id="01-00-58">01:00:58</a>]  Which is good.
+
+[<a id="01-00-59">01:00:59</a>]  - Yeah, definitely.
+
+[<a id="01-01-00">01:01:00</a>]  I mean, I send you that.
+
+[<a id="01-01-01">01:01:01</a>]  I send you that thing.
+
+[<a id="01-01-03">01:01:03</a>]  There's this lady blowing up on TikTok,
+
+[<a id="01-01-05">01:01:05</a>]  Angela Blue or something.
+
+[<a id="01-01-06">01:01:06</a>]  - Oh yeah, I find her a very attractive lady.
+
+[<a id="01-01-09">01:01:09</a>]  - And she's very attractive,
+
+[<a id="01-01-11">01:01:11</a>]  and she's kind of done the Andrew Tate approach.
+
+[<a id="01-01-15">01:01:15</a>]  - She's trolling.
+
+[<a id="01-01-16">01:01:16</a>]  - Exactly, she's trolling.
+
+[<a id="01-01-18">01:01:18</a>]  She's saying, going around to schools,
+
+[<a id="01-01-20">01:01:20</a>]  fucking 18-year-old boys.
+
+[<a id="01-01-22">01:01:22</a>]  Now she's moved on to dance.
+
+[<a id="01-01-24">01:01:24</a>]  She's like, come to this hotel if you're a dad.
+
+[<a id="01-01-26">01:01:26</a>]  - Yeah.
+
+[<a id="01-01-27">01:01:27</a>]  - I don't care if you're married,
+
+[<a id="01-01-29">01:01:29</a>]  and then they make a video out of this.
+
+[<a id="01-01-30">01:01:30</a>]  - Yeah.
+
+[<a id="01-01-31">01:01:31</a>]  - And it's trolling, yeah,
+
+[<a id="01-01-34">01:01:34</a>]  because everyone's like, it's causing a reaction.
+
+[<a id="01-01-37">01:01:37</a>]  - Yeah, and to me, she's not a whore.
+
+[<a id="01-01-40">01:01:40</a>]  To me, she's a smart businesswoman
+
+[<a id="01-01-42">01:01:42</a>]  that she knows how to get attention, make money, you know?
+
+[<a id="01-01-44">01:01:44</a>]  'Cause I think, you know, my personal opinion is like,
+
+[<a id="01-01-47">01:01:47</a>]  you do things and it doesn't bother you,
+
+[<a id="01-01-53">01:01:53</a>]  whether you become an actor or a comedian or a porn star,
+
+[<a id="01-01-56">01:01:56</a>]  but you don't want your kids to do the same thing
+
+[<a id="01-01-57">01:01:57</a>]  and go through the suffering, you know?
+
+[<a id="01-01-59">01:01:59</a>]  But if you do it, if you become a porn star,
+
+[<a id="01-02-01">01:02:01</a>]  you make millions of dollars,
+
+[<a id="01-02-02">01:02:02</a>]  you lose maybe public respect for you,
+
+[<a id="01-02-06">01:02:06</a>]  and people might think,
+
+[<a id="01-02-07">01:02:07</a>]  doesn't think too much of you,
+
+[<a id="01-02-10">01:02:10</a>]  but if you make enough money
+
+[<a id="01-02-12">01:02:12</a>]  to take care of your family and kids
+
+[<a id="01-02-13">01:02:13</a>]  for generations to come,
+
+[<a id="01-02-14">01:02:14</a>]  you know, like, good for her, you know?
+
+[<a id="01-02-17">01:02:17</a>]  I really think it depends on why you did it, really.
+
+[<a id="01-02-21">01:02:21</a>]  - Yeah, I guess.
+
+[<a id="01-02-23">01:02:23</a>]  I mean, it's not my place to tell them
+
+[<a id="01-02-27">01:02:27</a>]  how to live their lives, you know?
+
+[<a id="01-02-29">01:02:29</a>]  - Yeah, yeah, yeah.
+
+[<a id="01-02-29">01:02:29</a>]  I mean, I buy the frame that you mentioned,
+
+[<a id="01-02-34">01:02:34</a>]  said 100% have some kind of child.
+
+[<a id="01-02-37">01:02:37</a>]  'Cause the thing is, I think for people,
+
+[<a id="01-02-39">01:02:39</a>]  most people, the idea of,
+
+[<a id="01-02-43">01:02:43</a>]  like, or if I put it in, this is a male point of view,
+
+[<a id="01-02-47">01:02:47</a>]  but like, in periods in my life
+
+[<a id="01-02-51">01:02:51</a>]  where I've been like, fucking around, basically,
+
+[<a id="01-02-54">01:02:54</a>]  with different women,
+
+[<a id="01-02-56">01:02:56</a>]  there's a certain point where my body's just like,
+
+[<a id="01-02-59">01:02:59</a>]  like, even my dick is like,
+
+[<a id="01-03-01">01:03:01</a>]  dude, who the fuck is this?
+
+[<a id="01-03-03">01:03:03</a>]  I'm not even interested.
+
+[<a id="01-03-04">01:03:04</a>]  And just because it's like the intimacy,
+
+[<a id="01-03-09">01:03:09</a>]  you get to know someone, you get some depth.
+
+[<a id="01-03-12">01:03:12</a>]  That's like, I'm more turned on by someone
+
+[<a id="01-03-15">01:03:15</a>]  that I've been with for six months,
+
+[<a id="01-03-17">01:03:17</a>]  and then we know each other,
+
+[<a id="01-03-19">01:03:19</a>]  physically we know each other,
+
+[<a id="01-03-21">01:03:21</a>]  and then, yeah, and so sleeping around,
+
+[<a id="01-03-26">01:03:26</a>]  it's like, it's confusing to the body.
+
+[<a id="01-03-28">01:03:28</a>]  - It's confusing, but I've been telling you too,
+
+[<a id="01-03-31">01:03:31</a>]  and I think the first couple,
+
+[<a id="01-03-34">01:03:34</a>]  I don't know, maybe first time I told you, you laughed,
+
+[<a id="01-03-35">01:03:35</a>]  but I think sex is really overrated, you know?
+
+[<a id="01-03-39">01:03:39</a>]  - Yeah, yeah, yeah, yeah.
+
+[<a id="01-03-40">01:03:40</a>]  - And when people say,
+
+[<a id="01-03-44">01:03:44</a>]  you work in porn business for a long time,
+
+[<a id="01-03-45">01:03:45</a>]  you know so many people in business,
+
+[<a id="01-03-47">01:03:47</a>]  you must have a weird fetish,
+
+[<a id="01-03-48">01:03:48</a>]  and I was thinking like,
+
+[<a id="01-03-49">01:03:49</a>]  you know, these days my fetish is like,
+
+[<a id="01-03-51">01:03:51</a>]  girls showing up on time,
+
+[<a id="01-03-53">01:03:53</a>]  stop yelling at me, you know?
+
+[<a id="01-03-57">01:03:57</a>]  Stop nagging, those are the fetishes.
+
+[<a id="01-03-59">01:03:59</a>]  You don't even have to take your clothes off.
+
+[<a id="01-04-01">01:04:01</a>]  It's like, we're not gonna have a good sex anyway.
+
+[<a id="01-04-03">01:04:03</a>]  I'm 55, wait, wait.
+
+[<a id="01-04-04">01:04:04</a>]  You know, at a certain point, like,
+
+[<a id="01-04-06">01:04:06</a>]  you know, it's just, it's grossly exaggerated,
+
+[<a id="01-04-13">01:04:13</a>]  because after you have sex,
+
+[<a id="01-04-14">01:04:14</a>]  like, God, all that hassle to get it,
+
+[<a id="01-04-16">01:04:16</a>]  dinner, movies and stuff,
+
+[<a id="01-04-18">01:04:18</a>]  it's just so much headache.
+
+[<a id="01-04-20">01:04:20</a>]  - Yeah, I mean, it's actually,
+
+[<a id="01-04-21">01:04:21</a>]  I love that point of view,
+
+[<a id="01-04-23">01:04:23</a>]  'cause we were talking about that on the phone.
+
+[<a id="01-04-25">01:04:25</a>]  I thought it's hilarious, because--
+
+[<a id="01-04-27">01:04:27</a>]  - I'm trying not to be ironic, but like,
+
+[<a id="01-04-30">01:04:30</a>]  I know you, but you know, like--
+
+[<a id="01-04-31">01:04:31</a>]  - But if I look back at my life,
+
+[<a id="01-04-33">01:04:33</a>]  the amount of time and effort
+
+[<a id="01-04-35">01:04:35</a>]  I've put into getting laid,
+
+[<a id="01-04-37">01:04:37</a>]  and it's never been anything,
+
+[<a id="01-04-40">01:04:40</a>]  okay, once or twice it's been like,
+
+[<a id="01-04-42">01:04:42</a>]  okay, that was an interesting experience.
+
+[<a id="01-04-44">01:04:44</a>]  - Yeah.
+
+[<a id="01-04-45">01:04:45</a>]  - But generally speaking,
+
+[<a id="01-04-46">01:04:46</a>]  it's never been worth the effort.
+
+[<a id="01-04-48">01:04:48</a>]  It's like, and if I think about
+
+[<a id="01-04-52">01:04:52</a>]  how much better my life would be
+
+[<a id="01-04-54">01:04:54</a>]  if I hadn't had a dick chasing women around.
+
+[<a id="01-04-56">01:04:56</a>]  - Yeah.
+
+[<a id="01-04-57">01:04:57</a>]  - I mean, it's a paradox.
+
+[<a id="01-04-59">01:04:59</a>]  I became a dad through that.
+
+[<a id="01-05-00">01:05:00</a>]  - Yeah.
+
+[<a id="01-05-01">01:05:01</a>]  - And when becoming a dad
+
+[<a id="01-05-02">01:05:02</a>]  made me a much better person,
+
+[<a id="01-05-06">01:05:06</a>]  like a much more able to handle stress,
+
+[<a id="01-05-09">01:05:09</a>]  much less--
+
+[<a id="01-05-10">01:05:10</a>]  - When you're caring for someone, sure.
+
+[<a id="01-05-13">01:05:13</a>]  It has a civilizing effect, I think.
+
+[<a id="01-05-14">01:05:14</a>]  - It, but it forced me to level up in big ways.
+
+[<a id="01-05-19">01:05:19</a>]  - Yeah.
+
+[<a id="01-05-19">01:05:19</a>]  - Because the first thing,
+
+[<a id="01-05-22">01:05:22</a>]  and the first thing is just,
+
+[<a id="01-05-24">01:05:24</a>]  I remember like with my daughter,
+
+[<a id="01-05-27">01:05:27</a>]  I think, I know, she's like three months old.
+
+[<a id="01-05-30">01:05:30</a>]  - Yeah.
+
+[<a id="01-05-31">01:05:31</a>]  - And she's, you know, I'm lying next to her,
+
+[<a id="01-05-35">01:05:35</a>]  she's asleep in bed,
+
+[<a id="01-05-36">01:05:36</a>]  and I've just got this terror of like,
+
+[<a id="01-05-39">01:05:39</a>]  fuck, I'm responsible for this life now.
+
+[<a id="01-05-43">01:05:43</a>]  And it's like, that means I can't die.
+
+[<a id="01-05-45">01:05:45</a>]  - Yeah.
+
+[<a id="01-05-46">01:05:46</a>]  - I have to make sure this thing lives.
+
+[<a id="01-05-49">01:05:49</a>]  And that's, and that was the first time
+
+[<a id="01-05-52">01:05:52</a>]  I've ever had that kind of responsibility.
+
+[<a id="01-05-54">01:05:54</a>]  But then the other side of that is
+
+[<a id="01-05-57">01:05:57</a>]  I don't look after myself very well,
+
+[<a id="01-06-00">01:06:00</a>]  or I don't even stand up for myself in most situations.
+
+[<a id="01-06-05">01:06:05</a>]  Taking years to learn to,
+
+[<a id="01-06-07">01:06:07</a>]  when someone's doing some bullshit towards me
+
+[<a id="01-06-09">01:06:09</a>]  to say fuck off.
+
+[<a id="01-06-10">01:06:10</a>]  But if somebody does the same shit to my kids,
+
+[<a id="01-06-14">01:06:14</a>]  - Yeah.
+
+[<a id="01-06-14">01:06:14</a>]  - I become a person who maybe would be willing to do anything.
+
+[<a id="01-06-21">01:06:21</a>]  - Of course.
+
+[<a id="01-06-22">01:06:22</a>]  - And to me, that's fascinating
+
+[<a id="01-06-24">01:06:24</a>]  'cause it's this animal energy.
+
+[<a id="01-06-26">01:06:26</a>]  It's like, oh, you fuck with my kids?
+
+[<a id="01-06-28">01:06:28</a>]  - Yes.
+
+[<a id="01-06-29">01:06:29</a>]  - That's where it's like soprano level energy.
+
+[<a id="01-06-32">01:06:32</a>]  And that's fascinating to me because,
+
+[<a id="01-06-36">01:06:36</a>]  yeah, I don't know where I'm going with this now,
+
+[<a id="01-06-40">01:06:40</a>]  but it's just like,
+
+[<a id="01-06-41">01:06:41</a>]  I've benefited a lot from having kids
+
+[<a id="01-06-44">01:06:44</a>]  because it made me maybe a more powerful human being.
+
+[<a id="01-06-49">01:06:49</a>]  Because otherwise I would just have been gaming
+
+[<a id="01-06-52">01:06:52</a>]  and doing bullshit.
+
+[<a id="01-06-53">01:06:53</a>]  - Yeah.
+
+[<a id="01-06-54">01:06:54</a>]  - And like, you know.
+
+[<a id="01-06-56">01:06:56</a>]  - One of my friend, Tom,
+
+[<a id="01-06-57">01:06:57</a>]  when I met him within five minutes,
+
+[<a id="01-07-01">01:07:01</a>]  he was a friend of my other close friend
+
+[<a id="01-07-03">01:07:03</a>]  and then my other friend knew
+
+[<a id="01-07-06">01:07:06</a>]  Tom would just piss me off right away.
+
+[<a id="01-07-10">01:07:10</a>]  So he delivered it by him knowing he's gonna piss me off
+
+[<a id="01-07-13">01:07:13</a>]  and I fucking hated it.
+
+[<a id="01-07-14">01:07:14</a>]  But after he got married and had kids,
+
+[<a id="01-07-16">01:07:16</a>]  he had a civilized effect.
+
+[<a id="01-07-17">01:07:17</a>]  He's a good man.
+
+[<a id="01-07-18">01:07:18</a>]  He's a good father, good husband.
+
+[<a id="01-07-20">01:07:20</a>]  And it kind of shocked him
+
+[<a id="01-07-21">01:07:21</a>]  because I never thought he had it in him to do that.
+
+[<a id="01-07-23">01:07:23</a>]  But, you know, marriage for some people really works.
+
+[<a id="01-07-27">01:07:27</a>]  - Yeah.
+
+[<a id="01-07-28">01:07:28</a>]  - Like having kids for people works, you know?
+
+[<a id="01-07-31">01:07:31</a>]  - All right, difficult question.
+
+[<a id="01-07-34">01:07:34</a>]  What's the thing that pisses you off?
+
+[<a id="01-07-38">01:07:38</a>]  What do you do when you get pissed off?
+
+[<a id="01-07-40">01:07:40</a>]  Like, how did Tom piss you off?
+
+[<a id="01-07-42">01:07:42</a>]  - Oh, it's been, oh, he was just like,
+
+[<a id="01-07-45">01:07:45</a>]  started mocking me and just harassing me right away.
+
+[<a id="01-07-48">01:07:48</a>]  But I don't remember exactly all the detail.
+
+[<a id="01-07-51">01:07:51</a>]  All I remember at the time, just like 90 or 91,
+
+[<a id="01-07-56">01:07:56</a>]  I just met him.
+
+[<a id="01-07-57">01:07:57</a>]  My friend Fred was giggling
+
+[<a id="01-07-59">01:07:59</a>]  'cause he knew Tom's gonna irritate me.
+
+[<a id="01-08-01">01:08:01</a>]  He just wanted to bring him and introduce me
+
+[<a id="01-08-03">01:08:03</a>]  so he'll irritate me.
+
+[<a id="01-08-04">01:08:04</a>]  - Oh, so he's like one of these comedians that's on a permit.
+
+[<a id="01-08-07">01:08:07</a>]  - No, they're not comedians.
+
+[<a id="01-08-08">01:08:08</a>]  They were just regular guys.
+
+[<a id="01-08-09">01:08:09</a>]  - But you know, you get, I don't mean,
+
+[<a id="01-08-11">01:08:11</a>]  but he was like he's on a permanent roast battle.
+
+[<a id="01-08-13">01:08:13</a>]  So he's roasting.
+
+[<a id="01-08-14">01:08:14</a>]  - He was just, Tom was being a dick at the time, you know?
+
+[<a id="01-08-16">01:08:16</a>]  - Okay.
+
+[<a id="01-08-17">01:08:17</a>]  - And my whole reaction at the time was,
+
+[<a id="01-08-19">01:08:19</a>]  I'm just gonna get a pencil, just stab me in the eye.
+
+[<a id="01-08-21">01:08:21</a>]  That was my reaction.
+
+[<a id="01-08-24">01:08:24</a>]  But it's amazing, his daughter just had a daughter.
+
+[<a id="01-08-28">01:08:28</a>]  So he's a grandfather now.
+
+[<a id="01-08-29">01:08:29</a>]  - Holy shit.
+
+[<a id="01-08-31">01:08:31</a>]  - Among my friends, among my friends,
+
+[<a id="01-08-34">01:08:34</a>]  I think he's the first grandfather.
+
+[<a id="01-08-36">01:08:36</a>]  Kind of weirdly weird to say that.
+
+[<a id="01-08-38">01:08:38</a>]  - Do you have kids?
+
+[<a id="01-08-40">01:08:40</a>]  - No, no, no, I don't have kids.
+
+[<a id="01-08-41">01:08:41</a>]  - 'Cause you strike me as someone,
+
+[<a id="01-08-46">01:08:46</a>]  there might be 50 kids around the world.
+
+[<a id="01-08-49">01:08:49</a>]  - No, no, no.
+
+[<a id="01-08-50">01:08:50</a>]  I had an inkling early on that I'll be a terrible father
+
+[<a id="01-08-57">01:08:57</a>]  and I don't have a very close relationship with my parents.
+
+[<a id="01-09-00">01:09:00</a>]  They're not bad people, but they were not good parents.
+
+[<a id="01-09-02">01:09:02</a>]  And I'm not a good son either.
+
+[<a id="01-09-04">01:09:04</a>]  But good parenting, it's like pornography,
+
+[<a id="01-09-09">01:09:09</a>]  you know it when you see it, right?
+
+[<a id="01-09-10">01:09:10</a>]  And then my mother was basically,
+
+[<a id="01-09-14">01:09:14</a>]  I think she was kind of pushed to marry my dad.
+
+[<a id="01-09-17">01:09:17</a>]  So I think, it's not a fun thing to say,
+
+[<a id="01-09-21">01:09:21</a>]  but I think every time she saw me,
+
+[<a id="01-09-23">01:09:23</a>]  it reminded her of happiness.
+
+[<a id="01-09-26">01:09:26</a>]  So she's a very atypical Asian mother
+
+[<a id="01-09-30">01:09:30</a>]  because most Asian mothers were sacrificing their lives
+
+[<a id="01-09-32">01:09:32</a>]  for their kids, she was complete opposite.
+
+[<a id="01-09-34">01:09:34</a>]  She just didn't give a shit about that, you know?
+
+[<a id="01-09-36">01:09:36</a>]  She was drinking a lot too.
+
+[<a id="01-09-38">01:09:38</a>]  - You reminded me of the, okay,
+
+[<a id="01-09-42">01:09:42</a>]  I refer to her as laws and ladies,
+
+[<a id="01-09-45">01:09:45</a>]  the crazy one that I met before I met you.
+
+[<a id="01-09-48">01:09:48</a>]  And this is a conversation she had as well.
+
+[<a id="01-09-52">01:09:52</a>]  It's like, I don't wanna have children
+
+[<a id="01-09-54">01:09:54</a>]  'cause I don't want this line to continue
+
+[<a id="01-09-58">01:09:58</a>]  because like there is a fucked upness in this family
+
+[<a id="01-10-02">01:10:02</a>]  that I don't wanna pass on to.
+
+[<a id="01-10-04">01:10:04</a>]  - I mean, I guess technically somebody could ask me like,
+
+[<a id="01-10-07">01:10:07</a>]  could you move away and not do what your parents did?
+
+[<a id="01-10-12">01:10:12</a>]  But the reality is I am my dad and my mother's son.
+
+[<a id="01-10-16">01:10:16</a>]  - So you're making a Darwinian choice
+
+[<a id="01-10-18">01:10:18</a>]  for the human race in a way.
+
+[<a id="01-10-19">01:10:19</a>]  - I don't take pleasure hurting people
+
+[<a id="01-10-25">01:10:25</a>]  and I feel a little weird about bringing a life
+
+[<a id="01-10-32">01:10:32</a>]  and not for family.
+
+[<a id="01-10-34">01:10:34</a>]  So I had a vasectomy in like late 90s.
+
+[<a id="01-10-37">01:10:37</a>]  So that guaranteed that I'm not gonna have kids.
+
+[<a id="01-10-40">01:10:40</a>]  I mean, there's times when I see a couple
+
+[<a id="01-10-42">01:10:42</a>]  of my friend's kids like, well, they're amazing kids.
+
+[<a id="01-10-44">01:10:44</a>]  It doesn't make me think like it would have been wonderful
+
+[<a id="01-10-46">01:10:46</a>]  to have a kid 'cause they're such a sweet kids, you know?
+
+[<a id="01-10-48">01:10:48</a>]  My friend, Mikey, his daughter, Gabby,
+
+[<a id="01-10-53">01:10:53</a>]  second kid in the family and she's a beautiful girl,
+
+[<a id="01-10-58">01:10:58</a>]  very funny, but she makes me laugh
+
+[<a id="01-11-01">01:11:01</a>]  because she does gymnastic
+
+[<a id="01-11-03">01:11:03</a>]  and their coach is a gay black guy.
+
+[<a id="01-11-06">01:11:06</a>]  - I don't know why that's funny, but it makes me laugh.
+
+[<a id="01-11-10">01:11:10</a>]  A gay black coach teaching ballet.
+
+[<a id="01-11-13">01:11:13</a>]  - Gymnastic and I don't remember what he said,
+
+[<a id="01-11-19">01:11:19</a>]  perfection or, you know, you have to do the drill better
+
+[<a id="01-11-26">01:11:26</a>]  or, you know, I don't know what he said,
+
+[<a id="01-11-32">01:11:32</a>]  but she turned around and said,
+
+[<a id="01-11-35">01:11:35</a>]  "Oh, you mean like you're losing your hair
+
+[<a id="01-11-38">01:11:38</a>]  in the middle of your..."
+
+[<a id="01-11-39">01:11:39</a>]  Something about this gay black guy's look
+
+[<a id="01-11-43">01:11:43</a>]  that he fought so hard to hide,
+
+[<a id="01-11-46">01:11:46</a>]  but teenage girls are terrified
+
+[<a id="01-11-48">01:11:48</a>]  because they know all your insecurity.
+
+[<a id="01-11-50">01:11:50</a>]  She made this guy cry and most adults will say,
+
+[<a id="01-11-56">01:11:56</a>]  "Gabby, that's terrible. I couldn't stop laughing.
+
+[<a id="01-11-58">01:11:58</a>]  Good for you. I wish I had the money to give it to her."
+
+[<a id="01-12-01">01:12:01</a>]  Yeah, go to the world and hurt people's feelings.
+
+[<a id="01-12-05">01:12:05</a>]  That's what I was telling this girl.
+
+[<a id="01-12-07">01:12:07</a>]  So if I had a daughter like that,
+
+[<a id="01-12-08">01:12:08</a>]  oh my God, she's so sassy and sarcastic.
+
+[<a id="01-12-12">01:12:12</a>]  I love kids like that,
+
+[<a id="01-12-13">01:12:13</a>]  but boy, teenage kids are so good at detecting your weakness
+
+[<a id="01-12-18">01:12:18</a>]  and they just stab you.
+
+[<a id="01-12-21">01:12:21</a>]  But yeah, every time I see her or when Mikey told me,
+
+[<a id="01-12-27">01:12:27</a>]  "Guess what my daughter did this week?
+
+[<a id="01-12-28">01:12:28</a>]  I can't stop laughing."
+
+[<a id="01-12-30">01:12:30</a>]  See, if I had a kid like that, good, fine.
+
+[<a id="01-12-32">01:12:32</a>]  That's wonderful, you know?
+
+[<a id="01-12-33">01:12:33</a>]  But knowing myself,
+
+[<a id="01-12-35">01:12:35</a>]  I probably have some miserable prick as a kid
+
+[<a id="01-12-37">01:12:37</a>]  because I was a miserable prick as a kid.
+
+[<a id="01-12-40">01:12:40</a>]  - I mean, I guess, well, to apropo your point,
+
+[<a id="01-12-44">01:12:44</a>]  like my daughter, I don't argue with my daughter anymore
+
+[<a id="01-12-47">01:12:47</a>]  because...
+
+[<a id="01-12-48">01:12:48</a>]  - Never fight a war you can't win.
+
+[<a id="01-12-51">01:12:51</a>]  - Exactly.
+
+[<a id="01-12-52">01:12:52</a>]  - She's 11 and a bit, a teenage girl.
+
+[<a id="01-12-54">01:12:54</a>]  - Well, she's 21 now.
+
+[<a id="01-12-56">01:12:56</a>]  She knows all my insecurities at a primal level.
+
+[<a id="01-13-03">01:13:03</a>]  She's grown up with them from the age of a kid.
+
+[<a id="01-13-07">01:13:07</a>]  And like a two-year-old, they don't listen to anything you say.
+
+[<a id="01-13-11">01:13:11</a>]  They read you, they read your soul.
+
+[<a id="01-13-14">01:13:14</a>]  - She's like Scientology.
+
+[<a id="01-13-16">01:13:16</a>]  She knows your dark secret, know how to exploit you.
+
+[<a id="01-13-18">01:13:18</a>]  - Exactly.
+
+[<a id="01-13-19">01:13:19</a>]  - And you know, when the fights begin,
+
+[<a id="01-13-22">01:13:22</a>]  she'll press something and it's like, "Oh, man."
+
+[<a id="01-13-26">01:13:26</a>]  - She remembers.
+
+[<a id="01-13-27">01:13:27</a>]  - But that's just like...
+
+[<a id="01-13-29">01:13:29</a>]  But the thing is, yeah, I don't know.
+
+[<a id="01-13-34">01:13:34</a>]  I guess the thing that people should know about parenting
+
+[<a id="01-13-39">01:13:39</a>]  is that when, especially when they're young,
+
+[<a id="01-13-41">01:13:41</a>]  this is, like I was thinking about
+
+[<a id="01-13-43">01:13:43</a>]  why does so many people fuck up as parents?
+
+[<a id="01-13-45">01:13:45</a>]  I think mostly I didn't fuck up
+
+[<a id="01-13-48">01:13:48</a>]  and because I looked at where I was in my life,
+
+[<a id="01-13-52">01:13:52</a>]  I'm like, this is the one thing I'm determined not to fuck this up.
+
+[<a id="01-13-57">01:13:57</a>]  And the early stages where the kids up to the age of about eight,
+
+[<a id="01-14-03">01:14:03</a>]  it's like going back to stone age times.
+
+[<a id="01-14-08">01:14:08</a>]  So we live in this beautiful modern world
+
+[<a id="01-14-11">01:14:11</a>]  where you can get a green tea frappuccino and this kind of stuff,
+
+[<a id="01-14-14">01:14:14</a>]  but then you have kids and you're wiping human shit off every day.
+
+[<a id="01-14-19">01:14:19</a>]  You're dealing with this thing that screams.
+
+[<a id="01-14-22">01:14:22</a>]  - Who's older, a boy or a girl?
+
+[<a id="01-14-24">01:14:24</a>]  - The girl is older.
+
+[<a id="01-14-25">01:14:25</a>]  - Okay.
+
+[<a id="01-14-25">01:14:25</a>]  - Thank God, it's better to have an older daughter
+
+[<a id="01-14-28">01:14:28</a>]  because she sets a more calm tone.
+
+[<a id="01-14-31">01:14:31</a>]  And then you're woken up.
+
+[<a id="01-14-34">01:14:34</a>]  Like there was three years where I got maximum like three hours sleep a night
+
+[<a id="01-14-40">01:14:40</a>]  because my daughter would wake up crying or my son.
+
+[<a id="01-14-44">01:14:44</a>]  And I remember this one time, it's summertime, it's hot, it's 3 a.m.
+
+[<a id="01-14-51">01:14:51</a>]  I'm like a zombie.
+
+[<a id="01-14-53">01:14:53</a>]  My daughter woke up, she's crying.
+
+[<a id="01-14-56">01:14:56</a>]  I'm rocking her in my arms back to sleep
+
+[<a id="01-14-59">01:14:59</a>]  and I'm stood in front of this window because it's hot
+
+[<a id="01-15-01">01:15:01</a>]  and it's like some cool air blowing in.
+
+[<a id="01-15-03">01:15:03</a>]  And then this little voice in my head says,
+
+[<a id="01-15-07">01:15:07</a>]  dude, the window's right there.
+
+[<a id="01-15-09">01:15:09</a>]  You can solve this problem right now.
+
+[<a id="01-15-11">01:15:11</a>]  Just like, yeah, shut the window.
+
+[<a id="01-15-15">01:15:15</a>]  And I was horrified that that creature existed in me.
+
+[<a id="01-15-21">01:15:21</a>]  And that's like the nature of the human soul.
+
+[<a id="01-15-26">01:15:26</a>]  And so you get brought with small children,
+
+[<a id="01-15-28">01:15:28</a>]  they bring you to the most animal level.
+
+[<a id="01-15-31">01:15:31</a>]  - Which led to Louis C.K.'s success in the beginning
+
+[<a id="01-15-35">01:15:35</a>]  because one of the things that really changed his career,
+
+[<a id="01-15-38">01:15:38</a>]  he was saying something about seeing a parent punching a kid
+
+[<a id="01-15-44">01:15:44</a>]  or hurting a kid.
+
+[<a id="01-15-46">01:15:46</a>]  And if you didn't have a kid, you would say that's terrible.
+
+[<a id="01-15-50">01:15:50</a>]  But as a father, he said, I understand.
+
+[<a id="01-15-52">01:15:52</a>]  And then the audience laughed.
+
+[<a id="01-15-53">01:15:53</a>]  You know, that kind of like nuanced honesty
+
+[<a id="01-15-58">01:15:58</a>]  is what led to Louis' success, you know?
+
+[<a id="01-16-00">01:16:00</a>]  I think, yeah.
+
+[<a id="01-16-02">01:16:02</a>]  - Because, and it's, I mean, to me, that's always a thing.
+
+[<a id="01-16-07">01:16:07</a>]  I think like there's a point, in my brain,
+
+[<a id="01-16-10">01:16:10</a>]  it's like, it's somewhere between 30 and 40,
+
+[<a id="01-16-13">01:16:13</a>]  most people discover that they're not a nice person.
+
+[<a id="01-16-16">01:16:16</a>]  And up until 30, most people are living in a bubble of,
+
+[<a id="01-16-22">01:16:22</a>]  I'm a nice person, I do good.
+
+[<a id="01-16-24">01:16:24</a>]  And they, ignoring all the times,
+
+[<a id="01-16-26">01:16:26</a>]  they do shitty things to people.
+
+[<a id="01-16-28">01:16:28</a>]  And then you've got a nice Jungian shadow self.
+
+[<a id="01-16-34">01:16:34</a>]  It's about creating unity between your good and your bad,
+
+[<a id="01-16-36">01:16:36</a>]  whatever. - This is funny coming from you
+
+[<a id="01-16-38">01:16:38</a>]  because he was living in Switzerland as well.
+
+[<a id="01-16-40">01:16:40</a>]  - Yeah, yeah, yeah, yeah.
+
+[<a id="01-16-42">01:16:42</a>]  I mean, I haven't, and this is coming from a point
+
+[<a id="01-16-48">01:16:48</a>]  of arrogance and not a lot of, but being a physicist,
+
+[<a id="01-16-52">01:16:52</a>]  I think psychology, fundamentally,
+
+[<a id="01-16-54">01:16:54</a>]  I believe psychology is bullshit.
+
+[<a id="01-16-56">01:16:56</a>]  I think it's, I think, I mean, I grew up in England
+
+[<a id="01-17-02">01:17:02</a>]  and we used to laugh about how all the Americans
+
+[<a id="01-17-06">01:17:06</a>]  need to see a therapist.
+
+[<a id="01-17-07">01:17:07</a>]  - Yes. - It was, and it wasn't,
+
+[<a id="01-17-09">01:17:09</a>]  yeah, it's like a-- - I could be wrong,
+
+[<a id="01-17-16">01:17:16</a>]  but one of my understanding why Stalin hated Jews,
+
+[<a id="01-17-19">01:17:19</a>]  one of many reasons, but I think one of the things
+
+[<a id="01-17-22">01:17:22</a>]  that he really hated for psychotherapy,
+
+[<a id="01-17-25">01:17:25</a>]  which is like a religion for some Jewish people.
+
+[<a id="01-17-28">01:17:28</a>]  - And it's become a global religion now.
+
+[<a id="01-17-30">01:17:30</a>]  - Yeah, because I think to Stalin it was a dangerous thing
+
+[<a id="01-17-34">01:17:34</a>]  that people get into his head, you know, and I think--
+
+[<a id="01-17-37">01:17:37</a>]  - Yeah, but also the thing is the brain is,
+
+[<a id="01-17-41">01:17:41</a>]  the brain is not subtractive, it's only additive.
+
+[<a id="01-17-44">01:17:44</a>]  - What does that mean? - So if I say to you,
+
+[<a id="01-17-48">01:17:48</a>]  don't think of a huge black cock right now.
+
+[<a id="01-17-51">01:17:51</a>]  - Yeah. - Yeah, you can't not do things.
+
+[<a id="01-17-55">01:17:55</a>]  - Well, this is a little tricky
+
+[<a id="01-17-56">01:17:56</a>]  because I'm always thinking about that.
+
+[<a id="01-17-58">01:17:58</a>]  - Exactly, don't think of an elephant.
+
+[<a id="01-18-01">01:18:01</a>]  It's like, so you can't unthink.
+
+[<a id="01-18-05">01:18:05</a>]  - Yeah. - You can only add more bullshit.
+
+[<a id="01-18-08">01:18:08</a>]  It's like, and then eventually you lose interest.
+
+[<a id="01-18-11">01:18:11</a>]  That's the best you can do.
+
+[<a id="01-18-13">01:18:13</a>]  And so, I've almost forgot the point about this.
+
+[<a id="01-18-17">01:18:17</a>]  Oh yeah, so all this stuff where the more you think
+
+[<a id="01-18-23">01:18:23</a>]  about something, the more it becomes a thing.
+
+[<a id="01-18-26">01:18:26</a>]  So if somebody, if I'm like 40 and I'm just like,
+
+[<a id="01-18-31">01:18:31</a>]  ah, I had a happy childhood and I'm not thinking
+
+[<a id="01-18-34">01:18:34</a>]  about it at all, great, fine.
+
+[<a id="01-18-37">01:18:37</a>]  And then somebody comes along and says, yeah,
+
+[<a id="01-18-40">01:18:40</a>]  but you must have had this experience in your childhood.
+
+[<a id="01-18-42">01:18:42</a>]  You start thinking about it.
+
+[<a id="01-18-43">01:18:43</a>]  Oh yeah, this thing happened.
+
+[<a id="01-18-45">01:18:45</a>]  - I think social media is probably making things worse
+
+[<a id="01-18-47">01:18:47</a>]  for everyone, for a lot of people, I think.
+
+[<a id="01-18-49">01:18:49</a>]  - Yeah, and the thing is, I've worked in software in my life.
+
+[<a id="01-18-54">01:18:54</a>]  To me, you know the idea of a mantra like this--
+
+[<a id="01-18-59">01:18:59</a>]  - Repeating something over and over?
+
+[<a id="01-19-02">01:19:02</a>]  - Yeah, like in Asian or Eastern mysticism,
+
+[<a id="01-19-06">01:19:06</a>]  you've got like the om or the thing,
+
+[<a id="01-19-08">01:19:08</a>]  or Hare Krishna, whatever the stuff they're saying.
+
+[<a id="01-19-12">01:19:12</a>]  To me, the realization is like in my early 40s,
+
+[<a id="01-19-17">01:19:17</a>]  I stopped hearing my mom's voice.
+
+[<a id="01-19-19">01:19:19</a>]  And my mom's voice, it wasn't terribly judging,
+
+[<a id="01-19-24">01:19:24</a>]  but there was some judgment and there were some things
+
+[<a id="01-19-28">01:19:28</a>]  that I realized is like this piece of software,
+
+[<a id="01-19-33">01:19:33</a>]  or it's like a chat GPT of my mom telling me
+
+[<a id="01-19-37">01:19:37</a>]  how I should live my life.
+
+[<a id="01-19-38">01:19:38</a>]  And at a certain point, that software stopped,
+
+[<a id="01-19-41">01:19:41</a>]  it expires, it reaches its sell-by date.
+
+[<a id="01-19-44">01:19:44</a>]  - It's really weird saying that, it's not the same thing,
+
+[<a id="01-19-48">01:19:48</a>]  but I don't even remember what my dad's voice sounds now.
+
+[<a id="01-19-52">01:19:52</a>]  I could still see his face in my head,
+
+[<a id="01-19-55">01:19:55</a>]  but it really faded away.
+
+[<a id="01-19-58">01:19:58</a>]  - But I think that's fundamentally a good thing,
+
+[<a id="01-20-01">01:20:01</a>]  but then if you go and see a therapist
+
+[<a id="01-20-03">01:20:03</a>]  and you talk about your dad for three hours a week,
+
+[<a id="01-20-06">01:20:06</a>]  then it keeps it alive.
+
+[<a id="01-20-09">01:20:09</a>]  It's supposed to fade away, I think.
+
+[<a id="01-20-12">01:20:12</a>]  - Yeah, I guess talking about problem all the time
+
+[<a id="01-20-14">01:20:14</a>]  probably doesn't help.
+
+[<a id="01-20-15">01:20:15</a>]  I guess I don't know what's the healthy level,
+
+[<a id="01-20-19">01:20:19</a>]  'cause I don't think holding onto all your problem,
+
+[<a id="01-20-22">01:20:22</a>]  not talking about it, thinking about it,
+
+[<a id="01-20-23">01:20:23</a>]  it's not healthy either, but overthinking,
+
+[<a id="01-20-28">01:20:28</a>]  Socrates say unexamined life is not worth living,
+
+[<a id="01-20-32">01:20:32</a>]  but over-examined life is not worth living either.
+
+[<a id="01-20-34">01:20:34</a>]  I don't know what's the happy medium.
+
+[<a id="01-20-36">01:20:36</a>]  I think that's the difficult thing to figure out.
+
+[<a id="01-20-38">01:20:38</a>]  - Nobody's said that before.
+
+[<a id="01-20-41">01:20:41</a>]  You need to, the over-examined life is not worth living.
+
+[<a id="01-20-44">01:20:44</a>]  - Well, I mean, it's kind of like--
+
+[<a id="01-20-46">01:20:46</a>]  - This is your philosophy here.
+
+[<a id="01-20-49">01:20:49</a>]  You need to be Socrates 2-0.
+
+[<a id="01-20-53">01:20:53</a>]  That's a great quote.
+
+[<a id="01-20-54">01:20:54</a>]  - No, no, what I'm saying is like,
+
+[<a id="01-20-56">01:20:56</a>]  if you're going from LA to New York City,
+
+[<a id="01-20-58">01:20:58</a>]  there's many different ways of doing it.
+
+[<a id="01-20-59">01:20:59</a>]  The easiest one's flying from LA to New York.
+
+[<a id="01-21-02">01:21:02</a>]  You could drive, you could hitchhike,
+
+[<a id="01-21-04">01:21:04</a>]  you could take a bus, you could take a boat long way around,
+
+[<a id="01-21-07">01:21:07</a>]  or you get paralyzed by planning for all the potential problems
+
+[<a id="01-21-12">01:21:12</a>]  on the way driving, so you're trying to prevent that,
+
+[<a id="01-21-15">01:21:15</a>]  so you're over-preparing, but eventually you have to leave.
+
+[<a id="01-21-18">01:21:18</a>]  But that's the problem.
+
+[<a id="01-21-19">01:21:19</a>]  Some people leave without preparation,
+
+[<a id="01-21-22">01:21:22</a>]  and other people over-prepare,
+
+[<a id="01-21-24">01:21:24</a>]  but eventually life has to go, right?
+
+[<a id="01-21-26">01:21:26</a>]  - Exactly, yeah, yeah.
+
+[<a id="01-21-27">01:21:27</a>]  - You have to go.
+
+[<a id="01-21-28">01:21:28</a>]  So you can't anticipate all the problems.
+
+[<a id="01-21-30">01:21:30</a>]  - And the thing is, I mean, I say this about therapy
+
+[<a id="01-21-35">01:21:35</a>]  because I've always had this reactionary thing.
+
+[<a id="01-21-39">01:21:39</a>]  I think it's my family with Quakers.
+
+[<a id="01-21-41">01:21:41</a>]  - Yeah.
+
+[<a id="01-21-42">01:21:42</a>]  - So when I hear everybody, oh, you need to do therapy,
+
+[<a id="01-21-47">01:21:47</a>]  I'm like, fuck therapy.
+
+[<a id="01-21-49">01:21:49</a>]  - Yeah.
+
+[<a id="01-21-50">01:21:50</a>]  - It's like, don't tell me what I need to do, first of all,
+
+[<a id="01-21-53">01:21:53</a>]  but the other thing is more--
+
+[<a id="01-21-54">01:21:54</a>]  - But therapy could be different things, right?
+
+[<a id="01-21-57">01:21:57</a>]  Like, some people talk to therapists,
+
+[<a id="01-22-00">01:22:00</a>]  but other people like to exercise and running,
+
+[<a id="01-22-03">01:22:03</a>]  or they could get coffee, read a book,
+
+[<a id="01-22-05">01:22:05</a>]  or something like that too, you know?
+
+[<a id="01-22-06">01:22:06</a>]  - Yeah, Swiss is all about the running.
+
+[<a id="01-22-09">01:22:09</a>]  They run and they hike.
+
+[<a id="01-22-10">01:22:10</a>]  For me, therapy is chat GPT.
+
+[<a id="01-22-13">01:22:13</a>]  - Huh.
+
+[<a id="01-22-14">01:22:14</a>]  - And there's a thing I did two days ago.
+
+[<a id="01-22-21">01:22:21</a>]  You know, have you heard this notion of prompts?
+
+[<a id="01-22-25">01:22:25</a>]  So with chat--
+
+[<a id="01-22-25">01:22:25</a>]  - I don't know what that is.
+
+[<a id="01-22-26">01:22:26</a>]  - A prompt is--
+
+[<a id="01-22-27">01:22:27</a>]  - I don't do any other AIs.
+
+[<a id="01-22-29">01:22:29</a>]  I know, I have a face that look like saying,
+
+[<a id="01-22-31">01:22:31</a>]  I do AI and high tech.
+
+[<a id="01-22-32">01:22:32</a>]  I do none of that stuff.
+
+[<a id="01-22-33">01:22:33</a>]  - So AI, my expertise is transgender porn.
+
+[<a id="01-22-38">01:22:38</a>]  So, you know, this is what we're talking about here.
+
+[<a id="01-22-40">01:22:40</a>]  - You, well, a lot of, first of all,
+
+[<a id="01-22-44">01:22:44</a>]  I asked chat GPT about you.
+
+[<a id="01-22-47">01:22:47</a>]  It knows about you because--
+
+[<a id="01-22-48">01:22:48</a>]  - It doesn't know me.
+
+[<a id="01-22-50">01:22:50</a>]  They just know a lot of facts about me.
+
+[<a id="01-22-51">01:22:51</a>]  - Yeah, but--
+
+[<a id="01-22-53">01:22:53</a>]  - It doesn't know me.
+
+[<a id="01-22-54">01:22:54</a>]  - You think.
+
+[<a id="01-22-55">01:22:55</a>]  - Well.
+
+[<a id="01-22-56">01:22:56</a>]  - So here's what I did.
+
+[<a id="01-22-59">01:22:59</a>]  There's a thing called the God prompt.
+
+[<a id="01-23-03">01:23:03</a>]  So chat GPT, by default, gives you like a basic,
+
+[<a id="01-23-08">01:23:08</a>]  it's like a basic bitch, basically.
+
+[<a id="01-23-10">01:23:10</a>]  But then if you tell it how it should behave
+
+[<a id="01-23-13">01:23:13</a>]  and what things it should do, you can get very,
+
+[<a id="01-23-15">01:23:15</a>]  and these are called prompts.
+
+[<a id="01-23-18">01:23:18</a>]  So you say, I want you to act as like Socrates
+
+[<a id="01-23-23">01:23:23</a>]  and explain like Greek and imagine it's like Greece
+
+[<a id="01-23-27">01:23:27</a>]  over 3000 years ago.
+
+[<a id="01-23-29">01:23:29</a>]  Explain why you said an unexamined life
+
+[<a id="01-23-32">01:23:32</a>]  is not worth living.
+
+[<a id="01-23-33">01:23:33</a>]  And then it will manage to switch its context
+
+[<a id="01-23-38">01:23:38</a>]  to tell you that based on the data it's been given.
+
+[<a id="01-23-40">01:23:40</a>]  Now, I asked, there's a thing called the God prompt,
+
+[<a id="01-23-44">01:23:44</a>]  which is basically a psycho.
+
+[<a id="01-23-46">01:23:46</a>]  And it's called the God prompt.
+
+[<a id="01-23-49">01:23:49</a>]  This is made up on TikTok.
+
+[<a id="01-23-51">01:23:51</a>]  But it's a couple of questions you ask chat GPT
+
+[<a id="01-23-54">01:23:54</a>]  based on all the interactions you've had
+
+[<a id="01-23-57">01:23:57</a>]  where it tells you what your problem is.
+
+[<a id="01-24-00">01:24:00</a>]  - Okay.
+
+[<a id="01-24-01">01:24:01</a>]  - And it says like, you have a fear of this
+
+[<a id="01-24-06">01:24:06</a>]  and you have this and then you're doing this all the time.
+
+[<a id="01-24-09">01:24:09</a>]  These things you do well, those things.
+
+[<a id="01-24-11">01:24:11</a>]  - Yeah.
+
+[<a id="01-24-12">01:24:12</a>]  - And I did this and the answers,
+
+[<a id="01-24-15">01:24:15</a>]  I haven't told everything.
+
+[<a id="01-24-17">01:24:17</a>]  - Did it show you a picture of a gun?
+
+[<a id="01-24-19">01:24:19</a>]  - No, no.
+
+[<a id="01-24-20">01:24:20</a>]  It said one of the things that I have a fear of irrelevant.
+
+[<a id="01-24-27">01:24:27</a>]  So that and that certainly resonates
+
+[<a id="01-24-32">01:24:32</a>]  because I was like building up to doing something
+
+[<a id="01-24-35">01:24:35</a>]  and then I ended up with kids
+
+[<a id="01-24-39">01:24:39</a>]  and I was very frustrated for 10 years
+
+[<a id="01-24-41">01:24:41</a>]  because I was like, I'm figuring out some path.
+
+[<a id="01-24-45">01:24:45</a>]  Probably I was not going anywhere.
+
+[<a id="01-24-47">01:24:47</a>]  - Were you married at 10 years?
+
+[<a id="01-24-49">01:24:49</a>]  - I was never married.
+
+[<a id="01-24-52">01:24:52</a>]  - Oh, okay.
+
+[<a id="01-24-53">01:24:53</a>]  - But we were together like a married couple.
+
+[<a id="01-24-55">01:24:55</a>]  But I was very frustrated for the beginning
+
+[<a id="01-25-00">01:25:00</a>]  because I was like, I've got this talent,
+
+[<a id="01-25-04">01:25:04</a>]  I've got ability and I want to make something
+
+[<a id="01-25-06">01:25:06</a>]  and now I've got to look after kids.
+
+[<a id="01-25-10">01:25:10</a>]  So China GPT got this.
+
+[<a id="01-25-12">01:25:12</a>]  Mostly I've been using it to help me write
+
+[<a id="01-25-17">01:25:17</a>]  the text description for a comedy show promoting
+
+[<a id="01-25-21">01:25:21</a>]  or I use it to work a lot.
+
+[<a id="01-25-22">01:25:22</a>]  But based on my language patterns,
+
+[<a id="01-25-27">01:25:27</a>]  based on the type of questions I'm asking it,
+
+[<a id="01-25-30">01:25:30</a>]  it's able to come up with a pretty,
+
+[<a id="01-25-32">01:25:32</a>]  like there's like a hundred hours of therapy
+
+[<a id="01-25-36">01:25:36</a>]  I just saved by doing this.
+
+[<a id="01-25-38">01:25:38</a>]  - Interesting.
+
+[<a id="01-25-39">01:25:39</a>]  And probably if we ask chat GPT the right questions
+
+[<a id="01-25-43">01:25:43</a>]  about you, 'cause they've definitely fed it
+
+[<a id="01-25-44">01:25:44</a>]  all the podcasts they could find.
+
+[<a id="01-25-46">01:25:46</a>]  - You know, I think his name is William Goldman.
+
+[<a id="01-25-49">01:25:49</a>]  I like to talk to him a lot.
+
+[<a id="01-25-51">01:25:51</a>]  He won one or two Oscars.
+
+[<a id="01-25-52">01:25:52</a>]  He famously wrote Princess Bride.
+
+[<a id="01-25-56">01:25:56</a>]  He wrote that script.
+
+[<a id="01-25-57">01:25:57</a>]  I think he had two Oscars.
+
+[<a id="01-25-59">01:25:59</a>]  Oh my God, I apologize to listen, I feel stupid.
+
+[<a id="01-26-05">01:26:05</a>]  He won one for political thriller,
+
+[<a id="01-26-10">01:26:10</a>]  maybe something related to Watergate.
+
+[<a id="01-26-14">01:26:14</a>]  I'm blanking, I haven't slept that much.
+
+[<a id="01-26-16">01:26:16</a>]  But anyway, he won two Oscars.
+
+[<a id="01-26-17">01:26:17</a>]  He won one or two of them.
+
+[<a id="01-26-19">01:26:19</a>]  But he famously say no one knows anything.
+
+[<a id="01-26-21">01:26:21</a>]  In other words, when he was at the peak of his career,
+
+[<a id="01-26-27">01:26:27</a>]  they're making between three to maybe 500 movies
+
+[<a id="01-26-29">01:26:29</a>]  in Hollywood and a lot of them don't do well.
+
+[<a id="01-26-31">01:26:31</a>]  Well, obviously they made thinking
+
+[<a id="01-26-33">01:26:33</a>]  that they were gonna be good.
+
+[<a id="01-26-35">01:26:35</a>]  It's a lot of time when you do something,
+
+[<a id="01-26-36">01:26:36</a>]  even successful one, they didn't realize
+
+[<a id="01-26-39">01:26:39</a>]  it's gonna be that successful
+
+[<a id="01-26-41">01:26:41</a>]  because you're just not sure about anything that,
+
+[<a id="01-26-44">01:26:44</a>]  you know, people just pretend like they know
+
+[<a id="01-26-46">01:26:46</a>]  what they're doing, you know?
+
+[<a id="01-26-47">01:26:47</a>]  So I have friends who are paralyzed by therapy.
+
+[<a id="01-26-53">01:26:53</a>]  They do a lot.
+
+[<a id="01-26-53">01:26:53</a>]  I've never done it.
+
+[<a id="01-26-54">01:26:54</a>]  And I just know that my personality
+
+[<a id="01-26-57">01:26:57</a>]  and plus growing up in Japan, unlike South Korea,
+
+[<a id="01-27-02">01:27:02</a>]  I know a lot of my Korean friends do therapy
+
+[<a id="01-27-04">01:27:04</a>]  and things like that.
+
+[<a id="01-27-05">01:27:05</a>]  But Segun Foy, Carl Yoon and people like that
+
+[<a id="01-27-09">01:27:09</a>]  never penetrated Japanese mind, you know?
+
+[<a id="01-27-12">01:27:12</a>]  It's not a big place to do that
+
+[<a id="01-27-14">01:27:14</a>]  because reveal yourself and talk about yourself.
+
+[<a id="01-27-17">01:27:17</a>]  They're not gonna do that.
+
+[<a id="01-27-18">01:27:18</a>]  You know, that whole notion is very, very strange.
+
+[<a id="01-27-21">01:27:21</a>]  - Okay, I've got it.
+
+[<a id="01-27-22">01:27:22</a>]  We're gonna, would you be down to do this
+
+[<a id="01-27-25">01:27:25</a>]  as a little experiment?
+
+[<a id="01-27-26">01:27:26</a>]  - Well, first of all, has it actually been recording?
+
+[<a id="01-27-32">01:27:32</a>]  - Yeah, we've got an hour and a half already.
+
+[<a id="01-27-37">01:27:37</a>]  - Oh, wow.
+
+[<a id="01-27-37">01:27:37</a>]  So it would have been funny if that's this whole time
+
+[<a id="01-27-41">01:27:41</a>]  we were talking, we didn't record it.
+
+[<a id="01-27-42">01:27:42</a>]  - Well, we got two audio.
+
+[<a id="01-27-44">01:27:44</a>]  We got that, that's the second audio track.
+
+[<a id="01-27-46">01:27:46</a>]  But with semi-pro here with kind of shitty podcasters.
+
+[<a id="01-27-51">01:27:51</a>]  No, the, all right, this could be an interesting thing
+
+[<a id="01-27-54">01:27:54</a>]  for us to do in a later podcast.
+
+[<a id="01-27-56">01:27:56</a>]  - Well, maybe interesting for you.
+
+[<a id="01-27-57">01:27:57</a>]  - If you, but I'd be also interested to see,
+
+[<a id="01-28-03">01:28:03</a>]  I mean, you could look at the results first without me.
+
+[<a id="01-28-07">01:28:07</a>]  - Yeah.
+
+[<a id="01-28-07">01:28:07</a>]  - Like, and if you wanna talk about it
+
+[<a id="01-28-10">01:28:10</a>]  or if you wanna share that,
+
+[<a id="01-28-11">01:28:11</a>]  because I think you might be surprised.
+
+[<a id="01-28-14">01:28:14</a>]  Like, if we took the transcript
+
+[<a id="01-28-16">01:28:16</a>]  of what we've been talking about.
+
+[<a id="01-28-18">01:28:18</a>]  - Sure.
+
+[<a id="01-28-18">01:28:18</a>]  - What, what--
+
+[<a id="01-28-21">01:28:21</a>]  - I am curious now, so you take the transcript
+
+[<a id="01-28-24">01:28:24</a>]  and then you ask, like, what's the problem with Yoshi?
+
+[<a id="01-28-26">01:28:26</a>]  He'll give you a--
+
+[<a id="01-28-28">01:28:28</a>]  - Well, just the way people construct language.
+
+[<a id="01-28-31">01:28:31</a>]  - Yeah.
+
+[<a id="01-28-32">01:28:32</a>]  - So if you look at the pauses,
+
+[<a id="01-28-34">01:28:34</a>]  I mean, we know this as comedians,
+
+[<a id="01-28-35">01:28:35</a>]  we play with language a lot.
+
+[<a id="01-28-37">01:28:37</a>]  But you can follow someone's train of thought.
+
+[<a id="01-28-40">01:28:40</a>]  - Sure.
+
+[<a id="01-28-40">01:28:40</a>]  - And, you know, you see different comedians.
+
+[<a id="01-28-43">01:28:43</a>]  There's, like, the ADHD comedian
+
+[<a id="01-28-45">01:28:45</a>]  who at the moment there's a distraction.
+
+[<a id="01-28-47">01:28:47</a>]  - Yeah.
+
+[<a id="01-28-47">01:28:47</a>]  - He has a funny reaction, it's hilarious.
+
+[<a id="01-28-49">01:28:49</a>]  And it's, like--
+
+[<a id="01-28-51">01:28:51</a>]  - I'm curious about that too.
+
+[<a id="01-28-52">01:28:52</a>]  - It's also things like, like--
+
+[<a id="01-28-58">01:28:58</a>]  - You know who was talking about that is Steve Martin.
+
+[<a id="01-29-00">01:29:00</a>]  He has philosophy degree,
+
+[<a id="01-29-03">01:29:03</a>]  almost graduated from philosophy degree
+
+[<a id="01-29-04">01:29:04</a>]  from Long Beach State.
+
+[<a id="01-29-05">01:29:05</a>]  His favorite philosopher was,
+
+[<a id="01-29-08">01:29:08</a>]  maybe I'm not saying his name right,
+
+[<a id="01-29-09">01:29:09</a>]  but Ludwig Wittgenstein.
+
+[<a id="01-29-11">01:29:11</a>]  - Oh, he's the crazy philosopher, yeah.
+
+[<a id="01-29-14">01:29:14</a>]  - Yeah, 'cause one time he asked Bertrand Russell,
+
+[<a id="01-29-16">01:29:16</a>]  another famous British, a famous British philosopher.
+
+[<a id="01-29-19">01:29:19</a>]  He said, he asked Russell, like,
+
+[<a id="01-29-22">01:29:22</a>]  "Should I become a philosopher?"
+
+[<a id="01-29-23">01:29:23</a>]  And then he asked Ludwig to write him something.
+
+[<a id="01-29-27">01:29:27</a>]  And I think he wrote, like, a first sentence or something.
+
+[<a id="01-29-29">01:29:29</a>]  "Yeah, you need to be a philosopher."
+
+[<a id="01-29-30">01:29:30</a>]  And there was a story about Ludwig
+
+[<a id="01-29-33">01:29:33</a>]  supposed to climb up a tree
+
+[<a id="01-29-34">01:29:34</a>]  and stay on top of that tree for a while or something.
+
+[<a id="01-29-36">01:29:36</a>]  But he's famous for, like, that thing,
+
+[<a id="01-29-38">01:29:38</a>]  like, language game, right?
+
+[<a id="01-29-39">01:29:39</a>]  - Yeah.
+
+[<a id="01-29-40">01:29:40</a>]  - And it's very mathematical.
+
+[<a id="01-29-41">01:29:41</a>]  I tried to read it, I have no idea what he's saying.
+
+[<a id="01-29-43">01:29:43</a>]  But he's just so beyond me, you know?
+
+[<a id="01-29-46">01:29:46</a>]  - So here's another theory I got,
+
+[<a id="01-29-50">01:29:50</a>]  is that different people have different ways of thinking.
+
+[<a id="01-29-54">01:29:54</a>]  So I think mostly when you have, like, abstract,
+
+[<a id="01-29-58">01:29:58</a>]  the way you can understand the way someone's brains work
+
+[<a id="01-30-02">01:30:02</a>]  is you ask them an abstract question
+
+[<a id="01-30-04">01:30:04</a>]  where they have to think about it.
+
+[<a id="01-30-05">01:30:05</a>]  - Oh, it doesn't work.
+
+[<a id="01-30-06">01:30:06</a>]  - And for me, I'm a visual thinker.
+
+[<a id="01-30-09">01:30:09</a>]  So you ask me an abstract question,
+
+[<a id="01-30-11">01:30:11</a>]  what I'm gonna do is my eyes will probably go to the left.
+
+[<a id="01-30-15">01:30:15</a>]  I make some kind of picture in my head.
+
+[<a id="01-30-18">01:30:18</a>]  - Right.
+
+[<a id="01-30-19">01:30:19</a>]  - And then I come back and interpret that picture
+
+[<a id="01-30-22">01:30:22</a>]  with logic and words and whatever.
+
+[<a id="01-30-23">01:30:23</a>]  I remember listening to Kanye on the Joe Rogan podcast.
+
+[<a id="01-30-29">01:30:29</a>]  - What a fascinating guy.
+
+[<a id="01-30-31">01:30:31</a>]  - Yeah, and he sounds like a madman
+
+[<a id="01-30-34">01:30:34</a>]  until in that podcast, about two hours in,
+
+[<a id="01-30-38">01:30:38</a>]  the whole thing that he'd been talking about
+
+[<a id="01-30-41">01:30:41</a>]  suddenly started to make sense.
+
+[<a id="01-30-43">01:30:43</a>]  - Sure.
+
+[<a id="01-30-43">01:30:43</a>]  - And he's like a three or four dimensional thinker.
+
+[<a id="01-30-48">01:30:48</a>]  He's got some hypercube that he's putting all this stuff
+
+[<a id="01-30-52">01:30:52</a>]  and to try and explain it in an A equals B equals C manner,
+
+[<a id="01-30-58">01:30:58</a>]  which is linear, makes no sense to people.
+
+[<a id="01-31-01">01:31:01</a>]  - If somebody asked me like the five to seven,
+
+[<a id="01-31-04">01:31:04</a>]  I don't know, influential word is right, impactful person.
+
+[<a id="01-31-09">01:31:09</a>]  But let's say I have to pick like five,
+
+[<a id="01-31-11">01:31:11</a>]  maybe 10 influential people last 10 years.
+
+[<a id="01-31-14">01:31:14</a>]  I could have met them but I never met them.
+
+[<a id="01-31-18">01:31:18</a>]  If I have to make a 10 people or less easily,
+
+[<a id="01-31-21">01:31:21</a>]  him, Trump, Elon Musk is there
+
+[<a id="01-31-25">01:31:25</a>]  'cause they're doing, I'm not saying what they're doing is right.
+
+[<a id="01-31-28">01:31:28</a>]  It's just that they think different
+
+[<a id="01-31-29">01:31:29</a>]  and they behave differently and they're very, very interesting.
+
+[<a id="01-31-32">01:31:32</a>]  - Weirdly, Lausanne lady, she hated Elon Musk.
+
+[<a id="01-31-40">01:31:40</a>]  - Is this a lady that you knew?
+
+[<a id="01-31-42">01:31:42</a>]  - It's the one that I was talking about
+
+[<a id="01-31-47">01:31:47</a>]  before I met you.
+
+[<a id="01-31-48">01:31:48</a>]  I think one thing--
+
+[<a id="01-31-50">01:31:50</a>]  - That's the area in Switzerland, right?
+
+[<a id="01-31-52">01:31:52</a>]  - I've got to, I mean, I will just edit this.
+
+[<a id="01-31-55">01:31:55</a>]  I think she got sex trafficked by her dad
+
+[<a id="01-31-59">01:31:59</a>]  who was high up at Swiss bank
+
+[<a id="01-32-02">01:32:02</a>]  and he used to take her on business trips.
+
+[<a id="01-32-03">01:32:03</a>]  There's a possibility she even,
+
+[<a id="01-32-07">01:32:07</a>]  like I see a possibility where she may have got abused
+
+[<a id="01-32-12">01:32:12</a>]  by Elon Musk as a kid.
+
+[<a id="01-32-15">01:32:15</a>]  And so she had an ability to read people that was uncanny
+
+[<a id="01-32-20">01:32:20</a>]  and she did not like, she had like this reaction
+
+[<a id="01-32-24">01:32:24</a>]  to Elon Musk of like, he's an evil motherfucker.
+
+[<a id="01-32-28">01:32:28</a>]  And Elon Musk is definitely,
+
+[<a id="01-32-31">01:32:31</a>]  has got multiple personalities.
+
+[<a id="01-32-33">01:32:33</a>]  And to me, the most revealing thing with Elon Musk
+
+[<a id="01-32-37">01:32:37</a>]  was seeing his mom on SNL.
+
+[<a id="01-32-40">01:32:40</a>]  And if you don't get a creepy vibe off his mom,
+
+[<a id="01-32-44">01:32:44</a>]  there's like then you're in a weird,
+
+[<a id="01-32-47">01:32:47</a>]  you're like, did you remember that?
+
+[<a id="01-32-49">01:32:49</a>]  Did you see that?
+
+[<a id="01-32-49">01:32:49</a>]  - Yeah, can you keep talking, keep talking?
+
+[<a id="01-32-52">01:32:52</a>]  - Let's take a break, I've got to piss.
+
+[<a id="01-32-53">01:32:53</a>]  - I've got to piss too.
+
+[<a id="01-32-54">01:32:54</a>]  - Yeah, okay, you go first.
+
+[<a id="01-32-55">01:32:55</a>]  I'll stop and we can resume.
+
+[<a id="01-32-58">01:32:58</a>]  And I'll give you a coffee two more times then.
+
+[<a id="01-33-02">01:33:02</a>]  How long have you been doing this?
+
+[<a id="01-33-03">01:33:03</a>]  Does it work?
 
