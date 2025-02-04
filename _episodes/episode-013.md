@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 013 - Seventh episode with Yoshi, Christian and Harry
+title: Episode 013 - Gambling, Comedy, and the Unabomber - A Deep Dive into Risk, Ideology, and Humor
 short_title: Seventh episode with Yoshi, Christian and Harry
 date: '2024-12-01'
 time: '13:54'
 duration: 1h2m48s
 permalink: "/episodes/episode-013/"
-description: Seventh episode with Yoshi, Christian and Harry
+description: In this episode, the hosts discuss everything from the psychology of gambling and comedy’s role in social critique to political ideology, Ted Kaczynski’s legacy, and why young activists might be getting it all wrong.
 video_files:
 - file_name: C0054.mp4
   description: Full room camera - Camcorder
@@ -152,5 +152,6 @@ Seventh episode with Yoshi, Christian and Harry.
 
 Seems like we failed to record sound on the camcorder for this one.
 
+This episode takes listeners on a thought-provoking journey through a mix of humor, philosophy, and social commentary. The hosts dive into the world of sports betting, financial speculation, and the addictive nature of risk, drawing parallels between gambling and comedy. They discuss media influence, political ideologies in modern education, and the evolution of activism, critiquing the certainty of youth-driven movements. A deep dive into Ted Kaczynski’s life and manifesto raises ethical and philosophical questions about technology, individualism, and control. Along the way, they touch on Breaking Bad, MKUltra, and even Lenin’s Swiss connections, all wrapped in their signature irreverent humor.
 
 
