@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 015 - Fourth episode with Yoshi and Harry
+title: Episode 015 - Journeys, Justice, and the Human Condition
 short_title: Fourth episode with Yoshi and Harry
 date: '2024-12-22'
 time: '16:24'
 duration: 1h50m33s
 permalink: "/episodes/episode-015/"
-description: Fourth episode with Yoshi and Harry
+description: In this episode, Yoshi and Harry delve into personal travel experiences, deep reflections on life, crime and justice, and the unexpected connections made along the way.
 video_files:
 - file_name: C0061.mp4
   description: Full room camera - Camcorder
@@ -110,3 +110,4 @@ transcript_file: episode-015-transcript.md
 ---
 Fourth episode with Yoshi and Harry
 
+In this episode, Yoshi and Harry share stories from their recent travels, including time spent in Greece, a layover in Serbia, and a trip to France to attend a high-profile criminal trial. They reflect on friendships formed in unexpected places, the impact of personal losses, and the contrast between different cultures across Europe. The conversation touches on mental health, the role of sex work in society, and the complex nature of justice, with engaging detours into comedy, history, and philosophy. Through it all, they explore what it means to connect with people, understand the world, and navigate the ever-changing landscape of human experiences.
