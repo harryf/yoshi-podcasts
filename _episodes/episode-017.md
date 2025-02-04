@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 017 - Tenth episode with Yoshi, Christian and Harry
+title: Episode 017 - AI, Power, and the Hidden Forces Shaping Our World
 short_title: Tenth episode with Yoshi, Christian and Harry
 date: '2025-01-11'
 time: '14:23'
 duration: 1h36m26s
 permalink: "/episodes/episode-017/"
-description: Tenth episode with Yoshi, Christian and Harry
+description: A deep dive into AI, economic power structures, global inequalities, and how personal experiences shape our understanding of history, politics, and human nature.
 video_files:
 - file_name: C0066.mp4
   description: Full room camera - Camcorder
@@ -166,5 +166,7 @@ audio_files:
 transcript_file: episode-017-transcript.md
 ---
 Tenth episode with Yoshi, Christian and Harry.
+
+In this episode, the hosts explore a wide range of topics, from the advancements in AI voice cloning and the future of digital immortality to the hidden dynamics of global power structures, economic inequalities, and ideological influences. They discuss the differences between Western and Eastern approaches to ethics and innovation, reflect on personal experiences with travel and social mobility, and examine the role of sex, corruption, and influence in corporate and political decision-making. With thought-provoking anecdotes and sharp observations, the conversation offers a raw, unfiltered look at the unseen forces that shape the modern world.
 
 
