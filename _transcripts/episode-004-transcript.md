@@ -36,6 +36,42 @@ The host reflects on how his experiences in both comedy and the porn industry sh
 ## 10. Closing Thoughts and Future Plans (<a href="#01-07-05">01:07:05</a>)
 The podcast wraps up with a teaser for the next part of the conversation, hinting at more stories and insights to come.
 
+---
+
+# Problematic Sections
+
+## 1. Working in the Adult Industry (<a href="#00-05-37">00:05:37</a>)
+Grading: 😱😱
+Why it's problematic: Explicit discussion of working in the porn industry, which may trigger YouTube’s sensitive content restrictions or be inappropriate for some audiences.
+Timestamps: 00:05:37 - 00:22:38
+
+## 2. Porn Conventions and Industry Insights (<a href="#00-53-01">00:53:01</a>)
+Grading: 😱😱😱
+Why it's problematic: Talks about the porn industry in detail, including attending conventions and working with adult content companies, which may lead to demonetization or restriction.
+Timestamps: 00:53:01 - 00:59:02
+
+## 3. Discussion of Rape Fantasies in Porn (<a href="#00-05-44">00:05:44</a>)
+Grading: 😱😱😱😱😱
+Why it's problematic: Sensitive discussion of rape fantasies in pornography, which could be flagged as inappropriate or disturbing content. YouTube may classify this as violating their policies on explicit sexual discussions.
+Timestamps: 00:05:44 - 00:09:10
+
+## 4. Comparison Between Comedy and Nazi War Strategy (<a href="#00-07-02">00:07:02</a>)
+Grading: 😱😱😱😱
+Why it's problematic: The comparison of testing comedy material to Nazi military strategy and the mention of Franco’s dictatorship may be flagged for sensitive historical content.
+Timestamps: 00:07:02 - 00:07:46
+
+## 5. Jokes About Underage Content in Adult Film Industry (<a href="#00-08-19">00:08:19</a>)
+Grading: 😱😱😱😱😱
+Why it's problematic: A joke about being asked for illegal content in a porn shop, even though it is framed humorously, could trigger YouTube’s automatic detection for discussing illegal or harmful material.
+Timestamps: 00:08:19 - 00:08:35
+
+## 6. Explicit Jokes About Watching Porn (<a href="#00-13-37">00:13:37</a>)
+Grading: 😱😱😱
+Why it's problematic: Extended discussion about porn consumption and habits, which could be classified as adult content and may limit monetization or distribution.
+Timestamps: 00:13:37 - 00:16:41
+
+---
+
 
 # Transcript
 

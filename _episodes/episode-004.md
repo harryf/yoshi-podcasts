@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: Episode 004 - Second episode with Yoshi and Christian
+title: Episode 004 - Comedy, Fringe, and the Adult Industry - A Wild Journey with Yoshi
 short_title: Second episode with Yoshi and Christian
 date: '2024-11-23'
 time: '09:58'
