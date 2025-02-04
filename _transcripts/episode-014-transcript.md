@@ -4,6 +4,145 @@ title: Episode 014 - Transcript
 permalink: "/transcripts/episode-014/"
 ---
 
+# Summary
+
+## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+Discussion starts with education opportunities for English speakers in Germany and casual conversation about travel plans.
+
+## 2. Starting the Recording (<a href="#00-01-49">00:01:49</a>)
+The hosts realize they are already being recorded and discuss repeat business in comedy.
+
+## 3. Ralphie May and Lana Turner (<a href="#00-03-22">00:03:22</a>)
+Talk about comedian Ralphie May, his ex-wife Lana Turner, and the awkwardness of friendships after a breakup.
+
+## 4. Toastmasters and Public Speaking (<a href="#00-05-05">00:05:05</a>)
+A humorous critique of Toastmasters and public speaking as a profession.
+
+## 5. Getting Started in Comedy (<a href="#00-06-07">00:06:07</a>)
+Discussion about taking a stand-up comedy class, early struggles, and influences.
+
+## 6. The Importance of Storytelling (<a href="#00-07-02">00:07:02</a>)
+How comedians need to make their lives interesting for an audience.
+
+## 7. First Comedy Shows and Jokes (<a href="#00-07-41">00:07:41</a>)
+Early experiences performing, including first gigs and joke ideas.
+
+## 8. Public Speaking as a Career (<a href="#00-10-19">00:10:19</a>)
+How motivational speakers make money despite lacking expertise in any field.
+
+## 9. Stand-up Comedy and the Business Side (<a href="#00-15-03">00:15:03</a>)
+Meeting Jim Norton and learning about the industry side of comedy.
+
+## 10. Handling Compliments and Audience Reactions (<a href="#00-18-20">00:18:20</a>)
+Why some comedians find compliments uncomfortable and audience engagement.
+
+## 11. The Changing Comedy Scene (<a href="#00-22-12">00:22:12</a>)
+How comedians come and go, either quitting or passing away.
+
+## 12. Working at a Pawn Shop (<a href="#00-25-20">00:25:20</a>)
+How financial struggles led to working in a pawn shop while doing comedy.
+
+## 13. Brody Stevens and Comedy Friends (<a href="#00-28-32">00:28:32</a>)
+Stories about Brody Stevens and the Seattle comedy scene.
+
+## 14. Humor and Handling Racism (<a href="#00-32-42">00:32:42</a>)
+A discussion on how comedians handle racism and satire.
+
+## 15. The Porn Industry and Comedy (<a href="#00-35-36">00:35:36</a>)
+Insights into working in the adult entertainment industry and humorous observations.
+
+## 16. Funny Movie Titles in the Porn Industry (<a href="#00-38-22">00:38:22</a>)
+How early porn films used puns and humor to market their movies.
+
+## 17. Moving to Los Angeles (<a href="#00-40-02">00:40:02</a>)
+Deciding to move to LA for comedy after working various jobs.
+
+---
+
+# Problematic Content Review
+
+## 1. Strong Language and Offensive Jokes (<a href="#00-05-05">00:05:05</a>)  
+**Sensitivity Rating:** 😱😱😱 (3/5)  
+**Why It Might Be a Problem:**  
+This section includes explicit language and derogatory terms when discussing Toastmasters and public speaking. It could be flagged for offensive content or hate speech if taken out of context.  
+**Start - End:** <a href="#00-05-05">00:05:05</a> - <a href="#00-05-26">00:05:26</a>  
+
+---
+
+## 2. Discussion of Divorce and Personal Attacks (<a href="#00-03-22">00:03:22</a>)  
+**Sensitivity Rating:** 😱😱 (2/5)  
+**Why It Might Be a Problem:**  
+The discussion about comedian Ralphie May’s ex-wife includes some strong personal opinions and judgments about divorce. While not explicitly against guidelines, it could be considered insensitive to those involved.  
+**Start - End:** <a href="#00-03-22">00:04:42</a>  
+
+---
+
+## 3. Jokes About Race and Stereotypes (<a href="#00-08-13">00:08:13</a>)  
+**Sensitivity Rating:** 😱😱😱😱 (4/5)  
+**Why It Might Be a Problem:**  
+This section contains jokes about Asian drivers and racial stereotypes, which could be considered offensive or flagged under YouTube’s hate speech policies. Even though it might be intended humorously, these topics are highly scrutinized.  
+**Start - End:** <a href="#00-08-13">00:08:39</a>  
+
+---
+
+## 4. Controversial Take on Public Speaking Careers (<a href="#00-10-19">00:10:19</a>)  
+**Sensitivity Rating:** 😱😱 (2/5)  
+**Why It Might Be a Problem:**  
+The hosts criticize the public speaking industry, calling some speakers frauds. While not inherently against YouTube’s policies, it could be seen as an attack on certain professions or individuals.  
+**Start - End:** <a href="#00-10-19">00:11:12</a>  
+
+---
+
+## 5. Reference to Hitler and Nazi-related Jokes (<a href="#00-14-01">00:14:01</a>)  
+**Sensitivity Rating:** 😱😱😱😱😱 (5/5)  
+**Why It Might Be a Problem:**  
+There’s a joke about Hitler being a good public speaker and references to Nazi-related humor. YouTube is extremely strict about this kind of content, even if intended satirically, as it can be flagged for hate speech or glorification of violent historical figures.  
+**Start - End:** <a href="#00-14-01">00:14:16</a>  
+
+---
+
+## 6. Dark Humor About Serial Killers (<a href="#00-13-24">00:13:24</a>)  
+**Sensitivity Rating:** 😱😱😱 (3/5)  
+**Why It Might Be a Problem:**  
+Discussion about the daughter of a serial killer making money from public speaking could be seen as insensitive or exploitative. While not outright against guidelines, it could lead to demonetization or content warnings.  
+**Start - End:** <a href="#00-13-24">00:13:52</a>  
+
+---
+
+## 7. Jokes Involving the Adult Entertainment Industry (<a href="#00-35-36">00:35:36</a>)  
+**Sensitivity Rating:** 😱😱😱😱 (4/5)  
+**Why It Might Be a Problem:**  
+There is an extended discussion about working in the porn industry, including references to adult film stars and explicit jokes. YouTube’s policies on sexual content are strict, and this section could be flagged or demonetized.  
+**Start - End:** <a href="#00-36-20">00:38:22</a>  
+
+---
+
+## 8. Potentially Insensitive Commentary on Race and Racism (<a href="#00-32-42">00:32:42</a>)  
+**Sensitivity Rating:** 😱😱😱 (3/5)  
+**Why It Might Be a Problem:**  
+A discussion about handling racism with humor, including interactions with a self-proclaimed racist talk show, might be seen as controversial or insensitive. While it appears to be a satirical take, the content could be flagged.  
+**Start - End:** <a href="#00-32-42">00:33:41</a>  
+
+---
+
+## 9. Critique of Modern Activism and "Humorless" People (<a href="#00-33-24">00:33:24</a>)  
+**Sensitivity Rating:** 😱😱 (2/5)  
+**Why It Might Be a Problem:**  
+The discussion criticizes certain political movements for being too serious and humorless. While not against guidelines, this could trigger controversy or negative reactions from some audiences.  
+**Start - End:** <a href="#00-33-59">00:34:46</a>  
+
+---
+
+## 10. Porn Industry Wordplay and Puns (<a href="#00-38-22">00:38:22</a>)  
+**Sensitivity Rating:** 😱😱😱 (3/5)  
+**Why It Might Be a Problem:**  
+While mostly humorous, this section contains numerous explicit puns and references to adult films, which could lead to demonetization or limited reach on YouTube.  
+**Start - End:** <a href="#00-39-55">00:40-02</a>  
+
+
+---
+
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  like Germany is free if you're a native English speaker going to school because

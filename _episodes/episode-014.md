@@ -1,12 +1,12 @@
 ---
 layout: episode
-title: Episode 014 - Eighth episode with Yoshi, Christian and Harry
+title: Episode 014 - From Pawn Shops to Punchlines - A Comedian’s Journey
 short_title: Eighth episode with Yoshi, Christian and Harry
 date: '2024-12-01'
 time: '17:04'
 duration: 1h6m27s
 permalink: "/episodes/episode-014/"
-description: Eighth episode with Yoshi, Christian and Harry
+description: In this episode, Yoshi, Christian and Harry dive into the realities of stand-up comedy, from awkward first performances and industry struggles to unexpected detours in pawn shops and the adult entertainment industry.
 video_files:
 - file_name: C0056.mp4
   description: Full room camera - Camcorder
@@ -149,4 +149,6 @@ audio_files:
 transcript_file: episode-014-transcript.md
 ---
 Eighth episode with Yoshi, Christian and Harry
+
+This episode explores the unpredictable journey of a stand-up comedian, covering everything from the awkwardness of early gigs to the business side of comedy and the financial struggles that come with pursuing a career in entertainment. The hosts discuss public speaking, the psychology of receiving compliments, and the evolution of stand-up scenes in different cities. Along the way, they share hilarious insights into working odd jobs, encounters with legendary comics like Brody Stevens and Jim Norton, and the unexpectedly humorous side of the adult entertainment industry. It's a raw, funny, and eye-opening look at the sacrifices and strange turns that come with chasing the comedy dream.
 
