@@ -1,3 +1,4 @@
+---
 layout: transcript
 title: Episode 012 - Transcript
 permalink: "/transcripts/episode-012/"
