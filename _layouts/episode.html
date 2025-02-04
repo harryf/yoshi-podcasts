@@ -5,7 +5,7 @@ layout: default
 <div class="episodes-list">
   <header class="episode-header">
     <h1>{{ page.title }}</h1>
-    <a href="{{ page.permalink | replace: 'episodes', 'transcripts' | relative_url }}" class="transcript-link">View Transcript</a>
+    <a href="{{ page.permalink | replace: 'episodes', 'transcripts' | relative_url }}" class="transcript-button">📄 View Transcript</a>
     
     <!-- Key Episode Metadata -->
     {% assign video = page.video_files | first %}
@@ -225,6 +225,24 @@ layout: default
 <div class="toast-container"></div>
 
 <style>
+.transcript-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    margin: 1rem 0;
+    transition: background-color 0.2s ease;
+}
+
+.transcript-button:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+    color: white;
+}
+
 .episode-metadata {
   margin: 1rem 0;
 }
