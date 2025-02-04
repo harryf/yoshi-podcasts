@@ -30,6 +30,12 @@ title: Yoshi Podcast Episodes
           <i class="fas fa-hdd"></i>
           {{ video.metadata.file_size }}
         </span>
+        <span class="metadata-item" title="View Transcript">
+          <a href="{{ episode.url | replace: 'episodes', 'transcripts' | relative_url }}">
+            <i class="fas fa-file-alt"></i>
+            Transcript
+          </a>
+        </span>
       </div>
       {% endif %}
       
