@@ -38,7 +38,7 @@ The speaker marvels at the level of creativity and imagination on display at the
 
 ---
 
-# Content Warnings for Episode 003
+# Problematic Content Review
 
 ## 1. Potentially Offensive Stereotypes (<a href="#00-02-31">00:02:31</a>)
 **Sensitivity: 😱😱**  

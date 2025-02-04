@@ -46,7 +46,7 @@ Comparing the work ethic, interests, and ambitions of different generations, inc
 
 ---
 
-# Content Sensitivity Review
+# Problematic Content Review
 
 Below is a list of segments that may be problematic for YouTube’s guidelines or sensitive to listeners. Each section is rated for sensitivity using 😱 emojis (1-5 scale).
 

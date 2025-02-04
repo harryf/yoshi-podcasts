@@ -73,7 +73,7 @@ permalink: "/transcripts/episode-005/"
 
 ---
 
-# Sensitive Content Warnings
+# Problematic Content Review
 
 ## Yoshi’s Comedy and Adult Industry Background (<a href="#00-03-47">00:03:47</a>)
 **Sensitivity:** 😱😱😱  

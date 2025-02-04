@@ -74,7 +74,7 @@ The podcast wraps up with plans for a future recording, focusing on the speaker�
 
 ---
 
-# Potentially Problematic Content in Episode 002
+# Problematic Content Review
 
 ## 1. Comedy Show Title Controversy (<a href="#00-05-24">00:05:24</a>) 😱😱😱😱
 - **Issue:** A comedy show titled "Rape" is mentioned, and the discussion includes how it is perceived in different cultures.

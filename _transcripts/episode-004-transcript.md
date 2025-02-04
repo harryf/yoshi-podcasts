@@ -38,7 +38,7 @@ The podcast wraps up with a teaser for the next part of the conversation, hintin
 
 ---
 
-# Problematic Sections
+# Problematic Content Review
 
 ## 1. Working in the Adult Industry (<a href="#00-05-37">00:05:37</a>)
 Grading: 😱😱

@@ -52,7 +52,7 @@ A reflection on whether traditional success leads to happiness and how alternati
 
 ---
 
-# Content Warnings
+# Problematic Content Review
 
 ## **1. Discussion of Marc Dutroux and Elite Abuse** (<a href="#00-00-00">00:00:00</a>)  
 **🫣 Sensitivity Level: 😱😱😱 (3/5)**  

@@ -62,7 +62,7 @@ Final reflections on the episode, recurring themes, and potential future topics 
 
 ---
 
-# Potentially Problematic Content in Podcast Episode 001
+# Problematic Content Review
 
 ## 1. Discussion of the Adult Film Industry (<a href="#00-50-02">00:50:02</a>)
 ### Sensitivity: 😱😱😱 (3/5)

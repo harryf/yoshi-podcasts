@@ -49,7 +49,7 @@ Debate over different James Bond actors, how the franchise has evolved, and the 
 
 ---
 
-# Problematic Sections in Episode 006
+# Problematic Content Review
 
 ## **Use of Derogatory Language Toward Women** (<a href="#00-00-06">00:00:06</a>)
 **Sensitivity Level:** 😱😱😱😱😱  
