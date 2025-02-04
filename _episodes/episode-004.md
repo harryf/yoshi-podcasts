@@ -6,7 +6,7 @@ date: '2024-11-23'
 time: '09:58'
 duration: 1h7m16s
 permalink: "/episodes/episode-004/"
-description: Second episode with Yoshi and Christian
+description: Yoshi and Christian dive into the psychology of the adult film industry, dark humor in stand-up, and the art of pushing boundaries on stage.
 video_files:
 - file_name: IMG_1438.MOV
   description: Full Room camera (Christian's iPhone)
@@ -85,4 +85,4 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-004-transcript.md
 ---
-Second episode with Yoshi and Christian
+Second episode with Yoshi and Christian. The episode Yoshi talks about his experiences in the adult film industry, stand-up comedy, and his time at the Edinburgh Fringe. Yoshi shares insights on porn consumer psychology, his past as a DVD producer, and how working in the industry desensitized him. He also discusses the nuances of performing taboo material, his Fringe show about adult content, and his unique perspective on human desires, storytelling, and the intersection of sex and money in society.
