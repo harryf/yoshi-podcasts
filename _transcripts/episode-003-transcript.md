@@ -36,6 +36,27 @@ The speaker opens up about the emotional impact of their father’s death and ho
 ## 10. Creativity and Imagination at the Fringe (<a href="#00-11-34">00:11:34</a>)
 The speaker marvels at the level of creativity and imagination on display at the Edinburgh Fringe Festival, describing it as a revelation. They highlight the diversity of performances and how it expanded their own artistic horizons.
 
+---
+
+# Content Warnings for Episode 003
+
+## 1. Potentially Offensive Stereotypes (<a href="#00-02-31">00:02:31</a>)
+**Sensitivity: 😱😱**  
+- **Why it might be a problem:** The speaker makes a joke comparing being a gay actor to an "Asian engineer" or an "Asian pervert," implying redundancy. While intended humorously, this could be perceived as perpetuating stereotypes.  
+- **Timestamps:** 00:02:31 - 00:02:38  
+
+## 2. Use of the Word "Rapey" in Comedy Context (<a href="#00-09-42">00:09:42</a>)
+**Sensitivity: 😱😱😱**  
+- **Why it might be a problem:** The speaker discusses disliking aggressive comedy styles and uses the term "rapey" to describe certain on-stage behavior. The term is highly sensitive and could be flagged by YouTube’s content moderation or trigger negative reactions from listeners.  
+- **Timestamps:** 00:09:42 - 00:09:50  
+
+## 3. Discussion of a Shocking Internet Video (<a href="#00-11-34">00:11:34</a>)
+**Sensitivity: 😱😱😱😱**  
+- **Why it might be a problem:** A reference is made to *Two Girls, One Cup*, a highly infamous and disturbing internet video. Even without explicit description, mentioning it could be flagged for violating community guidelines.  
+- **Timestamps:** 00:11:34 - 00:11:37  
+
+---
+
 # Transcript
 
 [<a id="00-00-00">00:00:00</a>]  [ Silence ]
