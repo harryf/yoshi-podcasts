@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: Episode 006 - Modern Masculinity, Social Shifts, and the Digital Age: A Raw and Unfiltered Conversation
+title: Episode 006 - Modern Masculinity, Social Shifts, and the Digital Age - A Raw and Unfiltered Conversation
 short_title: Second episode with Yoshi, Christian and Harry
 date: '2024-11-24'
 time: '11:31'
