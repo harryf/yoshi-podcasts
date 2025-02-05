@@ -14,16 +14,12 @@ fi
 # Update and install necessary dependencies
 echo "🔄 Updating Homebrew and installing dependencies..."
 brew update
-brew install cmake libomp git ccache ffmpeg ruby python@3.11
+brew install cmake libomp git ccache ffmpeg ruby python3
 
 # Install Ruby dependencies
 echo "💎 Installing Ruby and Jekyll dependencies..."
 gem install bundler
 bundle install
-
-# Install Python dependencies
-echo "🐍 Installing Python dependencies..."
-pip3 install pydub
 
 # Clone whisper.cpp if it doesn't already exist
 WHISPER_DIR="whisper.cpp"
@@ -46,8 +42,7 @@ cmake --build build --config Release
 
 # Verify ggml-metal.metal exists (needed for Metal acceleration)
 if [ ! -f "ggml-metal.metal" ]; then
-    echo "❌ ggml-metal.metal not found. Build may be incomplete."
-    exit 1
+    echo "⚠️  Warning: ggml-metal.metal not found. Metal acceleration may not be available."
 else
     echo "✅ Metal backend configured correctly."
 fi

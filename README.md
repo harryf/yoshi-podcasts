@@ -1,51 +1,46 @@
 # Yoshi Podcasts
 
-A Jekyll-based site for cataloging and viewing podcast/audio/video files along with their transcriptions. Features powerful search capabilities powered by Algolia.
-
-## Features
-
-- Episode catalog with metadata
-- Support for multiple video and audio files per episode
-- Transcript viewing with timestamps
-- Direct file access (when mounted)
-- Responsive design
-- Full-text search powered by Algolia
-- Automatic audio extraction and transcription
+A Jekyll-based site for cataloging and viewing podcast/audio/video files along with their transcriptions, for the purpose of planning the editing process. Uses transcription with [whisper.cpp](https://github.com/openai/whisper) and search with [Algolia](https://www.algolia.com/).
 
 ## Prerequisites
 
 Before starting, you'll need:
 
-1. A Mac computer (this guide is for macOS)
-2. Internet connection
-3. Basic familiarity with using the Terminal
-4. An Algolia account for search functionality (free tier available)
+1. A Mac ideally with an M1/M2 chip for faster transcription. (note you could fairly easily switch this to run on Linux)
+2. Basic familiarity with using the Terminal
+3. An Algolia account for search functionality (free tier available - all that's needed for low search volumes)
 
 ## Initial Setup
 
-1. Open Terminal on your Mac
+1. Open Terminal
 
 2. Install Homebrew (if not already installed):
    ```bash
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ```
 
-3. Clone this repository:
+3. Install Git:
+   ```bash
+   brew install git
+   ```
+
+4. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/yoshi-podcasts.git
    cd yoshi-podcasts
    ```
 
-4. Run the setup script:
+5. Run the setup script:
    ```bash
    chmod +x setup_osx.sh
    ./setup_osx.sh
    ```
-   This will install all necessary dependencies including:
-   - Ruby and Jekyll
-   - Python and required packages
-   - FFmpeg for audio processing
-   - Whisper.cpp for transcription
+
+This will install all necessary dependencies including:
+- Ruby and Jekyll
+- Python and required packages
+- FFmpeg for audio processing
+- Whisper.cpp for transcription
 
 5. Configure Algolia Search:
    - Sign up for a free Algolia account at https://www.algolia.com/
