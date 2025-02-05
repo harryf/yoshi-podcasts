@@ -336,6 +336,7 @@ This will generate a transcript .srt file in the same directory as the audio fil
 
 #### Prompt for Summary
 
+   ```
    The uploaded file is the transcript from a podcast. I want you to give me a summary of the major topics discussed as a list with time at which they start in markdown format. The timestamps you use in the summary should be links like <a href="#00-00-00">00:00:00</a> to link to lines the file
 
    Each major topic should be a title like this;
@@ -345,16 +346,20 @@ This will generate a transcript .srt file in the same directory as the audio fil
    Followed by a line describing that part
 
    The output must be in markdown that I can copy and paste
+   ```
 
 #### Prompt for Title and One-paragraph summary
 
+   ```
    Now can you give me the following;
    - a title for the episode
    - a 1 sentence summary of the episode
    - a 1 paragraph summary of the episode
+   ```
 
 #### Prompt for YouTube Content Review
 
+   ```
    Looking at the transcript I uploaded, can you give me a list of all the parts of the episode that might be problematic for YouTubes guidelines or be offensive to listeners.
 
    For each part of the transcript where you discover issues, I want you to give me the following;
@@ -367,6 +372,7 @@ This will generate a transcript .srt file in the same directory as the audio fil
    I want the output in markdown for a jekyll website so I can easily find all the problematic parts
 
    I need to be able to copy and paste the raw markdown
+   ```
 
 ### 7. AI Analysis & Search Integration
 - Example Custom GPT for Podcast Analysis e.g. [Yoshi GPT](https://chatgpt.com/g/g-67a26cb91b28819181e052f64401f295-yoshi-podcast-gpt)
