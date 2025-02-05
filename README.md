@@ -383,7 +383,32 @@ This will generate a transcript .srt file in the same directory as the audio fil
 - What locations are discussed?
 - What topics are covered?
 - Generate a narrative summary.
+### 8. Publishing to GitHub Pages
 
+To host this site on GitHub Pages:
 
+1. Create a new repository on GitHub
 
+2. Update your local repository's remote:
+   ```bash
+   git remote set-url origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git branch -M main
+   git push -u origin main
+   ```
 
+3. Enable GitHub Pages:
+   - Go to your repository's Settings
+   - Navigate to Pages section
+   - Under "Source", select "Deploy from a branch"
+   - Choose "main" branch and "/root" folder
+   - Save the changes
+
+Once deployed, your site will be available at:
+```
+https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+```
+
+For more information, see:
+- [Creating a GitHub repository](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+- [GitHub Pages documentation](https://docs.github.com/en/pages)
+- [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
