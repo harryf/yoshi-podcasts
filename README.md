@@ -222,10 +222,21 @@ This ensures that only the essential source files are tracked in Git, while buil
    ```
 
 3. Index your content:
+After setting up your Algolia account and configuring the API keys in `_config_local.yml`, you'll need to index your content. This process scans your site content and pushes it to Algolia's search index.
+
+Never commit API keys with write access to version control - that's why we use `_config_local.yml` which is in `.gitignore`.
+
+a. Build the site using local config:
    ```bash
-   # Use your admin API key for indexing
-   ALGOLIA_API_KEY=your_admin_api_key bundle exec jekyll algolia
+   JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_local.yml
    ```
+
+b. Push indexed data to Algolia:
+   ```bash
+   JEKYLL_ENV=production bundle exec jekyll algolia --config _config.yml,_config_local.yml
+   ```
+
+You'll need to rerun these commands whenever you update content that should be searchable.
 
 4. Automatic indexing (optional):
    - Set up a GitHub Action or CI/CD pipeline
@@ -367,21 +378,6 @@ This will generate a transcript .srt file in the same directory as the audio fil
 - What topics are covered?
 - Generate a narrative summary.
 
-#### Algolia Search Setup
 
-After setting up your Algolia account and configuring the API keys in `_config_local.yml`, you'll need to index your content. This process scans your site content and pushes it to Algolia's search index.
 
-Never commit API keys with write access to version control - that's why we use `_config_local.yml` which is in `.gitignore`.
-
-1. Build the site using local config:
-   ```bash
-   JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_local.yml
-   ```
-
-2. Push indexed data to Algolia:
-   ```bash
-   JEKYLL_ENV=production bundle exec jekyll algolia --config _config.yml,_config_local.yml
-   ```
-
-You'll need to rerun these commands whenever you update content that should be searchable.
 
