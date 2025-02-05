@@ -37,17 +37,17 @@ Before starting, you'll need:
    ```
 
 This will install all necessary dependencies including:
-- Ruby and Jekyll
-- Python and required packages
+- Ruby and Jekyll to run the website
+- Python for command line tools
 - FFmpeg for audio processing
-- Whisper.cpp for transcription
+- Whisper.cpp (and dependencies) for transcription plus a model (this may take a while)
 
-5. Configure Algolia Search:
-   - Sign up for a free Algolia account at https://www.algolia.com/
+6. Configure Algolia Search:
+   - Sign up for a free Algolia account at https://www.algolia.com/ - you can just login with Google
    - Create a new application
-   - Create a new index called 'yoshi_podcasts'
+   - Create a new index e.g. called 'yoshi_podcasts'
    - Get your API keys from the Algolia dashboard
-   - Create a `.env` file in the root directory with:
+   - Create a `.env` file in the root directory of this project with:
      ```
      ALGOLIA_API_KEY=your_admin_api_key
      ALGOLIA_APPLICATION_ID=your_application_id
@@ -72,34 +72,59 @@ This will install all necessary dependencies including:
    ```bash
    touch _episodes/episode-XXX.md
    ```
+Note you may want to copy the template file from `_template/episode-XXX.md` as a starting point
 
-2. Add the required front matter:
+2. Editing the episode-XXX.md files.
+
+The structure of the episode-XXX.md files is as follows:
+
    ```yaml
    ---
    layout: episode
-   title: "Episode Title"
-   date: YYYY-MM-DD
-   episode_number: XXX
-   duration: "HH:MM:SS"
-   file_url: "/path/to/audio/file.mp3"
-   transcript_file: "episode-XXX-transcript"
+   title: Episode XXX - Another Epic Podcast Episode
+   short_title: A short title - this is just for your notes
+   date: '2024-11-23' # updated automatically by update_media_metadata.rb from the first video file list
+   time: '13:35' # updated automatically by update_media_metadata.rb from the first video file list
+   duration: 1h6m34s # updated automatically by update_media_metadata.rb from the first video file list
+   permalink: "/episodes/episode-XXX/" # permalink for the episode page
+   description: One sentence description for the home page
+   video_files:
+      - file_name: C0001.mp4
+        description: Full room camera - Camcorder # description for the episode page
+        file_path: "/Volumes/EXTDRIVE/Podcast/Camcorder/C0001.mp4" # replace with actual path
+      - file_name: IMG_0001.MOV
+        description: Person One (iPhone 1)
+        file_path: "/Volumes/EXTDRIVE/Podcast/IPhone1/IMG_0001.mp4"
+      - file_name: IMG_0002.MOV
+        description: Person Two (iPhone 2)
+        file_path: "/Volumes/EXTDRIVE/Podcast/IPhone2/IMG_0002.mp4"
+   audio_files:
+      - file_name: ZOOM0001_Tr1.WAV
+        mic_owner: Person One
+        file_path: "/Volumes/EXTDRIVE/Podcast/Zoom/ZOOM0001/ZOOM0001_Tr1.WAV"
+      - file_name: ZOOM0001_Tr2.WAV
+        mic_owner: Person Two
+        file_path: "/Volumes/EXTDRIVE/Podcast/Zoom/ZOOM0001/ZOOM0001_Tr2.WAV"
    ---
+   Long description of episode - this appears at the bottom of the episode page
    ```
 
-3. If you have a video file and want to extract audio:
+3. If you have video files and want to extract all the audios to the same directory:
    ```bash
-   ./scripts/extract_audio.sh /path/to/video/directory
+   ./scripts/extract_audio.sh -d /path/to/video/directory
    ```
 
 4. To generate a transcript:
    ```bash
-   ./scripts/convert_to_wav16.py /path/to/audio.mp3
-   ./scripts/transcribe_wav.sh /path/to/audio.wav
+   ./scripts/convert_to_wav16.py -i /path/to/audio.mp3 -o /path/to/audio.wav
+   ./scripts/transcribe_wav.sh /path/to/audio.wav /path/to/transcript
    ```
+Note that transcribe_wav.sh automatically adds the .srt extension to the output file
+
 
 5. Convert the SRT transcript to markdown:
    ```bash
-   ./scripts/srt_to_markdown.py /path/to/transcript.srt
+   ./scripts/srt_to_markdown.py -i /path/to/transcript.srt -m _transcripts/episode-XXX.md
    ```
 
 ## Adding New Episodes
@@ -109,27 +134,52 @@ This will install all necessary dependencies including:
 3. Add the corresponding transcript in the `_transcripts` directory if available
 4. Update the file paths to point to your media files
 
+Note that when the website is running locally, if you look at an episode page the folder and file icons give you a quick way to copy the path to the file to your clipboard for running local scripts.
+
 ## File Structure
 
 ```
 .
-├── _config.yml           # Site configuration
-├── _episodes/            # Episode markdown files
-├── _layouts/            # HTML layouts
-├── _transcripts/        # Episode transcripts
-├── assets/             # CSS and other assets
+├── .gitignore         # Specifies which files Git should ignore
+├── _config.yml        # Main Jekyll configuration
+├── _config_local.yml  # Local Jekyll configuration (gitignored)
+├── _episodes/         # Episode markdown files
+├── _layouts/         # HTML layouts for Jekyll
+├── _plugins/         # Jekyll plugins
+├── _template/        # Template files for new episodes
+│   └── episode-XXX.md # Base template for new episodes
+├── _transcripts/     # Episode transcripts
+├── assets/          # CSS and other assets
 │   └── css/
 │       └── style.css
-├── scripts/            # Utility scripts
+├── media_server.py   # Local media file server
+├── scripts/         # Utility scripts
 │   ├── convert_to_wav16.py    # Convert audio to WAV format
 │   ├── extract_audio.sh       # Extract audio from video
 │   ├── srt_to_markdown.py     # Convert SRT to markdown
 │   ├── transcribe_wav.sh      # Generate transcripts
 │   └── update_media_metadata.rb # Update media metadata
-├── index.html          # Homepage
-├── setup_osx.sh       # Setup script
-└── README.md          # This file
+├── whisper.cpp/      # Whisper transcription engine (gitignored)
+├── index.html       # Homepage
+├── narrative.html   # Narrative view of episodes
+├── people.html      # People mentioned in episodes
+├── places.html      # Places mentioned in episodes
+├── search.html      # Search interface
+├── topics.html      # Topics covered in episodes
+├── setup_osx.sh    # Setup script
+└── README.md       # This file
 ```
+
+### Git Ignored Files
+The following files and directories are excluded from version control:
+- `whisper.cpp/`: The transcription engine (downloaded during setup)
+- `_site/`: Jekyll's generated site
+- `_config_local.yml`: Local configuration overrides
+- Various macOS system files (`.DS_Store`, etc.)
+- Editor files (`.vscode/`, `.idea/`, etc.)
+- Build and cache files (`.jekyll-cache/`, `.sass-cache/`, etc.)
+
+This ensures that only the essential source files are tracked in Git, while build artifacts, local configurations, and system-specific files are kept out of the repository.
 
 ## Troubleshooting
 
@@ -220,6 +270,7 @@ This document outlines the step-by-step **WORKFLOW** for building the **Yoshi Po
 To preview episodes locally:
    ```sh
    bundle exec jekyll serve
+   ```
 
 Use this to navigate the website on http://localhost:4000, check episode pages, and copy filenames for further processing.
 
@@ -265,17 +316,50 @@ This will generate a transcript .srt file in the same directory as the audio fil
 ### 6. Generating Episode Summaries & Titles
 - Upload the transcript to ChatGPT.
 - Use prompts to generate:
+-- Summary of topics
 -- Episode title
 -- One-sentence summary
 -- One-paragraph summary
+-- YouTube Content Review
 - Insert this information at the top of the episode markdown file.
 
-YouTube Content Review
-- Ask ChatGPT to analyze sensitive content based on YouTube guidelines.
-- Store the review results in the episode metadata.
+#### Prompt for Summary
+
+   The uploaded file is the transcript from a podcast. I want you to give me a summary of the major topics discussed as a list with time at which they start in markdown format. The timestamps you use in the summary should be links like <a href="#00-00-00">00:00:00</a> to link to lines the file
+
+   Each major topic should be a title like this;
+
+   ## 1. Introduction and Setup (<a href="#00-00-00">00:00:00</a>)
+
+   Followed by a line describing that part
+
+   The output must be in markdown that I can copy and paste
+
+#### Prompt for Title and One-paragraph summary
+
+   Now can you give me the following;
+   - a title for the episode
+   - a 1 sentence summary of the episode
+   - a 1 paragraph summary of the episode
+
+#### Prompt for YouTube Content Review
+
+   Looking at the transcript I uploaded, can you give me a list of all the parts of the episode that might be problematic for YouTubes guidelines or be offensive to listeners.
+
+   For each part of the transcript where you discover issues, I want you to give me the following;
+
+   - A short summary of the topic - this should be formatted like ## <Summary of Topic> (<a href="#00-00-00">00:00:00</a>) - replace <Summary of Topic> with a title for this topic
+   - A grading from 1 to 5 in terms of how sensitive it is, using the 😱 emoji to indicate how shocking it is (1 to 5 five of these emojis)
+   - A short explanation of why it might be a problem
+   - The start and end timestamps for the bit (so it's possible to edit it out of the podcast video)
+
+   I want the output in markdown for a jekyll website so I can easily find all the problematic parts
+
+   I need to be able to copy and paste the raw markdown
 
 ### 7. AI Analysis & Search Integration
-- Custom GPT for Podcast Analysis e.g. [Yoshi GPT](https://chatgpt.com/g/g-67a26cb91b28819181e052f64401f295-yoshi-podcast-gpt)
+- Example Custom GPT for Podcast Analysis e.g. [Yoshi GPT](https://chatgpt.com/g/g-67a26cb91b28819181e052f64401f295-yoshi-podcast-gpt)
+
 - Upload all transcript files.
 - Ask questions like:
 - Who are all the people mentioned?
@@ -284,9 +368,20 @@ YouTube Content Review
 - Generate a narrative summary.
 
 #### Algolia Search Setup
-- Create an Algolia account (Sign in with Google).
-- Set up API access:
-- Go to API Access > Choose a programming language (Ruby).
-- Upload any test file to generate API keys.
-- Store the generated API keys in your environment settings (not included in the repo).
+
+After setting up your Algolia account and configuring the API keys in `_config_local.yml`, you'll need to index your content. This process scans your site content and pushes it to Algolia's search index.
+
+Never commit API keys with write access to version control - that's why we use `_config_local.yml` which is in `.gitignore`.
+
+1. Build the site using local config:
+   ```bash
+   JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_local.yml
+   ```
+
+2. Push indexed data to Algolia:
+   ```bash
+   JEKYLL_ENV=production bundle exec jekyll algolia --config _config.yml,_config_local.yml
+   ```
+
+You'll need to rerun these commands whenever you update content that should be searchable.
 
