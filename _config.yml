@@ -23,6 +23,9 @@ collections:
     permalink: /episodes/:title/
   transcripts:
     output: true
+  edits:
+    output: true
+    permalink: /edits/:title/
 
 # Exclude files from processing
 exclude:

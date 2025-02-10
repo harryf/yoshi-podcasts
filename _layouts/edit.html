@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="transcript">
+  <h1>{{ page.title }}</h1>
+  <p class="edit-description">{{ page.description }}</p>
+  <a href="{{ '/edits' | relative_url }}" class="back-link">← Back to Edits</a>
+  {{ content }}
+</div>
+
+<style>
+.edit-description {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 2em;
+}
+</style>
