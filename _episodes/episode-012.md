@@ -32,7 +32,7 @@ video_files:
       sample_rate: '48000'
       bit_depth: 16
 - file_name: IMG_1463.MOV
-  description: Yoshi (Christian's iPhone)
+  description: Yoshi (Christian's iPhone) ‼️
   file_path: "/Volumes/T7/Yoshi Podcast/Christians iPhone/IMG_1463.MOV"
   metadata:
     file_size: 12.72GB
@@ -148,6 +148,8 @@ audio_files:
       bit_depth: 0
 transcript_file: episode-012-transcript.md
 ---
+> ‼️ /Volumes/T7/Yoshi Podcast/Christians iPhone/IMG_1463.MOV is from a different episode
+
 Sixth episode with Yoshi, Christian and Harry.
 
 In this episode, the Yoshi, Christian and Harry explore a mix of dark humor and deep discussions, covering topics such as shocking personal experiences, childhood trauma, and cultural observations. They delve into economic collapses like Detroit’s downfall, the globalization of software development, and the quality of programmers worldwide. The conversation shifts to the world of standup comedy, debating whether it’s an art or a science, the role of social media in shaping comedic careers, and how data-driven strategies can influence success. The episode closes with reflections on the evolution of audiences and the broader implications of technology and culture on creative industries.
