@@ -84,3 +84,71 @@ description: "A shocking, fast-paced, and darkly funny episode that keeps jumpin
 1. 🎥 **C0037.mp4** ([Episode 5]({{ site.baseurl }}{% link _episodes/episode-005.md %}), [Episode 12]({{ site.baseurl }}{% link _episodes/episode-012.md %}), [Episode 9]({{ site.baseurl }}{% link _episodes/episode-009.md %})) – Wide room cam footage.  
 2. 🎥 **Other Swiss show footage** – Cutaways for comedic proof-of-life moments.  
 3. 🎧 **ZOOM0028_Tr1.WAV ([Episode 5]({{ site.baseurl }}{% link _episodes/episode-005.md %}), [Episode 12]({{ site.baseurl }}{% link _episodes/episode-012.md %}), [Episode 2]({{ site.baseurl }}{% link _episodes/episode-002.md %}))** – Clean mic audio of Yoshi's stories.
+
+----
+
+# [The Actual Video of Episode 1](https://youtu.be/Gmw52DdyMo8)
+
+## Topics Discussed
+
+1. **DC Improv** (00:00:02 - 00:00:09)  
+   * Audience applause and show introduction.
+
+2. **Introducing Yoshi Obayashi** (00:00:15 - 00:00:31)  
+   * Yoshi's name and age are mentioned.
+   * Some audience reaction.
+
+3. **First Kidnapping by Yoshi’s Mother** (00:01:03 - 00:03:39)  
+   * Yoshi’s mother secretly moved him and his younger brother away.
+   * His father returned home to find everything gone.
+   * Discussion on cultural norms and disappearances in Japan.
+
+4. **Second Kidnapping & Move to the USA** (00:03:40 - 00:07:36)  
+   * Yoshi’s mother moved them to the U.S. without telling their father.
+   * His father took weeks to realize they were gone.
+   * Challenges of adjusting to life in a new country.
+
+5. **Childhood Incident: Attempted Robbery & Gun Use** (00:07:37 - 00:12:00)  
+   * Yoshi witnessed a robbery at his uncle’s store.
+   * As a child, he attempted to shoot the robber but missed.
+   * His aunt was mad that he didn’t hit the robber.
+
+6. **Family Struggles & Cultural Differences** (00:12:01 - 00:16:40)  
+   * Yoshi’s family’s financial struggles.
+   * His mother’s difficult marriage.
+   * Cultural expectations in Japan versus the U.S.
+
+7. **Returning to Japan & Reverse Culture Shock** (00:16:41 - 00:20:30)  
+   * Observations on how Japan changed over time.
+   * Differences in parenting styles.
+   * Independent children traveling alone in Japan.
+
+8. **Japanese Work Culture & Drinking Norms** (00:20:31 - 00:24:00)  
+   * Japanese corporate drinking culture.
+   * Yoshi’s father working in an insurance company.
+   * Traditional expectations for salarymen.
+
+9. **Life Before the Kidnappings** (00:24:01 - 00:29:59)  
+   * Daily life in Japan before being taken to the U.S.
+   * Exploring the city as a child.
+   * Doing errands for people in the neighborhood.
+
+10. **First Exposure to Pornography** (00:30:00 - 00:35:00)  
+   * Yoshi discovered adult magazines on his father’s bookshelf.
+   * He initially thought white people had stars on their genitals.
+   * Noticed affection in Western relationships, which he hadn’t seen in his own family.
+
+11. **Cultural Differences in Family Expressions of Love** (00:35:01 - 00:38:30)  
+   * Asian families showing less physical affection.
+   * Western media portraying more open expressions of love.
+   * Reflections on different cultural perspectives.
+
+12. **Comedy & Dark Humor in Family Trauma** (00:38:31 - 00:42:00)  
+   * Discussing how personal struggles shape comedy.
+   * Audience reactions to serious topics turned into humor.
+   * Yoshi’s unique perspective on his upbringing.
+
+13. **Final Thoughts & Reflections** (00:42:01 - end)  
+   * The impact of childhood experiences on Yoshi’s worldview.
+   * Comparing different upbringings and cultural expectations.
+   * Ending with reflections on moving forward.
